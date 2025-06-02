@@ -1,0 +1,3083 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240632" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>NGS results of adeno-associated virus specific to astrocyte cells</Title>
+					<Description>NGS technique was used to selectively screen AAV in astrocyte cells at the lesion site in a CNS disease animal model. The aim was to determine the ratio of AAV variants and identify the sites of amino acid mutations</Description>
+					<Grant GrantId="1711200838">
+						<Title>Development of Astrocyte Specific AAV-Based Gene Delivery Platforms for In Vivo Direct-Reprogramming</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-03-21</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-3-12</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-3-12</UserTerm>
+					<UserTerm term="KOBIC_release_date">2024-3-21</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-03-12">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Yonsei University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240671" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>NGS analysis of multi-drug resistance acquired strains of S. aureus</Title>
+					<Description>To make resistant S. aureus to various classes of antibiotics, spontaneous mutant raising was performed. Through this, four multidrug-resistant S. aureus strains were obtained, and mutations were confirmed through whole genome sequencing.</Description>
+					<Grant GrantId="1711120523">
+						<Title>Discovery and characterization of new roles of bacterial metabolic remodeling during MDR strain formation</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-06-20</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-03-20">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Sungkyunkwan University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240717" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Comprehensive Whole Genome Sequencing Reveals Origins of Mutational Signatures Associated with Aging and Temozolomide Chemotherapy</Title>
+					<Description>In a comprehensive study to decipher the multi-layered response to the chemotherapeutic agent temozolomide (TMZ), we analyzed 427 genomes and determined mutational patterns in a collection of ~40 isogenic DNA repair-deficient human TK6 lymphoblast cell lines. We demonstrate that the spontaneous mutational background is very similar to the aging-associated mutational signature SBS40 and mainly caused by polymerase zeta-mediated translesion synthesis (TLS). MSH2-/- mismatch repair knockout in conjunction with additional repair deficiencies uncovers cryptic mutational patterns. We report how distinct mutational signatures are induced by TMZ upon sequential inactivation of DNA repair pathways, mirroring the acquisition of chemotherapy resistance by glioblastomas. The most toxic adduct induced by TMZ, O6-meG, is directly repaired by the O6-methylguanine-DNA methyltransferase (MGMT). In MGMT-/- cells, mismatch repair (MMR) leads to cell death and limits mutagenesis. MMR deficiency results in TMZ resistance, allowing the accumulation of C&gt;T substitutions corresponding to signature SBS11. Under these conditions, N-alkylated bases, processed by base excision repair (BER), limit cell survival. Without BER, 3-meA is read through via error-prone TLS, causing T&gt;A substitutions but not affecting survival. Blocking BER after abasic site formation results in large deletions and TMZ hypersensitization. Our findings reveal potential vulnerabilities of TMZ-resistant tumors.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-05-13</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-05-13">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Ulsan National Institute of Science and Technology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240680" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Genome sequencing of Kluyveromyces marxianus var. marxianus KCTC 17555</Title>
+					<Description>Genome sequencing of the thermotolerant yeast, Kluyveromyces marxianus var. marxianus KCTC 17555.</Description>
+					<Grant GrantId="N/A">
+						<Title></Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-03-21</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-03-25">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240677" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Transcriptome sequencing of Kluyveromyces marxianus var. marxianus KCTC 17555</Title>
+					<Description>To provide RNA-seq raw data from Kluyveromyces marxianus var. marxianus KCTC 17555 grown under three different culture conditions (temperature and carbon source)</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-03-21</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-03-22">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240679" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Standardization and commercialization of micro-ventricular  organoid cardiomyopathy modeling platform</Title>
+					<Description>Standardization of micro-ventricular organoids and cardiomyopathy modeling platforms. Development of an ultra-dense/standardized microventricular organoid culture platform. Development of a standardized platform-based organoid culture technology for cardiomyopathy derived from reverse differentiated stem cells of cardiomyopathy. Development of technology for analyzing microventricular organoids and cardiomyopathy models based on computer imaging/deep learning</Description>
+					<Grant GrantId="1711153795">
+						<Title>Standardization and commercialization of micro-ventricular organoid cardiomyopathy modeling platform</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-03-25</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-03-25">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>NEXT&amp;BIO Inc.</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240685" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Novel Role of TAZ in macrophage golgi: Implications for tumor progression and inflammatory disease.</Title>
+					<Description>This research discovered a novel function of TAZ associated with the Golgi in macrophages, diverging from the conventional focus on YAP/TAZ function in tumor cells, thereby proposing a new molecular target for treating tumor progression and chronic inflammatory diseases.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-11-14</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-4-04</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-4-04</UserTerm>
+					<UserTerm term="KOBIC_release_date">2024-11-14</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-04-04">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Yonsei University, College of Meicine</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP241023" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Single cell analysis of Duchenne muscular dystrophy in human and mouse</Title>
+					<Description>This dataset is composed of 10X snRNA-seq of human and mouse DMD models.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-01-01</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-27">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Seoul National University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240691" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Production of Non-GM F1 hybrid rice and Chinese cabbage using CRISPR/Cas9 system</Title>
+					<Description>Through previous research, a number of new GMS-based genes that cause male sterility were discovered and their characteristics were identified. Using the CRISPR/Cas9 system, GM male sterility lines were produced with genetic mutations in these male sterility genes. We developed an innovative source technology to produce hybrids by crossing the obtained male-sterile maternal parent with the wild-type paternal parent, and to separate and select male-sterile maintenance parent seeds and non-GM hybrid seeds that can be immediately used in agricultural fields through fluorescence screening of the obtained seeds. (3 PCT patent applications). We plan to simultaneously conduct performance improvement research and prototype production based on the developed original technology. The target crops are rice, which is a fertile food crop, and Chinese cabbage, which is an F1 hybrid variety used in the market. We aim to finally establish and commercialize a creative NBT-based non-GM rice and cabbage hybrid (F1 hybrid) production technology using the CRISPR/Cas9 system. The goal is to prepare biorisk reports and enter evaluation screening by creating metadata and building a DB for research data on produced crops.</Description>
+					<Grant GrantId="1711137181">
+						<Title>Production of Non-GM F1 hybrid rice and Chinese cabbage using CRISPR/Cas9 system</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-04-08</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-04-08">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Kyung Hee University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240696" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>The effect of SARS-CoV-2 infection on Helicobacter pylori infected stomach</Title>
+					<Description>To investigate the effect of SARS-CoV-2 infection on the stomach, especially Helicobacter pylori (H. pylori) infected stomach, we used H. pylori mouse model followed by SARS-CoV-2 infection. Stomach tissues were collected at 7days post SARS-CoV-2 infection from mock infected group and SARS-CoV-2 infected group. In addition, either mock or SARS-CoV-2 was infected at 4weeks post H. pylori infection and stomach tissues were collected at 20weeks post H. pylori infection from each group.</Description>
+					<Grant GrantId="N/A">
+						<Title>Preclinical experiment and research on infectious diseases  to build infrastructure database</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-04-09</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-4-11</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-4-11</UserTerm>
+					<UserTerm term="KOBIC_release_date">2024-4-09</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-04-11">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Yonsei University College of Medicine</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240722" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Impaired BCAA catabolism in adipose tissues is causal to age-associated metabolic derangement</Title>
+					<Description>RNA-sequencing analysis of mature adipocytes from young and old wild-type mice and Crtc2 AKO mice.</Description>
+					<Grant GrantId="2019M3A9D5A01102794">
+						<Title>Establishment of a new pipeline for the aging phenotyping of genetically modified mice</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-05-16</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-5-16</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-5-16</UserTerm>
+					<UserTerm term="KOBIC_release_date">2024-5-16</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-05-16">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240723" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Aging GEM phenotype study (CRTC2 AKO adipocyte research)</Title>
+					<Description>This study reveals that the increase in CRTC2 in adipocytes during aging promotes cellular senescence, leading to adipose tissue dysfunction and aging-related chronic metabolic disorders. CRTC2 in adipocytes inhibits BCAA catabolism through decreased PPAR gamma expression, and the resulting mTORC1 activation induces cellular senescence and impairs mitochondrial homeostasis. Furthermore, increased SASP secretion from senescent adipocytes promotes adipocyte remodeling by inhibiting adipocyte precursor differentiation and regulating immune cells. In adipocyte-specific CRTC2 knockout mice, the activation of the BCAA-mTORC1 axis is limited, suppressing the development of aging-induced chronic metabolic disorders. These findings suggest that modulating CRTC2 or BCAA catabolism could be a potential strategy to attenuate the aging process.</Description>
+					<Grant GrantId="1711116126">
+						<Title>Establishment of a new pipeline for the aging phenotyping of genetically modified mice</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-05-17</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-05-17">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>POSTECH</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240729" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>RNA sequencing of HFD-fed mice eWAT</Title>
+					<Description>Sequencing data RNA extracted from epididymal white adipose tissue (eWAT) of male mice fed a high-fat diet consisting of 60% of total calories from fat for 8 weeks and mice fed a normal chow diet (normal control group).</Description>
+					<Grant GrantId="1711196731 ">
+						<Title>Establishment of Secondary Metabolic Phenotyping Analyses of IMPC Mouse Liver via Tissue-to-Cellular Level Observation</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-05-22</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-5-22</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-5-22</UserTerm>
+					<UserTerm term="KOBIC_release_date">2024-5-20</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-05-22">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Advanced Institute of Science and Technology (KAIST)</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240725" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>RNA sequencing of EtOH-fed mice liver</Title>
+					<Description>Sequencing data RNA extracted from liver tissue of male mice fed Lieber-DeCarli ethanol diet containing isocaloric maltose-dextrin (Pair) or 5% EtOH for 8 weeks.</Description>
+					<Grant GrantId="1711196731 ">
+						<Title>Establishment of Secondary Metabolic Phenotyping Analyses of IMPC Mouse Liver via Tissue-to-Cellular Level Observation</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-01-01</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-5-21</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-5-21</UserTerm>
+					<UserTerm term="KOBIC_release_date">2025-1-01</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus Musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-05-21">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Advanced Institute of Science and Technology (KAIST)</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240731" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Liver tissues of Thrap3 KO with RNA sequencing</Title>
+					<Description>RNA-seq was performed on two individual samples from liver NCD-fed wildtype and Thrap3 LKO mice. Total RNA was isolated using the RNeasy mini kit (Qiagen, Hilden, Germany) according to the manufacturer's instructions. A total amount of 1 microgram RNA per sample was used as input material for the RNA sample preparations. The quality and quantity of the total RNA were evaluated using an Agilent 2100 Bioanalyzer RNA kit (Agilent Technologies, Inc., Santa Clara, CA). Sequencing libraries were generated using an Illumina TruSeqStranded mRNA Sample Preparation kit (Illumina, Inc., San Diego, CA) following the manufacturer's recommendations. Library quality and size were assessed on the Agilent Bioanalyzer 2100 system (Agilent Technologies, Inc., Santa Clara, CA). The library preparations were sequenced on NextSeq500 sequencers (Illumina, Inc., San Diego, CA), and paired-end 75 bp plus single 8 bp index reads were generated. After quality filtering according to the Illumina pipeline, paired-end reads were mapped to the reference genome (mm10 assembly) using STAR aligner version 2.7.3a with default parameters. Differentially expressed genes (DEGs) were identified using DESeq2 1.30.0. Read counts for DESeq2 analysis were obtained using featureCounts v2.0.0. After eliminating absent and low features (zero or &lt;1CPM), the raw counts were normalized using DESeq2, followed by differential expression analysis. The KEGG enriched pathway was determined according to ErichR, the web-based software for gene set enrichment analysis.</Description>
+					<Grant GrantId="2016M3A9D5A01952411">
+						<Title>Korea Mouse Phenotyping Project</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-05-27</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-05-27">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>UNIST</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240734" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Development of Innovative-Target Antibacterials Leads</Title>
+					<Description>The aim of this project is to develop new antibacterial hits that target the physiological pathways crucial for virulence, antimicrobial resistance, and survival of the multi-drug resistant pathogens, which could mitigate the resistance emergence or the survival capability of the bacterial pathogens.</Description>
+					<Grant GrantId="1711201199">
+						<Title>Development of Innovative-Target Antibacterials Leads against Superbacteria</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-05-28</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-05-28">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>CHA University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240735" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Effects of calorie restriction in a high-dose folic acid-induced renal fibrosis model.</Title>
+					<Description>Dietary restriction is known to be effective in controlling various chronic conditions. In this study, mouse experiments were conducted to confirm the effects of dietary restriction in a high-dose folic acid-induced renal fibrosis model. Mice were subjected to high-dose folic acid to induce renal fibrosis, with one group under dietary restriction and another on a regular diet. Changes in fibrosis-related, inflammatory, and metabolic factors were observed in the kidneys. Through this study, we were able to determine the impact of dietary restriction in an environment conducive to renal disease induction.</Description>
+					<Grant GrantId="N/A">
+						<Title></Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-04-15</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-5-29</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-5-29</UserTerm>
+					<UserTerm term="KOBIC_release_date">2025-4-15</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-05-29">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>KRIBB</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240788" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Exosome based delivery targeting NF-kB ameliorates age-related neuroinflammation in the aged mouse brain</Title>
+					<Description>In this study, we tried to study the therapeutic efficacy and mechanism of Exosomes encapsulating the inhibitor of NF-kB in the age-related neuroinflammation mouse model.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-08-06</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-08-06">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Yonsei university</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240742" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Reprogramming Anchorage Dependency in Melanoma</Title>
+					<Description>Analysis of differentially expressed gene patterns in primary tumor, circulating tumor cells, and metastatic tumor cells from an orthotopic melanoma metastasis mouse model.</Description>
+					<Grant GrantId="1711185732">
+						<Title>Development of AST-related cancer metastasis biomarker</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-12-31</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-6-19</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-6-19</UserTerm>
+					<UserTerm term="KOBIC_release_date">2024-12-31</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-06-19">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Yonsei University College of Medicine</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240749" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Illumina raw sequencing data files for Methylobacterium oryzae CBMB20T</Title>
+					<Description>Illumina raw sequencing data files for Methylobacterium oryzae CBMB20T. According to the records, it is believed that this file was not actually used in the polishing process of the genome sequence.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-06-21</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-06-25">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240807" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Genome sequencing data files of a butyrate-producing gut bacterium Agathobaculum butyriciproducens SR79T</Title>
+					<Description>Butyrate, one of the short-chain fatty acids produced by beneficial gut bacteria, is known to regulate insulin resistance and immune function. Agathobaculum butyriciproducens SR79T, a butyrate-producing anaerobic bacterium of a new genus, was isolated and identified from the feces of a healthy woman by researchers at the Korea Research Institute of Bioscience and Biotechnology. This BioProject aims to provide raw sequencing data files from PacBio and Illumina platforms for the genome sequencing of SR79T, the type strain of Agathobaculum butyriciproducens.</Description>
+					<Grant GrantId="1711046068">
+						<Title>Microbe-Host Intergenomics</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-08-27</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-08-27">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240768" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Loss-of-function mutations in ZNF750 contribute to acanthotic type of seborrheic keratosis</Title>
+					<Description>Seborrheic keratosis (SK) is one of the most common benign skin tumors usually affects head, neck, and trunk. Genetics studies revealed that somatic variants that activate FGFR3 are found in 40-80% of SK tissues. However, the same hotspot mutations of FGFR3 found in SK were reported in physiologically normal epidermis, implying that the FGFR3 mutations alone do not cause SK. Also, since SK has histologically distinct subtypes, it is plausible that each subtype harbors different genetic abnormalities. We aim to understand SK pathogenesis through discovery of additional genetic factors.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-01-01</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-7-15</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-7-15</UserTerm>
+					<UserTerm term="KOBIC_release_date">2025-1-01</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-07-15">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Seoul National University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240815" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>APOBEC3A, not APOBEC3B, drives deaminase mutagenesis in human gastric epithelium</Title>
+					<Description>Cancer genomes frequently carry APOBEC (apolipoprotein B mRNA editing catalytic polypeptide-like)-associated DNA mutations, suggesting APOBEC enzymes as innate mutagens during cancer initiation and/or evolution. However, the pure mutagenic impacts of the specific enzymes among this family that are responsible for APOBEC-associated mutagenesis remain unclear, particularly the comparative mutagenic activities of APOBEC3A and APOBEC3B. Here, we investigated the mutagenic contributions of these enzymes through whole-genome sequencing of human normal gastric organoid lines carrying doxycycline-inducible APOBEC3A or APOBEC3B cassettes. Our findings demonstrated that transcriptional APOBEC3A upregulation led to the acquisition of a massive number of genomic mutations in a few cell cycles. By contrast, APOBEC3B upregulation did not generate a substantial number of mutations in gastric epithelium. APOBEC3B-associated mutagenesis remained insignificant even after a combined inactivation of TP53. Based on the spectrum of acquired mutations after APOBEC3A upregulation, we further analyzed APOBEC3A-associated mutational signatures, encompassing indels mainly composed of 1bp deletions, characteristics of clustered mutations, and selective pressures operative on cells carrying the mutations. Our observations provide a clear foundation for understanding the mutational impact of APOBEC enzymes in human cells.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-09-04</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-09-03">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Advanced Institute of Science and Technology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240796" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Development in defense of multi-organ damage by particulate matter</Title>
+					<Description>Physicochemical characteristics and 3D morphological analysis of (ultra)fine dust in Korea Expression patterns of markers for damage prediction/diagnosis of respiratory diseases mediated by fine dust and analysis of transcription factors Establishment of an animal model of cancer metastasis induced by fine dust using various types of cancer Analysis of genes of harmful substances induced by fine dust through single cell genome analysis of lung tissue Study on the pathogenic mechanism of harmful substances induced by fine dust Identification of herbal medicine samples that can control fine dust-induced inflammatory responses Establishment of an animal model of aging mediated by (ultra)fine dust Analysis of candidate substances that regulate Caspase-1 activity after exposure to (ultra)fine dust Discovery of candidate substances that regulate macrophage inflammatory responses after (ultra)fine dust induction Study on controlling (ultra)fine dust-induced inflammatory responses through macrophage type conversion Analysis of the regulation mechanism of signal transduction in fine dust-induced intestinal diseases Analysis of the mechanism of controlling damage to the host immune system by pathogenic infectious agents derived from PM Verification of the productivity of antimicrobial peptides derived in the first stage for controlling pathogenic bacteria induced by fine dust Analysis of genomic changes due to the influence of fine dust in a stem cell-based model Selection of key regulator targets responding to fine dust and analysis of sub-mechanisms Discovery of respiratory microbiome controlling fine dust-induced opportunistic infections</Description>
+					<Grant GrantId="1711196147">
+						<Title>Development in defense of multi-organ damage by particulate matter</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-08-22</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-08-22">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240792" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Genomic analysis of gastric cancer cell lines</Title>
+					<Description>Gene expression and mutation analysis of gastric cancer cell lines</Description>
+					<Grant GrantId="1711196137">
+						<Title>Bio big-data driven study for targeted therapy of currently untreatable cancers</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-10-15</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-08-14">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240842" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Emergence of CpG-cluster blanket methylation in aged tissues</Title>
+					<Description>Age-related gain of DNA methylation, or hypermethylation, commonly occurs in gene promoters, particularly at promoter-associated CpG islands (CGIs), potentially altering the transcriptional activity of associated genes (8,15). There are two potential mechanisms to explain the age-related gain of DNA methylation in CGIs. The first is the de novo methylation of singleton CpGs in tissue cells, which occurs randomly. The second is the emergence of highly methylated alleles from a subset of cells with different characteristics, such as those that undergo fast senescence compared to the rest of the cell population. To distinguish between the two mechanisms and to provide a comprehensive description of age-related alterations in DNA methylation patterns at spatially clustered CpG sites in diverse aged mouse tissues, we employed a DNA methylation phasing, a process of identifying the positional relationship between methylated and unmethylated CpGs along the DNA molecule, using methylomes generated through reduced-representation bisulfite sequencing (RRBS). We hope that this study will contribute to our understanding of the epigenetic mechanisms that underpin the aging process and age-related diseases, thereby facilitating the development of more effective diagnostic and therapeutic strategies.</Description>
+					<Grant GrantId="2710024154">
+						<Title>development of convergent technologies for diagnosis, treatment and delay of aging</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-05-08</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-09-25">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>KRIBB</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240829" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Whole genome sequencing of SARS-CoV-2 variants with Ab resistance</Title>
+					<Description>By analyzing the genomic data of samples from cell lines infected with SARS-CoV-2 virus and verify the emergence of variants and their sequence information</Description>
+					<Grant GrantId="1711170884">
+						<Title>Development of integrated mechanistic preventive measures against potential COVID-19 variants of concern</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-09-23</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-09-12">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Hallym University College of Medicine</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240835" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Analysis of SARS-CoV-2 variants obtained from coinfection by whole genome sequencing</Title>
+					<Description>SARS-CoV-2 virus coinfection and analysis of genomic data from coinfected cell lines for investigation of genetic variations</Description>
+					<Grant GrantId="1711170884">
+						<Title>Development of integrated mechanistic preventive measures against potential COVID-19 variants of concern</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-09-23</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-09-23">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Hallym University College of Medicine</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240854" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Development in defense of multi-organ damage by particulate matter</Title>
+					<Description>Physicochemical characteristics and 3D morphological analysis of (ultra)fine dust in Korea Expression patterns of markers for damage prediction/diagnosis of respiratory diseases mediated by fine dust and analysis of transcription factors Establishment of an animal model of cancer metastasis induced by fine dust using various types of cancer Analysis of genes of harmful substances induced by fine dust through single cell genome analysis of lung tissue Study on the pathogenic mechanism of harmful substances induced by fine dust Identification of herbal medicine samples that can control fine dust-induced inflammatory responses Establishment of an animal model of aging mediated by (ultra)fine dust Analysis of candidate substances that regulate Caspase-1 activity after exposure to (ultra)fine dust Discovery of candidate substances that regulate macrophage inflammatory responses after (ultra)fine dust induction Study on controlling (ultra)fine dust-induced inflammatory responses through macrophage type conversion Analysis of the regulation mechanism of signal transduction in fine dust-induced intestinal diseases Analysis of the mechanism of controlling damage to the host immune system by pathogenic infectious agents derived from PM Verification of the productivity of antimicrobial peptides derived in the first stage for controlling pathogenic bacteria induced by fine dust Analysis of genomic changes due to the influence of fine dust in a stem cell-based model Selection of key regulator targets responding to fine dust and analysis of sub-mechanisms Discovery of respiratory microbiome controlling fine dust-induced opportunistic infections</Description>
+					<Grant GrantId="1711196167">
+						<Title>Development of fundamental technology for prevention and therapy of viral disease</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-10-02</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-09-26">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240861" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Raw Roche/454 sequencing data files for the Escherichia coli W strain (ATCC 9637) genome</Title>
+					<Description>This BioProject provides the raw Roche/454 sequencing data files used for the genome sequencing of Escherichia coli W strain (ATCC 9637).</Description>
+					<Grant GrantId="1345141576">
+						<Title></Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-09-30</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-09-30">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology (KRIBB)</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240913" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Pancreatic cancer heterogeneity</Title>
+					<Description>Define pancreatic cancer heterogeneity</Description>
+					<Grant GrantId="1711196000">
+						<Title>Development of pre-clinical animal platform mimicking pancreatic cancer heterogeneity</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-01-31</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-08">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Advanced Institute of Science and Technology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240933" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Sequencing and Assembling the Genome of 93 cultivars and 3 parental lines of Raphanus sativus</Title>
+					<Description>Genotyping-by-sequencing and assembly</Description>
+					<Grant GrantId="1395077523">
+						<Title></Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-10-14</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-15">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Dankook University College of Agriculture</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240958" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>single-cell RNA sequencing in MNU injured retina</Title>
+					<Description>We elucidate the role of prospero-related homeobox 1 (Prox1) in rendering the mammalian retina incompetent for MG(Muller glia cell)-derived regeneration. Prox1 accumulates in MG in the degenerating human and mouse retinas but not in those in the regenerating zebrafish retina. We investigated whether the transition of MG to proliferative MGPCs occurred in MNU-injured Prox1fg/fg;Chx10-CreERT2 mouse retinas through single-cell RNA sequencing analysis.</Description>
+					<Grant GrantId="1711134020">
+						<Title>Research Center for Cellular Identity (RC2I)</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-10-22</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-23">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>KAIST</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240959" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Muller-glia targeted SMART-seq in MNU injured retina</Title>
+					<Description>We further investigated injury-induced gene expression changes selectively in MG cell lineages. The tdTom-labeled MG and their descendant cells were isolated via FACS from uninjured or MNU-injured Glast-CreERT;R26tdTom/+ mouse retinas, which were infected with either AAV2-Ctrl Ab or AAV2-alpha Prox1, and mRNA expression patterns of individual cells were analyzed using SMART (Switching Mechanism At the 5' end of RNA Template) sequencing methods. We could identify a lineage flow from resting MG to RPC-like cells via activated MG, along with pseudo-time progression.</Description>
+					<Grant GrantId="1711190763">
+						<Title>Research Center for Cellular Identity (RC2I)</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-10-22</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-23">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>KAIST</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240955" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Modulation of the gut microbiome by a natural complex in a mouse model of IL4raF709 allergy</Title>
+					<Description>Fecal microbiome data were collected from the Il4raF709 allergic mouse model treated with two different substances: Korean Red Ginseng Extract and fucoidan, a polysaccharide derived from brown algae. Fecal samples were collected at various time points, including week 0 (gut microbiota colonization) and week 10 (following egg albumin sensitization and challenge). The study also included a wild-type (WT) control group for comparison.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-10-21</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-22">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Chungnam National University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240942" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Function of miR-10a in regulating adipose tissue metabolism</Title>
+					<Description>Adipose tissue remodeling plays a critical role in obesity-induced metabolic dysfunction, but the underlying molecular mechanisms remain incompletely understood. This study investigates the role of miR-10a-5p in adipose tissue inflammation and metabolic dysfunction induced by a high fat diet (HFD).</Description>
+					<Grant GrantId="1711194427">
+						<Title>Regulatory Mechanisms of Adipose Tissue Lipid Metabolism</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-10-15</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-17">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Seoul National University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240998" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Development in defense of multi-organ damage by particulate matter</Title>
+					<Description>In the second phase of the study on the development of a multi-organ disease model induced by fine dust and its impact analysis, the research will focus on screening, identifying, and analyzing regulatory markers or potential substances related to inflammation/cell death induced by fine dust. Additionally, mechanistic studies will be conducted to investigate the underlying pathways.</Description>
+					<Grant GrantId="2710008892">
+						<Title></Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-11-07</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-12">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Kribb</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240973" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Platform technologies for genome design and synthetic biology</Title>
+					<Description>Develop leading synthetic biology platform technology through intelligent gene circuit and genome synthesis, and promote cell factory technology commercialization for biosynthesis/upcycling of bioplastic</Description>
+					<Grant GrantId="2710008895">
+						<Title>Platform technologies for genome design and synthetic biology</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-12-31</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-29">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology (KRIBB)</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240989" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Raw sequencing dataset for Nicotiana benthamiana</Title>
+					<Description>Long-read, Short-read and HiC data of N. benthamiana</Description>
+					<Grant GrantId="2710007931">
+						<Title>Development of fundamental technology for prevention and therapy of viral disease</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-11-06</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-05">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240979" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Inhibitor of pathogen helper microbe</Title>
+					<Description>Improvement of infectious skin inflammation by inhibiting Pathogen helper microbe</Description>
+					<Grant GrantId="2710007931">
+						<Title>Development of fundamental technology for prevention and therapy of viral disease</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-10-31</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-31">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240980" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>CRISPR/Cas9-Based Gene-Editing of Microalgae</Title>
+					<Description>Phytopathogenic nuclear localization signals were functionally attached to the Cas9 protein and the resulting variants were employed in industrial microalgae (Chlorella sp. HS2) transformation.</Description>
+					<Grant GrantId="2710007911">
+						<Title>Development of cell factories for value-added material production</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-10-31</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-31">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240996" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>The transcription factor MIST1 regulates apoptosis and TRIB3 expression under hepatic ER stress</Title>
+					<Description>To investigate MIST1 mRNA expression patterns and loss of function in chronically injured liver tissue, we used a mouse model of chronic liver injury induced by carbon tetrachloride (CCl4). Tissue samples were obtained from the right lateral lobe of wild-type mice at various time points, specifically 1, 3, 6, and 8 weeks after CCl4 treatment. In addition, tissue samples were collected from Mist1 knockout mice after 8 weeks of CCl4 treatment to assess the impact of MIST1 loss of function in the context of chronic liver injury.</Description>
+					<Grant GrantId="N/A">
+						<Title></Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-11-08</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-08">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Yonsei university</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP241003" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>The efficient RNP-mediated CRISPR/Cas9 genome editing protocol in potato to develop Phytophthora infestans resistant mutants by targeting the susceptibility gene, Signal Responsive 4 (SR4), in protoplasts.</Title>
+					<Description>Potato is affected by various factors such as temperature, soil conditions and disease. In particular, the effect of diseases on the yield and quality is fatal. For the reason, numerous attempts are currently being made to develop disease-resistant cultivars through cross-breeding or new breeding technologies. Genome editing technologies that enable precise editing of target DNA sequences in vivo are effective tools for improving crop agronomic properties. Moreover, DNA-free genome editing with ribonucleoproteins (RNPs) can be edited without the integration of foreign genes into the plant genome, making it possible to satisfy public interest in 'safe' biotechnology. However, this technique to obtain RNP-mediated genome editing plants from many plant species are still challenging with low efficiency. Here, we established an efficient CRISPR/Cas9 genome editing by inducing protoplast-derived mutants using RNP-mediated CRIPSR/Cas9 in potato. To confer the pathogen resistance, we targeted the inhibition of the SR4 (Signal Response protein 4), one of the susceptibility genes. Mutations in StSR4 were efficiently introduced in regenerated potato plants with a maximum efficiency of 34 percent. The stsr4 mutant stsr4_3-19 showed more than twice the resistance against P.infestance than the wild-type. This mutant released the expression of StEDS1, which was inhibited by the expression of SR4, leading to improved expression of the StPR1. The increase in expression of salicylic acid (SA)-related genes actually led to the accumulation of SA, and these effects show that the resistance against P.infestance. This RNP-mediated CRISPR/Cas9-based potato genome editing protocol provides assistance to accelerate the research and molecular breeding of many important Solanaceae crops.</Description>
+					<Grant GrantId="2390000419">
+						<Title>Development of universal method and platform for crop transformation</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-11-15</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-15">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology (KRIBB)</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP241014" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>The study of identifying function and pathogenesis in respiratory system disease of WFDC2</Title>
+					<Description>Whole exome sequencing (WES) analysis of a patient with lung disease identified a recurrent mutation (p.Cys97Trp) in the WFDC2 gene. To investigate the molecular mechanisms by which this WFDC2 mutation affects lung function in vivo, we plan to conduct studies using WT (Wild-Type), KI (Knock-In), and KO (Knock-Out) mouse models. This study aims to elucidate the role of WFDC2, identify phenotypic abnormalities associated with the mutation-induced lung dysfunction, and establish a foundation for functional studies and therapeutic development. By uncovering the pathogenic mechanisms of the WFDC2 gene mutation (p.Cys97Trp), we seek to develop an effective model for drug discovery and evaluation of therapeutic interventions.</Description>
+					<Grant GrantId="2710009964">
+						<Title>Chronic Intractable Disease Systems Medicine Research Center</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-11-26</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-26">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Yonsei University College of Medicine</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240927" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Single cell analysis of Duchenne muscular dystrophy in human and mouse: Visium data</Title>
+					<Description>This dataset is composed of spatial transcriptomics on the Visium platform using human muscle tissues.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-01-01</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-14">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Seoul National University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240759" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Multi-omics Study for the Identification of Novel Drug Targets in Insulin Resistance</Title>
+					<Description>c-Myc is an oncogene but has a role in metabolic regulation. It plays an important role in metabolism in differentiated skeletal muscle through regulating mitochondria and ribosome biogenesis. We investigated metabolic phenotypes and transcriptome of skeletal muscle specific c-Myc knockout mice. Skeletal muscle-specific c-Myc knockout mice were resistant to insulin resistance when fed a high-fat diet. At transcriptome analysis with RNA sequencing, we observed that peroxisome activation was associated with the protective role of c-Myc deficiency against insulin resistance. The study suggests the possibility of finding novel drugs for insulin resistance through modulation of c-Myc.</Description>
+					<Grant GrantId="1465037314">
+						<Title>Establishment of a multi-omics and organoid-based gene therapy efficacy evaluation system</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-07-22</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-07-02">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Seoul National University Bundang Hospital</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240767" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Multi-omics Study for the Identification of Novel Drug Targets in Insulin Resistance</Title>
+					<Description>c-Myc is an oncogene but has a role in metabolic regulation. It plays an important role in metabolism in differentiated skeletal muscle through regulating mitochondria and ribosome biogenesis. We investigated metabolic phenotypes and transcriptome of skeletal muscle specific c-Myc knockout mice. Skeletal muscle-specific c-Myc knockout mice were resistant to insulin resistance when fed a high-fat diet. At transcriptome analysis with RNA sequencing, we observed that peroxisome activation was associated with the protective role of c-Myc deficiency against insulin resistance. The study suggests the possibility of finding novel drugs for insulin resistance through modulation of c-Myc.</Description>
+					<Grant GrantId="1465037314">
+						<Title>Establishment of a multi-omics and organoid-based gene therapy efficacy evaluation system</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-07-22</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-07-15">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Seoul National University Bundang Hospital</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240772" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Mouse Single-Cell Long-Read Splicing Atlas by Ouro-Seq</Title>
+					<Description>Current full-length single-cell RNA-sequencing methods using short- or long-read sequencing technologies suffer from pervasive reverse transcription and amplification artifacts and a strong bias toward shorter cDNA molecules introduced during the artifact removal process, leading to low isoform quantification accuracy and high sequencing cost. Here, we introduce Ouro-Seq, a novel single-cell long-read sequencing framework that combines a versatile artifact removal mechanism without length bias and a robust gel-free DNA size selection method for the comprehensive characterization of genuine full-length mRNA transcripts of varying sizes (up to 6 kbp) at a single-cell resolution. We also developed a novel computational pipeline, Ouro-Tools, that normalizes mRNA size distributions and detects mRNA 7-methylguanosine caps to integrate multiple single-cell long-read RNA-sequencing experiments across modalities and characterize full-length transcripts, respectively. Using Ouro-Seq and Ouro-Tools, we constructed the Mouse Single-Cell Splicing Atlas (MSCSA) by collecting full-length transcriptomes of 103,304 nuclei or cells from 12 major organs and tissues of adult mice (Mus musculus). We characterized transcript usage patterns for the majority of protein-coding genes across ~200 mouse cell types in full length. Using full-length information at the single-cell level, we show that coordinated changes in the anion affinity of kidney-specific Na-K-Cl cotransporters and permeability to divalent cations along the thick ascending limb of the loop of Henle are the results of interactions among three functionally distinct cell populations with unique isoform expression patterns. We hope that our single-cell long-read toolkits and resources will allow the investigation of important questions in single-cell biology that were difficult to answer using short-read sequencing alone.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2026-07-16</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-7-18</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-7-18</UserTerm>
+					<UserTerm term="KOBIC_release_date">2026-7-16</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-07-18">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Gwangju Institute of Science and Technology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240801" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>3AIM-seq: Quality assessment of mRNA therapeutics using sequencing for 3' poly(A) tail of in vitro transcribed mRNA</Title>
+					<Description>In vitro transcribed (IVT) mRNA therapeutics offer a promising strategy for preventing and treating various diseases, including infectious diseases and cancer, by delivering specific nucleic acid sequences. Assessing the stability and equivalence of mRNA sequences and poly(A) tail lengths is crucial for minimizing adverse effects and ensuring the efficacy of the drugs. However, precise measurement of homopolymer stretches, such as poly(A) tails, is technically challenging, and a specialized method for IVT mRNA is lacking. Here, we introduce 3AIM-seq, a high-accuracy sequencing technique optimized both experimentally and analytically for measuring poly(A) tail lengths in IVT mRNA. We used a ligation-free adapter followed by 3-prime end amplification to prepare high-throughput sequencing libraries to generate high-quality data. The 3AIM-seq algorithm then employed a sliding window approach to base quality scores for precise poly(A) length measurement. Using calibration curves that correlate mean absolute error with poly(A) lengths from in silico synthetic standard spike-ins experiment, the method estimated the homogeneity of poly(A) lengths at the individual DNA molecule levels to evaluate fidelity. Notably, the method provided significantly more accurate length measurements than the base-calling method, which showed considerable inaccuracies. While poly(A) stretches of up to 70 bases were accurately estimated as IVT synthesized, stretches exceeding 100 bases exhibited a high proportion of non-designed lengths, highlighting the importance of careful and warranted assessment. Therefore, 3AIM-seq offers a reliable method for evaluating the structural integrity of IVT mRNA products, ensuring quantitative equivalence before clinical use.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-09-01</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-08-26">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Ajou University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240808" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Gastric cancer cell line overexpressing SYT11 or VHL</Title>
+					<Description>RNA-seq analysis in stomach cancer cell lines overexpressing SYT11 or VHL</Description>
+					<Grant GrantId="N/A">
+						<Title></Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-09-01</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-08-28">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology (KRIBB)</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240821" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Transcriptome sequencing</Title>
+					<Description>Ubiquitination is reversed by deubiquitinating enzymes (DUBs), a group of proteases that remove monoubiquitin or polyubiquitin chains from the substrate. TRABID, encoded by the ZRANB1 gene, is a DUB that specifically disassembles K29- and K33-linked ubiquitin chains. We identified the peptide capable to interference with TRABID and target substrate and analyzed transcriptome sequencing using next generation sequencing technique.</Description>
+					<Grant GrantId="1711195998">
+						<Title>Therapeutic strategy for non-alcoholic fatty liver disease (NAFLD) through regulation of TRABID activity</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-12-31</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-09-10">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Keimyung University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240938" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Saturated Mutagenesis of Hemagglutinin of Influenza A virus H1N1 (Pandemic strain)</Title>
+					<Description>Purpose To evaluate the characteristics of Influenza A virus (H1N1) mutants, a saturated mutagenesis libraries for the hemagglutinin (HA) sequence were created to conduct infection experiments in vitro. Scheme Using the HA sequence of the pdm09 strain A/California/07/2009 (CA09) as a template, a saturated mutated plasmid libraries were generated for the receptor-binding domain encompassing amino acids 101-250. The HA plasmid libraries were transfected into HEK293T cells along with the NA from CA09 and the PB2, PB1, PA, NP, M, and NS sequences from A/Puerto Rico/8/1934 (PR8) to produce P0 virus. The P0 virus was used to infect the MDCK cell line at MOI of less than 0.01 to produce the P1 virus. Subsequently, the P1 virus was used to infect the A549 cell line at MOI of less than 0.01 to generate the P2 virus.</Description>
+					<Grant GrantId="1711187364">
+						<Title>Development of a multi-omics-based future new influenza variant response platform</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2027-09-30</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-16">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Seoul National University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240841" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Transcriptome analysis in the liver fibrosis-induced mouse model to identify fibrosis-related factor</Title>
+					<Description>We constructed a mouse model that induces liver fibrosis in mice through dietary control of high-fat high-fructose diet, and sought to find fibrosis-related factors through comparison with normal dietary mouse samples.</Description>
+					<Grant GrantId="1711200980">
+						<Title>Development of new therapeutic tool by multiomics analyses using fibrosis stage-dependent clinical u0026amp; animal samples</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2027-09-23</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-09-25">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Sookmyung Womenu0026#39;s University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240875" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Single-cell long-read sequencing of Lucat1 KO mouse PBMC</Title>
+					<Description>LUCAT1 is a popular oncogenic lncRNA. According to previous study, we have discovered that the lncRNA is closely related to tumor-associated macrophage. Therefore single-cell long-read sequencing was conducted with Lucat1 KO mouse PBMC, in order to understand the characteristics of Lucat1. We are expecting to have deeper understanding about LUCAT1, and its connection with cancer with the project.</Description>
+					<Grant GrantId="1711181124">
+						<Title>Functional Characterization of Bifunctional Genes via Deep Single-Molecule RNA Sequencing</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2026-02-27</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-02">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Hanyang University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240894" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Analysis of COVID-19 variants transcriptome and translatome data in human cell lines</Title>
+					<Description>The project includes transcriptome data produced by infecting human cell lines with more than 10 types of COVID-19 variant, including the currently circulating Omicron BA.5 variant, as well as translatome data produced by infecting human cell lines with the S type and Omicron BA.1 variants. The aim is to identify key regulatory factors of variants through multi-omics integrated analysis of the produced transcriptome and translatome data.</Description>
+					<Grant GrantId="1711170884">
+						<Title>Development of integrated mechanistic preventive measures against potential COVID-19 variants of concern</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2026-12-31</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-07">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Seoul National University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240922" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Development of disease-specific smart biodelivery system based on pharmabiotic microbes</Title>
+					<Description>Established a genetic toolbox of more than four gut microbiome-derived disease therapeutic candidate expression systems and disease-specific self-killing switches for resident beneficial gut microbes. In addition, we developed an encapsulation technology and colonization evaluation technology to enhance the intestinal delivery and selective colonization of ultra-highly anaerobic gut microbes, and validated the colonization and therapeutic efficacy of the developed bioconstructs in animal models of colon cancer, liver cancer, and inflammatory enterocolitis.</Description>
+					<Grant GrantId="1711163017">
+						<Title>Development of disease-specific smart biodelivery system based on pharmabiotic microbes</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2026-12-31</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-11">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Seoul National University</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240988" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Comprehensive study on the phenomenon of mutation accumulation in the individual level</Title>
+					<Description>The cause of aging still remains unknown. The recent human aging studies tend to utilize cross-sectional data of different age group despite the different environmental confounding factors accumulated on them in the long aging process. Therefore, we investigated the eight healthy male cynomolgus macaques, the monkeys meticulously shielded from the factors except aging. The annual sampling was designed with two individuals in each four age groups.</Description>
+					<Grant GrantId="2340008982">
+						<Title>Comprehensive study on the phenomenon of mutation accumulation in the individual level</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-11-01</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="9541">
+								<OrganismName>Macaca fascicularis</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-04">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240999" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Bio core facility project for analysis supporting and bio information production</Title>
+					<Description>diagonosis in blood</Description>
+					<Grant GrantId="2710007924">
+						<Title>Bio core facility project for analysis supporting and bio information production</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2026-11-01</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-12">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP241018" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Large-scale profiling of coding and long noncoding transcriptomes in the tissue of mice acutely exposed to vaporized CBD or THC</Title>
+					<Description>The experiment was conducted using 20 eight-week-old male ICR mice. The mice were divided into four groups: Negative Control, Oil-based Control, CBD-treated, and THC-treated, with five mice assigned to each group. The mice were exposed to vaporized Oil (a solvent containing dissolved CBD and THC), CBD, or THC at a concentration of 50 mg. One day after exposure, tissue samples were collected, and total RNA was extracted using TRIzol. The extracted total RNA was prepared into cDNA libraries using the CORALL RNA-Seq V2 Library Prep Kit (LEXOGEN) and sequenced on the NovaSeq 6000 platform (Illumina).</Description>
+					<Grant GrantId="2710001658">
+						<Title>Establishment of biomarkers and identification of human toxicity mechanisms in hemp oil vaping exposure</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2027-12-31</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-27">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP241029" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Raw sequencing dataset for Centella asiatica Jaerae</Title>
+					<Description>Long-read, short-read, Hi-C, and RNA data for the genome assembly and annotation of Centella asiatica Jaerae</Description>
+					<Grant GrantId="2710018264">
+						<Title>Development of centelloside high-content Centella asiatica using a bio big data-based metabolic pathway design platform</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2027-11-27</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-28">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP241030" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Raw sequencing dataset for Centella asiatica Sunbal</Title>
+					<Description>Long-read, short-read for the genome assembly and annotation of Centella asiatica Sunbal</Description>
+					<Grant GrantId="2710018264">
+						<Title>Development of centelloside high-content Centella asiatica using a bio big data-based metabolic pathway design platform</Title>
+						<Agency abbr="MSIT">Ministry of Science and ICT</Agency>
+					</Grant>
+					<ProjectReleaseDate>2027-11-27</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-28">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

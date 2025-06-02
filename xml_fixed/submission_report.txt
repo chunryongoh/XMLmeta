@@ -1,0 +1,4 @@
+# XSD Validation: PASS
+xml_submitted/ddbj_submission_KAE24062460_KAR24062460.fixed.xml
+xml_submitted/ddbj_submission_KAE24062460_KAR24062460.fixed.xml validates
+

@@ -1,0 +1,3 @@
+# XSD Validation: PASS
+
+xml_fixed/ddbj_bioExperiment.fixed.xml validates
