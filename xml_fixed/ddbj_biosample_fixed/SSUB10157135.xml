@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089235</Id>
+		</Ids>
+		<Description>
+			<SampleName>13VC-35_1</SampleName>
+			<Title>13VC-35_1 (KAS24089235)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">13VC-35_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of H. pylori infected mice</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of H. pylori infected mice</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089235</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089236</Id>
+		</Ids>
+		<Description>
+			<SampleName>13VC-37_1</SampleName>
+			<Title>13VC-37_1 (KAS24089236)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">13VC-37_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of H. pylori infected mice</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of H. pylori infected mice</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089236</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089237</Id>
+		</Ids>
+		<Description>
+			<SampleName>13VC-38_1</SampleName>
+			<Title>13VC-38_1 (KAS24089237)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">13VC-38_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of H. pylori infected mice</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of H. pylori infected mice</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089237</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089238</Id>
+		</Ids>
+		<Description>
+			<SampleName>13VC-41_1</SampleName>
+			<Title>13VC-41_1 (KAS24089238)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">13VC-41_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of H. pylori infected mice, post-SARS-CoV-2 infection</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of H. pylori infected mice, post-SARS-CoV-2 infection</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089238</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089239</Id>
+		</Ids>
+		<Description>
+			<SampleName>13VC-42_1</SampleName>
+			<Title>13VC-42_1 (KAS24089239)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">13VC-42_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of H. pylori infected mice, post-SARS-CoV-2 infection</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of H. pylori infected mice, post-SARS-CoV-2 infection</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089239</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089240</Id>
+		</Ids>
+		<Description>
+			<SampleName>BVC-127_1</SampleName>
+			<Title>BVC-127_1 (KAS24089240)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">BVC-127_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of uninfected control mice</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of uninfected control mice</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089240</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089241</Id>
+		</Ids>
+		<Description>
+			<SampleName>BVC-128_1</SampleName>
+			<Title>BVC-128_1 (KAS24089241)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">BVC-128_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of uninfected control mice</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of uninfected control mice</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089241</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089242</Id>
+		</Ids>
+		<Description>
+			<SampleName>BVC-129_1</SampleName>
+			<Title>BVC-129_1 (KAS24089242)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">BVC-129_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of uninfected control mice</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of uninfected control mice</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089242</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089243</Id>
+		</Ids>
+		<Description>
+			<SampleName>BVC-130_1</SampleName>
+			<Title>BVC-130_1 (KAS24089243)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">BVC-130_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of SARS-CoV-2 infected mice</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of SARS-CoV-2 infected mice</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089243</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089244</Id>
+		</Ids>
+		<Description>
+			<SampleName>BVC-131_1</SampleName>
+			<Title>BVC-131_1 (KAS24089244)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">BVC-131_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of SARS-CoV-2 infected mice</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of SARS-CoV-2 infected mice</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089244</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089245</Id>
+		</Ids>
+		<Description>
+			<SampleName>BVC-132_1</SampleName>
+			<Title>BVC-132_1 (KAS24089245)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">BVC-132_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of SARS-CoV-2 infected mice</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of SARS-CoV-2 infected mice</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089245</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24089246</Id>
+		</Ids>
+		<Description>
+			<SampleName>BVC-134_1</SampleName>
+			<Title>BVC-134_1 (KAS24089246)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">BVC-134_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of SARS-CoV-2 infected mice</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of SARS-CoV-2 infected mice</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-4-09</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24089246</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-4-09</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090196</Id>
+		</Ids>
+		<Description>
+			<SampleName>13VC-40_1</SampleName>
+			<Title>13VC-40_1 (KAS24090196)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">13VC-40_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240696</Attribute>
+			<Attribute attribute_name="collection_date">2022-04-18</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Stomach of H. pylori infected mice, post-SARS-CoV-2 infection</Attribute>
+			<Attribute attribute_name="isolation_source">Stomach of H. pylori infected mice, post-SARS-CoV-2 infection</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240696</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-5-16</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-5-16</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157135</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090196</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-5-16</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

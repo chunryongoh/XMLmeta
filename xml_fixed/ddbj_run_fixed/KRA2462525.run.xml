@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24065584" alias="KAR24065584" center_name="Keimyung University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065584</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 single Sequencing of KAS24093539 (KAR24065584)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065584" refcenter="KOBIC" refname="KAE24065584">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065584</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="1-1_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="1-1_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065585" alias="KAR24065585" center_name="Keimyung University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065585</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 single Sequencing of KAS24093539 (KAR24065585)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065585" refcenter="KOBIC" refname="KAE24065585">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065585</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="1-2_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="1-2_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065586" alias="KAR24065586" center_name="Keimyung University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065586</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 single Sequencing of KAS24093539 (KAR24065586)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065586" refcenter="KOBIC" refname="KAE24065586">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065586</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="1-3_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="1-3_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065587" alias="KAR24065587" center_name="Keimyung University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065587</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 single Sequencing of KAS24093540 (KAR24065587)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065587" refcenter="KOBIC" refname="KAE24065587">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065587</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="3-1_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="3-1_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065588" alias="KAR24065588" center_name="Keimyung University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065588</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 single Sequencing of KAS24093540 (KAR24065588)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065588" refcenter="KOBIC" refname="KAE24065588">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065588</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="3-2_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="3-2_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065589" alias="KAR24065589" center_name="Keimyung University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065589</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 single Sequencing of KAS24093540 (KAR24065589)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065589" refcenter="KOBIC" refname="KAE24065589">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065589</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="3-3_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="3-3_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-9-10</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

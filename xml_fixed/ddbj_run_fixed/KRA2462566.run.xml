@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24085489" alias="KAR24085489" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085489</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106270 (KAR24085489)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085489" refcenter="KOBIC" refname="KAE24085489">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085489</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M32.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085490" alias="KAR24085490" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085490</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106271 (KAR24085490)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085490" refcenter="KOBIC" refname="KAE24085490">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085490</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M43_001.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085491" alias="KAR24085491" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085491</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106272 (KAR24085491)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085491" refcenter="KOBIC" refname="KAE24085491">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085491</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M43_002.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085492" alias="KAR24085492" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085492</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106273 (KAR24085492)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085492" refcenter="KOBIC" refname="KAE24085492">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085492</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M43_003.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085493" alias="KAR24085493" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085493</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106274 (KAR24085493)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085493" refcenter="KOBIC" refname="KAE24085493">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085493</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M43_004.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085494" alias="KAR24085494" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085494</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106275 (KAR24085494)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085494" refcenter="KOBIC" refname="KAE24085494">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085494</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M43_005.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085495" alias="KAR24085495" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085495</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106276 (KAR24085495)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085495" refcenter="KOBIC" refname="KAE24085495">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085495</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M43_006.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085496" alias="KAR24085496" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085496</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106277 (KAR24085496)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085496" refcenter="KOBIC" refname="KAE24085496">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085496</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M43_007.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085497" alias="KAR24085497" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085497</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106278 (KAR24085497)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085497" refcenter="KOBIC" refname="KAE24085497">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085497</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M43_008.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085498" alias="KAR24085498" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085498</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106279 (KAR24085498)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085498" refcenter="KOBIC" refname="KAE24085498">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085498</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M43_009.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085499" alias="KAR24085499" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085499</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106280 (KAR24085499)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085499" refcenter="KOBIC" refname="KAE24085499">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085499</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M43_010.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085500" alias="KAR24085500" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085500</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106281 (KAR24085500)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085500" refcenter="KOBIC" refname="KAE24085500">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085500</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M44_001.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085501" alias="KAR24085501" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085501</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106282 (KAR24085501)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085501" refcenter="KOBIC" refname="KAE24085501">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085501</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M44_002.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085502" alias="KAR24085502" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085502</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106283 (KAR24085502)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085502" refcenter="KOBIC" refname="KAE24085502">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085502</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M44_003.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085503" alias="KAR24085503" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085503</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106284 (KAR24085503)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085503" refcenter="KOBIC" refname="KAE24085503">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085503</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M44_004.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085504" alias="KAR24085504" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085504</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106285 (KAR24085504)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085504" refcenter="KOBIC" refname="KAE24085504">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085504</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M44_005.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085505" alias="KAR24085505" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085505</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106286 (KAR24085505)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085505" refcenter="KOBIC" refname="KAE24085505">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085505</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M44_006.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085506" alias="KAR24085506" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085506</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106287 (KAR24085506)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085506" refcenter="KOBIC" refname="KAE24085506">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085506</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M44_007.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085507" alias="KAR24085507" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085507</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106288 (KAR24085507)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085507" refcenter="KOBIC" refname="KAE24085507">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085507</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M44_008.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085508" alias="KAR24085508" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085508</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106289 (KAR24085508)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085508" refcenter="KOBIC" refname="KAE24085508">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085508</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M44_009.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085509" alias="KAR24085509" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085509</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single Sequencing of KAS24106290 (KAR24085509)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085509" refcenter="KOBIC" refname="KAE24085509">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085509</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="M44_010.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-12-31</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

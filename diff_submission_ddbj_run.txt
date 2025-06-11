@@ -1,0 +1,23 @@
+diff_xpath: '/RUN_SET' => '/run_set'
+rule_xpath: '/RUN/IDENTIFIERS/PRIMARY_ID' => '/run/identifiers/primary_id'
+diff_xpath: '/RUN_SET' => '/run_set'
+rule_xpath: '/RUN/IDENTIFIERS/SUBMITTER_ID' => '/run/identifiers/submitter_id'
+diff_xpath: '/RUN_SET' => '/run_set'
+rule_xpath: '/RUN/TITLE' => '/run/title'
+diff_xpath: '/RUN_SET' => '/run_set'
+rule_xpath: '/RUN/EXPERIMENT_REF/@accession' => '/run/experiment_ref/@accession'
+diff_xpath: '/RUN_SET' => '/run_set'
+rule_xpath: '/RUN/DATA_BLOCK/FILES/FILE/@filename' => '/run/data_block/files/file/@filename'
+diff_xpath: '/RUN_SET' => '/run_set'
+rule_xpath: '/RUN/DATA_BLOCK/FILES/FILE/@checksum' => '/run/data_block/files/file/@checksum'
+diff_xpath: '/RUN_SET' => '/run_set'
+rule_xpath: "/RUN/RUN_ATTRIBUTES/RUN_ATTRIBUTE[TAG='KOBIC_submission_date']/VALUE" => "/run/run_attributes/run_attribute[tag='kobic_submission_date']/value"
+diff_xpath: '/RUN_SET' => '/run_set'
+rule_xpath: "/RUN/RUN_ATTRIBUTES/RUN_ATTRIBUTE[TAG='metadata_modification']/VALUE" => "/run/run_attributes/run_attribute[tag='metadata_modification']/value"
+[{'attrs': None,
+  'new': 'SUBMISSION',
+  'old': 'RUN_SET',
+  'policy': 'warn',
+  'policy_note': '정책 미정의',
+  'type': 'modify_tag',
+  'xpath': '/RUN_SET'}]

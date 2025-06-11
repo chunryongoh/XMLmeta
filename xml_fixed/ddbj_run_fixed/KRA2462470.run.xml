@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24062803" alias="KAR24062803" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062803</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of 13VC-35_1 (KAR24062803)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062803" refcenter="KOBIC" refname="KAE24062803">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062803</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="13VC-35_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="13VC-35_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062804" alias="KAR24062804" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062804</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of 13VC-37_1 (KAR24062804)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062804" refcenter="KOBIC" refname="KAE24062804">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062804</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="13VC-37_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="13VC-37_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062805" alias="KAR24062805" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062805</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of 13VC-38_1 (KAR24062805)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062805" refcenter="KOBIC" refname="KAE24062805">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062805</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="13VC-38_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="13VC-38_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062806" alias="KAR24062806" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062806</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of 13VC-41_1 (KAR24062806)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062806" refcenter="KOBIC" refname="KAE24062806">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062806</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="13VC-41_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="13VC-41_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062807" alias="KAR24062807" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062807</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of 13VC-42_1 (KAR24062807)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062807" refcenter="KOBIC" refname="KAE24062807">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062807</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="13VC-42_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="13VC-42_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062808" alias="KAR24062808" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062808</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of BVC-127_1 (KAR24062808)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062808" refcenter="KOBIC" refname="KAE24062808">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062808</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="BVC_127_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="BVC_127_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062809" alias="KAR24062809" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062809</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of BVC-128_1 (KAR24062809)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062809" refcenter="KOBIC" refname="KAE24062809">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062809</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="BVC_128_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="BVC_128_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062810" alias="KAR24062810" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062810</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of BVC-129_1 (KAR24062810)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062810" refcenter="KOBIC" refname="KAE24062810">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062810</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="BVC_129_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="BVC_129_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062811" alias="KAR24062811" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062811</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of BVC-130_1 (KAR24062811)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062811" refcenter="KOBIC" refname="KAE24062811">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062811</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="BVC_130_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="BVC_130_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062812" alias="KAR24062812" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062812</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of BVC-131_1 (KAR24062812)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062812" refcenter="KOBIC" refname="KAE24062812">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062812</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="BVC_131_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="BVC_131_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062813" alias="KAR24062813" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062813</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of BVC-132_1 (KAR24062813)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062813" refcenter="KOBIC" refname="KAE24062813">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062813</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="BVC_132_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="BVC_132_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062814" alias="KAR24062814" center_name="Yonsei University College of Medicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062814</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 4000 paired-end Sequencing of BVC-134_1 (KAR24062814)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062814" refcenter="KOBIC" refname="KAE24062814">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062814</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="BVC_134_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="BVC_134_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-11</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-09</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

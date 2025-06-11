@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24062786" alias="KAR24062786" center_name="Kyung Hee University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062786</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired-end Sequencing of osbglu38-2-2 (KAR24062786)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062786" refcenter="KOBIC" refname="KAE24062786">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062786</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="e81ec6278c634fc288b298e2e602233c.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="bglu38-28_2.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-08</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-08</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-4-08</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24063729" alias="KAR24063729" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063729</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-control-2 (KAR24063729)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063729" refcenter="KOBIC" refname="KAE24063729">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063729</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-control-2_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-control-2_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063730" alias="KAR24063730" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063730</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-control-3 (KAR24063730)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063730" refcenter="KOBIC" refname="KAE24063730">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063730</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-control-3_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-control-3_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063731" alias="KAR24063731" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063731</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-control-4 (KAR24063731)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063731" refcenter="KOBIC" refname="KAE24063731">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063731</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-control-4_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-control-4_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063732" alias="KAR24063732" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063732</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-starvation-1 (KAR24063732)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063732" refcenter="KOBIC" refname="KAE24063732">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063732</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-starvation-1_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-starvation-1_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063733" alias="KAR24063733" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063733</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-starvation-2 (KAR24063733)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063733" refcenter="KOBIC" refname="KAE24063733">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063733</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-starvation-2_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-starvation-2_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063734" alias="KAR24063734" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063734</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-starvation-3 (KAR24063734)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063734" refcenter="KOBIC" refname="KAE24063734">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063734</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-starvation-3_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-starvation-3_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063735" alias="KAR24063735" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063735</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-Folicacid-2 (KAR24063735)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063735" refcenter="KOBIC" refname="KAE24063735">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063735</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-Folicacid-2_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-Folicacid-2_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063736" alias="KAR24063736" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063736</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-Folicacid-3 (KAR24063736)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063736" refcenter="KOBIC" refname="KAE24063736">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063736</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-Folicacid-3_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-Folicacid-3_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063737" alias="KAR24063737" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063737</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-Folicacid-4 (KAR24063737)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063737" refcenter="KOBIC" refname="KAE24063737">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063737</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-Folicacid-4_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-Folicacid-4_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063738" alias="KAR24063738" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063738</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-Foli_star-4-1 (KAR24063738)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063738" refcenter="KOBIC" refname="KAE24063738">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063738</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-Foli_star-4-1_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-Foli_star-4-1_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063739" alias="KAR24063739" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063739</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-Foli_star-4-2 (KAR24063739)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063739" refcenter="KOBIC" refname="KAE24063739">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063739</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-Foli_star-4-2_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-Foli_star-4-2_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063740" alias="KAR24063740" center_name="KRIBB">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063740</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of K-Foli_star-5 (KAR24063740)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063740" refcenter="KOBIC" refname="KAE24063740">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063740</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="K-Foli_star-5_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="K-Foli_star-5_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-4-15</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

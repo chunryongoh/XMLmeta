@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240998" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Development in defense of multi-organ damage by particulate matter</Title>
+					<Description>In the second phase of the study on the development of a multi-organ disease model induced by fine dust and its impact analysis, the research will focus on screening, identifying, and analyzing regulatory markers or potential substances related to inflammation/cell death induced by fine dust. Additionally, mechanistic studies will be conducted to investigate the underlying pathways.</Description>
+					<Grant GrantId="2710008892">
+						<Title></Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-11-07</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-12">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Kribb</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

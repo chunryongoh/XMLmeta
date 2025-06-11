@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240734" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Development of Innovative-Target Antibacterials Leads</Title>
+					<Description>The aim of this project is to develop new antibacterial hits that target the physiological pathways crucial for virulence, antimicrobial resistance, and survival of the multi-drug resistant pathogens, which could mitigate the resistance emergence or the survival capability of the bacterial pathogens.</Description>
+					<Grant GrantId="1711201199">
+						<Title>Development of Innovative-Target Antibacterials Leads against Superbacteria</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-05-28</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-05-28">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>CHA University</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

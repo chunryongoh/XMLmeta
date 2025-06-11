@@ -1,0 +1,11 @@
+
+[
+  {"xpath": "/SUBMISSION/@accession", "type": "error", "note": "필수, 변경 불가"},
+  {"xpath": "/SUBMISSION/@submission_date", "type": "allow", "note": "변경 허용"},
+  {"xpath": "/SUBMISSION/IDENTIFIERS/PRIMARY_ID", "type": "error", "note": "필수, 변경 불가"},
+  {"xpath": "/SUBMISSION/IDENTIFIERS/SUBMITTER_ID", "type": "error", "note": "변경 불가, namespace 주의"},
+  {"xpath": "/SUBMISSION/CONTACTS/CONTACT/@inform_on_status", "type": "warn", "note": "변경 시 경고, 정책적 예외 가능"},
+  {"xpath": "/SUBMISSION/ACTIONS/ACTION/ADD/@source", "type": "error", "note": "불변, input 파일명과 매핑"},
+  {"xpath": "/SUBMISSION/ACTIONS/ACTION/ADD/@schema", "type": "error", "note": "불변"},
+  {"xpath": "/SUBMISSION/ACTIONS/ACTION/HOLD/@HoldUntilDate", "type": "allow", "note": "변경 허용 또는 정책적 예외"}
+] 

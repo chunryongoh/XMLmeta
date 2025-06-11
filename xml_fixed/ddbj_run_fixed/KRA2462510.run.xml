@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24065149" alias="KAR24065149" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065149</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of raw single-cell cDNA library of mThymus without size selection (KAR24065149)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065149" refcenter="KOBIC" refname="KAE24065149">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065149</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="LSK_10x_mThymus_L0_Gibson2_5cy_20240111.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065150" alias="KAR24065150" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065150</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Enrich-applied (targeting 11 transcripts derived from mtDNA) single-cell cDNA library of mThymus without size selection (KAR24065150)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065150" refcenter="KOBIC" refname="KAE24065150">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065150</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="LSK_10x_mThymus_L0_Gibson2_5cy_OuroEnrich_16cy_20240111.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065151" alias="KAR24065151" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065151</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Deplete-applied (targeting transcripts derived from rRNA and mtDNA) single-cell cDNA library of mThymus without size selection (KAR24065151)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065151" refcenter="KOBIC" refname="KAE24065151">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065151</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="PBK_10x_mThymus_L0_Gib2_MT_rRNA_deplet_20210712.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

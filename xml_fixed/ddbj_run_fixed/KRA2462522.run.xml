@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24065458" alias="KAR24065458" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065458</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24093260 (KAR24065458)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065458" refcenter="KOBIC" refname="KAE24065458">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065458</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="EV_1.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="EV_2.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-28</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-28</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065459" alias="KAR24065459" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065459</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24093261 (KAR24065459)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065459" refcenter="KOBIC" refname="KAE24065459">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065459</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="SYT11_1.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="SYT11_2.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-28</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-28</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065460" alias="KAR24065460" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065460</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24093262 (KAR24065460)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065460" refcenter="KOBIC" refname="KAE24065460">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065460</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="VHL_1.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="VHL_2.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-28</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-28</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

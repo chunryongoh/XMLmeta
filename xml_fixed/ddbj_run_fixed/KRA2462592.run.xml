@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24085800" alias="KAR24085800" center_name="Seoul National University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085800</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24106629 (KAR24085800)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085800" refcenter="KOBIC" refname="KAE24085800">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085800</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="CR_23_05368_TS_C_SSI_1_S1_L001_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05368_TS_C_SSI_1_S1_L001_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05368_TS_C_SSI_1_S1_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05368_TS_C_SSI_1_S1_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05368_TS_C_SSI_1_S1_L002_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05368_TS_C_SSI_1_S1_L002_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05368_TS_C_SSI_1_S1_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05368_TS_C_SSI_1_S1_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-1-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

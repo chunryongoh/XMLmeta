@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EXPERIMENT_SET>
+	<EXPERIMENT accession="KAE24068811" alias="KAE24068811" center_name="Dankook University College of Agriculture">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24068811</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>HiSeq X Ten paired Sequencing of KAS24097722 (KAE24068811)</TITLE>
+		<STUDY_REF accession="KAP240933">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240933(KAP240933)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240933</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24097722">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24097722(KAS24097722)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24097722</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>96_cultivars_GENOMIC</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Restriction Digest</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The total genomic DNA was extracted using the CTAB method. A genomic library with an insertion size of 151 bp was constructed, and two libraries were created using a single digestion with the u0026#39;ApeK1u0026#39; enzyme. Raw sequence reads were generated using the Illumina HiSeq X Ten platform.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>HiSeq X Ten</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-15</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-15</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-10-14</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+</EXPERIMENT_SET>

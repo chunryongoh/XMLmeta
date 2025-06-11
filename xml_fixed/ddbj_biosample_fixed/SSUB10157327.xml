@@ -1,0 +1,3363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106557</Id>
+		</Ids>
+		<Description>
+			<SampleName>cBS4</SampleName>
+			<Title>cBS4 (KAS24106557)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cBS4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106557</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106571</Id>
+		</Ids>
+		<Description>
+			<SampleName>cLu24</SampleName>
+			<Title>cLu24 (KAS24106571)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cLu24</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106571</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106570</Id>
+		</Ids>
+		<Description>
+			<SampleName>cLu23</SampleName>
+			<Title>cLu23 (KAS24106570)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cLu23</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106570</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106569</Id>
+		</Ids>
+		<Description>
+			<SampleName>cLu22</SampleName>
+			<Title>cLu22 (KAS24106569)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cLu22</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106569</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106568</Id>
+		</Ids>
+		<Description>
+			<SampleName>cLu21</SampleName>
+			<Title>cLu21 (KAS24106568)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cLu21</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106568</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106567</Id>
+		</Ids>
+		<Description>
+			<SampleName>cLu8</SampleName>
+			<Title>cLu8 (KAS24106567)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cLu8</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106567</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106566</Id>
+		</Ids>
+		<Description>
+			<SampleName>cLi24</SampleName>
+			<Title>cLi24 (KAS24106566)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cLi24</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106566</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106565</Id>
+		</Ids>
+		<Description>
+			<SampleName>cLi23</SampleName>
+			<Title>cLi23 (KAS24106565)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cLi23</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106565</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106564</Id>
+		</Ids>
+		<Description>
+			<SampleName>cLi22</SampleName>
+			<Title>cLi22 (KAS24106564)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cLi22</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106564</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106563</Id>
+		</Ids>
+		<Description>
+			<SampleName>cLi21</SampleName>
+			<Title>cLi21 (KAS24106563)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cLi21</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106563</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106562</Id>
+		</Ids>
+		<Description>
+			<SampleName>cLi6</SampleName>
+			<Title>cLi6 (KAS24106562)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cLi6</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106562</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106561</Id>
+		</Ids>
+		<Description>
+			<SampleName>cBS21</SampleName>
+			<Title>cBS21 (KAS24106561)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cBS21</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106561</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106560</Id>
+		</Ids>
+		<Description>
+			<SampleName>cBS8</SampleName>
+			<Title>cBS8 (KAS24106560)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cBS8</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106560</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106559</Id>
+		</Ids>
+		<Description>
+			<SampleName>cBS7</SampleName>
+			<Title>cBS7 (KAS24106559)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cBS7</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106559</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106558</Id>
+		</Ids>
+		<Description>
+			<SampleName>cBS5</SampleName>
+			<Title>cBS5 (KAS24106558)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cBS5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106558</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106543</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_Li2</SampleName>
+			<Title>O1M_Li2 (KAS24106543)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_Li2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106543</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106556</Id>
+		</Ids>
+		<Description>
+			<SampleName>cBH23</SampleName>
+			<Title>cBH23 (KAS24106556)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cBH23</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106556</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106555</Id>
+		</Ids>
+		<Description>
+			<SampleName>cBH22</SampleName>
+			<Title>cBH22 (KAS24106555)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cBH22</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106555</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106554</Id>
+		</Ids>
+		<Description>
+			<SampleName>cBH21</SampleName>
+			<Title>cBH21 (KAS24106554)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cBH21</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106554</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106553</Id>
+		</Ids>
+		<Description>
+			<SampleName>cBH5</SampleName>
+			<Title>cBH5 (KAS24106553)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cBH5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106553</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106552</Id>
+		</Ids>
+		<Description>
+			<SampleName>cBH4</SampleName>
+			<Title>cBH4 (KAS24106552)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">cBH4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106552</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106551</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_Lu6</SampleName>
+			<Title>O1M_Lu6 (KAS24106551)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_Lu6</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106551</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106550</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_Lu5</SampleName>
+			<Title>O1M_Lu5 (KAS24106550)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_Lu5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106550</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106549</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_Lu4</SampleName>
+			<Title>O1M_Lu4 (KAS24106549)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_Lu4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106549</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106548</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_Lu3</SampleName>
+			<Title>O1M_Lu3 (KAS24106548)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_Lu3</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106548</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106547</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_Lu2</SampleName>
+			<Title>O1M_Lu2 (KAS24106547)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_Lu2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106547</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106546</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_Li5</SampleName>
+			<Title>O1M_Li5 (KAS24106546)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_Li5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106546</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106545</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_Li4</SampleName>
+			<Title>O1M_Li4 (KAS24106545)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_Li4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106545</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106544</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_Li3</SampleName>
+			<Title>O1M_Li3 (KAS24106544)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_Li3</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106544</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106492</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_BH1</SampleName>
+			<Title>A1DM_BH1 (KAS24106492)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_BH1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106492</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106493</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_BH2</SampleName>
+			<Title>A1DM_BH2 (KAS24106493)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_BH2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106493</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106494</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_BH3</SampleName>
+			<Title>A1DM_BH3 (KAS24106494)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_BH3</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106494</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106495</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_BH4</SampleName>
+			<Title>A1DM_BH4 (KAS24106495)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_BH4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106495</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106496</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_BH5</SampleName>
+			<Title>A1DM_BH5 (KAS24106496)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_BH5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106496</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106497</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_BS1</SampleName>
+			<Title>A1DM_BS1 (KAS24106497)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_BS1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106497</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106498</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_BS2</SampleName>
+			<Title>A1DM_BS2 (KAS24106498)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_BS2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106498</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106499</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_BS3</SampleName>
+			<Title>A1DM_BS3 (KAS24106499)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_BS3</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106499</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106500</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_BS4</SampleName>
+			<Title>A1DM_BS4 (KAS24106500)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_BS4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106500</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106501</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_BS5</SampleName>
+			<Title>A1DM_BS5 (KAS24106501)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_BS5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106501</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106502</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_BH1</SampleName>
+			<Title>A1TM_BH1 (KAS24106502)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_BH1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106502</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106503</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_BH2</SampleName>
+			<Title>A1TM_BH2 (KAS24106503)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_BH2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106503</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106504</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_BH3</SampleName>
+			<Title>A1TM_BH3 (KAS24106504)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_BH3</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106504</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106505</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_BH4</SampleName>
+			<Title>A1TM_BH4 (KAS24106505)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_BH4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106505</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106506</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_BH5</SampleName>
+			<Title>A1TM_BH5 (KAS24106506)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_BH5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106506</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106507</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_BS1</SampleName>
+			<Title>A1TM_BS1 (KAS24106507)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_BS1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106507</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106508</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_BS2</SampleName>
+			<Title>A1TM_BS2 (KAS24106508)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_BS2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106508</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106509</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_BS3</SampleName>
+			<Title>A1TM_BS3 (KAS24106509)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_BS3</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106509</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106510</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_BS4</SampleName>
+			<Title>A1TM_BS4 (KAS24106510)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_BS4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106510</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106511</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_BS5</SampleName>
+			<Title>A1TM_BS5 (KAS24106511)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_BS5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106511</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106512</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_BH1</SampleName>
+			<Title>O1M_BH1 (KAS24106512)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_BH1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106512</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106513</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_BH2</SampleName>
+			<Title>O1M_BH2 (KAS24106513)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_BH2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106513</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106514</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_BH4</SampleName>
+			<Title>O1M_BH4 (KAS24106514)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_BH4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106514</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106515</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_BH5</SampleName>
+			<Title>O1M_BH5 (KAS24106515)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_BH5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106515</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106516</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_BH6</SampleName>
+			<Title>O1M_BH6 (KAS24106516)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_BH6</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106516</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106517</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_BS1</SampleName>
+			<Title>O1M_BS1 (KAS24106517)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_BS1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106517</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106518</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_BS2</SampleName>
+			<Title>O1M_BS2 (KAS24106518)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_BS2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106518</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106519</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_BS4</SampleName>
+			<Title>O1M_BS4 (KAS24106519)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_BS4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106519</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106520</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_BS5</SampleName>
+			<Title>O1M_BS5 (KAS24106520)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_BS5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106520</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106521</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_BS6</SampleName>
+			<Title>O1M_BS6 (KAS24106521)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_BS6</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106521</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106522</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_Li1</SampleName>
+			<Title>A1DM_Li1 (KAS24106522)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_Li1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106522</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106523</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_Li2</SampleName>
+			<Title>A1DM_Li2 (KAS24106523)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_Li2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106523</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106524</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_Li3</SampleName>
+			<Title>A1DM_Li3 (KAS24106524)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_Li3</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106524</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106525</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_Li4</SampleName>
+			<Title>A1DM_Li4 (KAS24106525)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_Li4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106525</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106526</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_Li5</SampleName>
+			<Title>A1DM_Li5 (KAS24106526)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_Li5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106526</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106527</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_Lu1</SampleName>
+			<Title>A1DM_Lu1 (KAS24106527)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_Lu1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106527</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106528</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_Lu2</SampleName>
+			<Title>A1DM_Lu2 (KAS24106528)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_Lu2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106528</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106529</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_Lu3</SampleName>
+			<Title>A1DM_Lu3 (KAS24106529)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_Lu3</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106529</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106530</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_Lu4</SampleName>
+			<Title>A1DM_Lu4 (KAS24106530)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_Lu4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106530</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106531</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1DM_Lu5</SampleName>
+			<Title>A1DM_Lu5 (KAS24106531)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1DM_Lu5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106531</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106532</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_Li1</SampleName>
+			<Title>A1TM_Li1 (KAS24106532)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_Li1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106532</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106533</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_Li2</SampleName>
+			<Title>A1TM_Li2 (KAS24106533)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_Li2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106533</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106534</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_Li3</SampleName>
+			<Title>A1TM_Li3 (KAS24106534)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_Li3</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106534</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106535</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_Li4</SampleName>
+			<Title>A1TM_Li4 (KAS24106535)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_Li4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106535</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106536</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_Li5</SampleName>
+			<Title>A1TM_Li5 (KAS24106536)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_Li5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106536</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106537</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_Lu1</SampleName>
+			<Title>A1TM_Lu1 (KAS24106537)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_Lu1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106537</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106538</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_Lu2</SampleName>
+			<Title>A1TM_Lu2 (KAS24106538)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_Lu2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106538</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106539</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_Lu3</SampleName>
+			<Title>A1TM_Lu3 (KAS24106539)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_Lu3</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106539</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106540</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_Lu4</SampleName>
+			<Title>A1TM_Lu4 (KAS24106540)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_Lu4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106540</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106541</Id>
+		</Ids>
+		<Description>
+			<SampleName>A1TM_Lu5</SampleName>
+			<Title>A1TM_Lu5 (KAS24106541)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">A1TM_Lu5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106541</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106542</Id>
+		</Ids>
+		<Description>
+			<SampleName>O1M_Li1</SampleName>
+			<Title>O1M_Li1 (KAS24106542)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">O1M_Li1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241018</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Suwon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241018</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157327</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106542</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

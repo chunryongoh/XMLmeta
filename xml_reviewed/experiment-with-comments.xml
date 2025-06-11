@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EXPERIMENT_SET>
+    <EXPERIMENT accession="KAE24062461" alias="KAE24062461" center_name="Yonsei University">
+        <IDENTIFIERS>
+            <PRIMARY_ID/>
+            <SUBMITTER_ID namespace="KOBIC">KAE24062461</SUBMITTER_ID>
+        </IDENTIFIERS>
+        <TITLE>Sequel II paired-end Sequencing of SCI</TITLE>
+        <STUDY_REF accession="KAP240632" refcenter="KOBIC" refname="KAP240632"> <-- refcenter="Yonsei University" or you may omit this.
+            <IDENTIFIERS>
+                <PRIMARY_ID label="BioProject ID">KAP240632</PRIMARY_ID>
+            </IDENTIFIERS>
+        </STUDY_REF>
+        <DESIGN>
+            <DESIGN_DESCRIPTION/>
+            <SAMPLE_DESCRIPTOR accession="KAS24087646" refcenter="KOBIC" refname="KAS24087646"> <-- refcenter="Yonsei University" or you may omit this.
+                <IDENTIFIERS>
+                    <PRIMARY_ID label="BioSample ID">KAS24087646</PRIMARY_ID>
+                </IDENTIFIERS>
+            </SAMPLE_DESCRIPTOR>
+            <LIBRARY_DESCRIPTOR>
+                <LIBRARY_NAME>SCI_GENOMIC</LIBRARY_NAME>
+                <LIBRARY_STRATEGY>AMPLICON</LIBRARY_STRATEGY>
+                <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+                <LIBRARY_SELECTION>PCR</LIBRARY_SELECTION>
+                <LIBRARY_LAYOUT>
+                    <PAIRED NOMINAL_LENGTH=""/> <-- Omit NOMINAL_LENGTH, otherwise, you need to enter an integer value.
+                </LIBRARY_LAYOUT>
+                <LIBRARY_CONSTRUCTION_PROTOCOL>PacBio Amplicon Library</LIBRARY_CONSTRUCTION_PROTOCOL>
+            </LIBRARY_DESCRIPTOR>
+        </DESIGN>
+        <PLATFORM>
+            <ILLUMINA> <-- Platform and instrument model should be compatible. In this case, must be PACBIO_SMRT because Sequel is not ILLUMINA.
+                <INSTRUMENT_MODEL>Sequel II</INSTRUMENT_MODEL>
+            </ILLUMINA>
+        </PLATFORM>
+        <EXPERIMENT_ATTRIBUTES>
+            <EXPERIMENT_ATTRIBUTE>
+                <TAG>KOBIC_submission_date</TAG>
+                <VALUE>2024-3-12</VALUE>
+            </EXPERIMENT_ATTRIBUTE>
+            <EXPERIMENT_ATTRIBUTE>
+                <TAG>KOBIC_registration_date</TAG>
+                <VALUE>2024-3-12</VALUE>
+            </EXPERIMENT_ATTRIBUTE>
+            <EXPERIMENT_ATTRIBUTE>
+                <TAG>KOBIC_release_date</TAG>
+                <VALUE>2024-3-21</VALUE>
+            </EXPERIMENT_ATTRIBUTE>
+        </EXPERIMENT_ATTRIBUTES>
+    </EXPERIMENT>
+</EXPERIMENT_SET>

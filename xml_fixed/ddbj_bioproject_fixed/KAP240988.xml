@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240988" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Comprehensive study on the phenomenon of mutation accumulation in the individual level</Title>
+					<Description>The cause of aging still remains unknown. The recent human aging studies tend to utilize cross-sectional data of different age group despite the different environmental confounding factors accumulated on them in the long aging process. Therefore, we investigated the eight healthy male cynomolgus macaques, the monkeys meticulously shielded from the factors except aging. The annual sampling was designed with two individuals in each four age groups.</Description>
+					<Grant GrantId="2340008982">
+						<Title>Comprehensive study on the phenomenon of mutation accumulation in the individual level</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-11-01</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="9541">
+								<OrganismName>Macaca fascicularis</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-04">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

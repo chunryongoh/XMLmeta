@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24065159" alias="KAR24065159" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065159</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mBrain without size selection (KAR24065159)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065159" refcenter="KOBIC" refname="KAE24065159">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065159</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="LSK_10x_mBrain_Cortex_Hippo_Gib2_7_7_7_20230207.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065170" alias="KAR24065170" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065170</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mBrain without size selection (KAR24065170)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065170" refcenter="KOBIC" refname="KAE24065170">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065170</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s3.LSK_10x_mBrainCortexHipSC_ODrM.v20230620_6cy_20230622.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065160" alias="KAR24065160" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065160</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mEpidermis2 without size selection (KAR24065160)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065160" refcenter="KOBIC" refname="KAE24065160">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065160</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s10.LSK_10x_mEpidermis42P_Gib2_6cy_20230626.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065171" alias="KAR24065171" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065171</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mEpidermis2 without size selection (KAR24065171)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065171" refcenter="KOBIC" refname="KAE24065171">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065171</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s10.LSK_10x_mEpidermis42P_ODrM.v20230620_6cy_20230622.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065161" alias="KAR24065161" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065161</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mHeart Nuclei without size selection (KAR24065161)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065161" refcenter="KOBIC" refname="KAE24065161">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065161</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s4.LSK_10x_mHeartSNuc_Gib2_6cy_20230626.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065172" alias="KAR24065172" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065172</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mHeart Nuclei without size selection (KAR24065172)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065172" refcenter="KOBIC" refname="KAE24065172">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065172</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s4.LSK_10x_mHeartSNuc_ODrM.v20230620_6cy_20230622.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065162" alias="KAR24065162" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065162</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mIntestine2 without size selection (KAR24065162)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065162" refcenter="KOBIC" refname="KAE24065162">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065162</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s5.LSK_10x_mIntestine42P_Gib2_6cy_20230626.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065173" alias="KAR24065173" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065173</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mIntestine2 without size selection (KAR24065173)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065173" refcenter="KOBIC" refname="KAE24065173">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065173</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s5.LSK_10x_mIntestine42P_ODrM.v20230620_6cy_20230622.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065164" alias="KAR24065164" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065164</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mLiver2 without size selection (KAR24065164)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065164" refcenter="KOBIC" refname="KAE24065164">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065164</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s1.LSK_10x_mLiver25to50P_Gib2_6cy_20230626.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065175" alias="KAR24065175" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065175</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mLiver2 without size selection (KAR24065175)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065175" refcenter="KOBIC" refname="KAE24065175">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065175</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s1.LSK_10x_mLiver25to50P_ODrM.v20230620_6cy_20230622.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065163" alias="KAR24065163" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065163</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mLiver Nuclei without size selection (KAR24065163)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065163" refcenter="KOBIC" refname="KAE24065163">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065163</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s7.LSK_10x_mLiverNuclei_Gib2_6cy_20230626.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065174" alias="KAR24065174" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065174</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mLiver Nuclei without size selection (KAR24065174)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065174" refcenter="KOBIC" refname="KAE24065174">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065174</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s7.LSK_10x_mLiverNuclei_ODrM.v20230620_6cy_20230622.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065165" alias="KAR24065165" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065165</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mLung3 without size selection (KAR24065165)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065165" refcenter="KOBIC" refname="KAE24065165">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065165</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s8.LSK_10x_mLungPerfusion_Gib2_6cy_20230626.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065176" alias="KAR24065176" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065176</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mLung3 without size selection (KAR24065176)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065176" refcenter="KOBIC" refname="KAE24065176">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065176</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s8.LSK_10x_mLungPerfusion_ODrM.v20230620_6cy_20230622.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065166" alias="KAR24065166" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065166</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mOvary without size selection (KAR24065166)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065166" refcenter="KOBIC" refname="KAE24065166">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065166</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="LSK_10x_mOvary_Gib2_5_20230207.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065177" alias="KAR24065177" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065177</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mOvary without size selection (KAR24065177)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065177" refcenter="KOBIC" refname="KAE24065177">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065177</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="LSK_10x_mOvary_ODrM_20231006.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065167" alias="KAR24065167" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065167</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mPBMC without size selection (KAR24065167)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065167" refcenter="KOBIC" refname="KAE24065167">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065167</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s2.LSK_10x_mPBMC_Gib2_6cy_20230626.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065178" alias="KAR24065178" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065178</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mPBMC without size selection (KAR24065178)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065178" refcenter="KOBIC" refname="KAE24065178">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065178</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s2.LSK_10x_mPBMC_ODrM.v20230620_6cy_20230622.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065168" alias="KAR24065168" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065168</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mPancreas without size selection (KAR24065168)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065168" refcenter="KOBIC" refname="KAE24065168">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065168</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s11.LSK_10x_mPancreasIslet_Gib2_6cy_20230626.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065179" alias="KAR24065179" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065179</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mPancreas without size selection (KAR24065179)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065179" refcenter="KOBIC" refname="KAE24065179">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065179</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s11.LSK_10x_mPancreasIslet_ODrM.v20230620_6cy_20230622.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065169" alias="KAR24065169" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065169</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mPancreas Nuclei without size selection (KAR24065169)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065169" refcenter="KOBIC" refname="KAE24065169">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065169</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s6.LSK_10x_mPancreasSNuc2_Gib2_6cy_20230626.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065180" alias="KAR24065180" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065180</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mPancreas Nuclei without size selection (KAR24065180)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065180" refcenter="KOBIC" refname="KAE24065180">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065180</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="s6.LSK_10x_mPancreasSNuc2_ODrM.v20230620_6cy_20230622.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

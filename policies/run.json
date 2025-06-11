@@ -1,0 +1,11 @@
+
+[
+  {"xpath": "/RUN/IDENTIFIERS/PRIMARY_ID", "type": "error", "note": "필수, 변경 불가"},
+  {"xpath": "/RUN/IDENTIFIERS/SUBMITTER_ID", "type": "error", "note": "변경 불가, namespace 주의"},
+  {"xpath": "/RUN/TITLE", "type": "warn", "note": "변경 시 경고"},
+  {"xpath": "/RUN/EXPERIMENT_REF/@accession", "type": "error", "note": "불변"},
+  {"xpath": "/RUN/DATA_BLOCK/FILES/FILE/@filename", "type": "error", "note": "불변, 정책적 예외 가능"},
+  {"xpath": "/RUN/DATA_BLOCK/FILES/FILE/@checksum", "type": "error", "note": "불변, 정책적 예외 가능"},
+  {"xpath": "/RUN/RUN_ATTRIBUTES/RUN_ATTRIBUTE[TAG='KOBIC_submission_date']/VALUE", "type": "allow", "note": "변경 허용"},
+  {"xpath": "/RUN/RUN_ATTRIBUTES/RUN_ATTRIBUTE[TAG='metadata_modification']/VALUE", "type": "allow", "note": "변경 허용"}
+] 

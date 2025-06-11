@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24085803" alias="KAR24085803" center_name="Seoul National University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085803</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24106621 (KAR24085803)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085803" refcenter="KOBIC" refname="KAE24085803">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085803</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="21_01612_LI_SING_S2_L001_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L001_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L002_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L002_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L003_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L003_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L003_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L003_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L004_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L004_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L004_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01612_LI_SING_S2_L004_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-1-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085804" alias="KAR24085804" center_name="Seoul National University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085804</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24106622 (KAR24085804)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085804" refcenter="KOBIC" refname="KAE24085804">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085804</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="CR_22_02592_TS_C_SSI_1_S6_L001_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_22_02592_TS_C_SSI_1_S6_L001_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_22_02592_TS_C_SSI_1_S6_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_22_02592_TS_C_SSI_1_S6_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-1-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085805" alias="KAR24085805" center_name="Seoul National University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085805</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24106623 (KAR24085805)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085805" refcenter="KOBIC" refname="KAE24085805">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085805</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="21_01611_LI_SING_S1_L001_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L001_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L002_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L002_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L003_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L003_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L003_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L003_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L004_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L004_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L004_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01611_LI_SING_S1_L004_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-1-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085807" alias="KAR24085807" center_name="Seoul National University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085807</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24106624 (KAR24085807)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085807" refcenter="KOBIC" refname="KAE24085807">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085807</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="21_01510_LI_SING_S4_L001_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01510_LI_SING_S4_L001_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01510_LI_SING_S4_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01510_LI_SING_S4_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01510_LI_SING_S4_L002_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01510_LI_SING_S4_L002_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01510_LI_SING_S4_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="21_01510_LI_SING_S4_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-1-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085806" alias="KAR24085806" center_name="Seoul National University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085806</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24106625 (KAR24085806)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085806" refcenter="KOBIC" refname="KAE24085806">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085806</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="CR_22_00201_TS_C_SSI_1_S1_L001_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_22_00201_TS_C_SSI_1_S1_L001_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_22_00201_TS_C_SSI_1_S1_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_22_00201_TS_C_SSI_1_S1_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_22_00201_TS_C_SSI_1_S1_L002_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_22_00201_TS_C_SSI_1_S1_L002_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_22_00201_TS_C_SSI_1_S1_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_22_00201_TS_C_SSI_1_S1_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-1-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085808" alias="KAR24085808" center_name="Seoul National University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085808</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24106627 (KAR24085808)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085808" refcenter="KOBIC" refname="KAE24085808">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085808</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="CR_23_05366_TS_C_SSI_1_S5_L001_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05366_TS_C_SSI_1_S5_L001_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05366_TS_C_SSI_1_S5_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05366_TS_C_SSI_1_S5_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05366_TS_C_SSI_1_S5_L002_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05366_TS_C_SSI_1_S5_L002_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05366_TS_C_SSI_1_S5_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05366_TS_C_SSI_1_S5_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-1-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085809" alias="KAR24085809" center_name="Seoul National University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085809</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24106628 (KAR24085809)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085809" refcenter="KOBIC" refname="KAE24085809">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085809</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="CR_23_05367_TS_C_SSI_1_S6_L001_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05367_TS_C_SSI_1_S6_L001_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05367_TS_C_SSI_1_S6_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05367_TS_C_SSI_1_S6_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05367_TS_C_SSI_1_S6_L002_I1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05367_TS_C_SSI_1_S6_L002_I2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05367_TS_C_SSI_1_S6_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="CR_23_05367_TS_C_SSI_1_S6_L002_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-1-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

@@ -1,0 +1,44 @@
+# ddbj_bioproject.xml → PRJDB19520.xml로 변경 시 반영해야 할 모든 차이점(전체 파일 기준)
+
+1. **인코딩**
+   - ddbj_bioproject.xml: `UTF-8`
+   - PRJDB19520.xml: `ISO-8859-1`
+   - → 실제 제출 요구에 맞게 인코딩을 맞춰야 함
+
+2. **최상위 구조 및 반복**
+   - ddbj_bioproject.xml: <PackageSet> 내에 <Package>가 여러 개(여러 프로젝트 포함)
+   - PRJDB19520.xml: <PackageSet> 내 <Package> 1개(단일 프로젝트)
+   - → 제출본이 여러 프로젝트를 포함할 수 있으나, 실제 제출은 단일 프로젝트 단위로 분리 필요할 수 있음
+
+3. **ProjectID**
+   - ArchiveID의 accession, archive 값이 다름 (실제 예시: PRJDB19520, DDBJ)
+   - LocalID 필드가 실제 예시에만 존재
+   - → LocalID 추가, ArchiveID 값/형식 일치 필요
+
+4. **ProjectDescr**
+   - <Grant> 하위에 <Agency> 필드가 실제 예시에만 존재
+   - <ProjectReleaseDate> 형식이 다름 (제출본: yyyy-mm-dd, 실제: yyyy-mm-ddThh:mm:ss+09:00)
+   - <UserTerm> 태그(등록/제출/공개일 등)가 실제 예시에만 존재하며, 제출본은 별도 필드로 존재
+   - → Agency, UserTerm 등 필드 추가, 날짜 포맷 일치 필요
+
+5. **ProjectType**
+   - 실제 예시에는 ProjectType, ProjectTypeSubmission, Target, Method, Objectives, ProjectDataTypeSet 등 구조가 더 상세하게 포함됨
+   - 제출본에는 ProjectType 관련 구조가 없음
+   - → ProjectType 전체 구조 추가 필요
+
+6. **Submission**
+   - 실제 예시에는 <Submission> 블록이 별도로 존재하며, 제출본에는 없음
+   - <Organization>, <Contact>, <Access> 등 상세 정보가 실제 예시에만 존재
+   - → Submission 전체 구조 추가 필요
+
+7. **기타**
+   - 태그/필드명, 날짜 포맷, 구조적 위치 등 세부 차이 다수
+   - → 모든 필드/구조/포맷을 실제 예시 기준으로 맞추어야 함
+
+---
+
+**정책:**
+- 제출본(ddbj_bioproject.xml)은 실제 예시(PRJDB19520.xml)의 구조와 필드를 최대한 맞추어야 하며, 불필요한 필드는 제거, 누락된 필드는 추가해야 함.
+- 날짜, 인코딩, 태그명, 구조 등은 실제 예시를 기준으로 일치시켜야 함.
+- <UserTerm>, <ProjectType>, <Submission> 등 실제 예시의 필수 구조를 반드시 반영할 것.
+- 여러 프로젝트가 한 파일에 있을 경우, 실제 제출 요구에 따라 분리 필요 여부 확인.

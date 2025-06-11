@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EXPERIMENT_SET>
+	<EXPERIMENT accession="KAE24065154" alias="KAE24065154" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065154</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Cell-Enrich-applied (targeting 65 granulocytes and cardiomyocytes among 6,964 cells in total) single-cell cDNA library of mHeart, size selected with BluePippinUpTo2250bpCut (KAE24065154)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092064">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092064(KAS24092064)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092064</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mHeart_GarvanPool_OuroEnrich1_Cardiomyocyte_Granulocyte_65cells_8_10_20220404</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from a Ouro-Cell-Enrich-applied single-cell cDNA library using the Ligation Sequencing Kit V9 (#SQK-LSK109, #EXP-NBD104, and #EXP-NBD114, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a MinION flow cell (R9.4.1) (#FLO-MIN106, Oxford Nanopore Technologies) and sequenced on the MinION Mk1B (Oxford Nanopore Technologies) with a sampling rate of 4 kHz. The raw sequencing output (FAST5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r9.4.1_450bps_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>MinION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065155" alias="KAE24065155" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065155</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Cell-Enrich-applied (targeting 99 myofirboblasts among 6,964 cells in total) single-cell cDNA library of mHeart, size selected with BluePippinUpTo2250bpCut (KAE24065155)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092064">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092064(KAS24092064)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092064</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mHeart_GarvanPool_OuroEnrich1_Myofibroblast_99cells_8_10_20220404</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from a Ouro-Cell-Enrich-applied single-cell cDNA library using the Ligation Sequencing Kit V9 (#SQK-LSK109, #EXP-NBD104, and #EXP-NBD114, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a MinION flow cell (R9.4.1) (#FLO-MIN106, Oxford Nanopore Technologies) and sequenced on the MinION Mk1B (Oxford Nanopore Technologies) with a sampling rate of 4 kHz. The raw sequencing output (FAST5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r9.4.1_450bps_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>MinION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065156" alias="KAE24065156" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065156</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Cell-Enrich-applied (targeting 45 epithelial cell of the ascending limb of the loop of Henle among 2,672 cells in total) single-cell cDNA library of mKidney, size selected with BluePippinUpTo2250bpCut (KAE24065156)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092068">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092068(KAS24092068)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092068</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mKidney_GarvanPool_OuroEnrich1_ALOH_45cells_8_10_20220404</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from a Ouro-Cell-Enrich-applied single-cell cDNA library using the Ligation Sequencing Kit V9 (#SQK-LSK109, #EXP-NBD104, and #EXP-NBD114, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a MinION flow cell (R9.4.1) (#FLO-MIN106, Oxford Nanopore Technologies) and sequenced on the MinION Mk1B (Oxford Nanopore Technologies) with a sampling rate of 4 kHz. The raw sequencing output (FAST5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r9.4.1_450bps_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>MinION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065157" alias="KAE24065157" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065157</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Cell-Enrich-applied (targeting 53 cholangiocytes and hepatocytes among 6,400 cells in total) single-cell cDNA library of mLiver, size selected with BluePippinUpTo2250bpCut (KAE24065157)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092070">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092070(KAS24092070)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092070</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mLiver_GarvanPool_OuroEnrich1_Hepatocyte_Cholangiocyte_53cells_8_10_20220404</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from a Ouro-Cell-Enrich-applied single-cell cDNA library using the Ligation Sequencing Kit V9 (#SQK-LSK109, #EXP-NBD104, and #EXP-NBD114, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a MinION flow cell (R9.4.1) (#FLO-MIN106, Oxford Nanopore Technologies) and sequenced on the MinION Mk1B (Oxford Nanopore Technologies) with a sampling rate of 4 kHz. The raw sequencing output (FAST5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r9.4.1_450bps_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>MinION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065158" alias="KAE24065158" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065158</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Cell-Enrich-applied (targeting 53 stellate cells among 6,400 cells in total) single-cell cDNA library of mLiver, size selected with BluePippinUpTo2250bpCut (KAE24065158)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092070">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092070(KAS24092070)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092070</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mLiver_GarvanPool_OuroEnrich1_Stellate_53cells_8_10_20220404</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from a Ouro-Cell-Enrich-applied single-cell cDNA library using the Ligation Sequencing Kit V9 (#SQK-LSK109, #EXP-NBD104, and #EXP-NBD114, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a MinION flow cell (R9.4.1) (#FLO-MIN106, Oxford Nanopore Technologies) and sequenced on the MinION Mk1B (Oxford Nanopore Technologies) with a sampling rate of 4 kHz. The raw sequencing output (FAST5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r9.4.1_450bps_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>MinION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+</EXPERIMENT_SET>

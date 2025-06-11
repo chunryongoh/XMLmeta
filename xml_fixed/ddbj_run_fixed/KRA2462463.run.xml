@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24062641" alias="KAR24062641" center_name="Korea Research Institute of Bioscience and Biotechnology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062641</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina GA IIx end sequencing of Kluyveromyces marxianus KCTC 17555 transcriptome (YPD medium, 42 degree C) (KAR24062641)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062641" refcenter="KOBIC" refname="KAE24062641">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062641</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="YPD_30C_NoIndex_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="YPD_30C_NoIndex_L001_R1_002.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="YPD_30C_NoIndex_L001_R1_003.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-3-21</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062642" alias="KAR24062642" center_name="Korea Research Institute of Bioscience and Biotechnology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062642</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina GA IIx end sequencing of Kluyveromyces marxianus KCTC 17555 transcriptome (YPX medium, 30 degree C) (KAR24062642)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062642" refcenter="KOBIC" refname="KAE24062642">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062642</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="YPX_30C_NoIndex_L002_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="YPX_30C_NoIndex_L002_R1_002.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="YPX_30C_NoIndex_L002_R1_003.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-3-21</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062643" alias="KAR24062643" center_name="Korea Research Institute of Bioscience and Biotechnology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062643</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina GA IIx end sequencing of Kluyveromyces marxianus KCTC 17555 transcriptome (YPD medium, 30 degree C) (KAR24062643)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062643" refcenter="KOBIC" refname="KAE24062643">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062643</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="YPD_42C_NoIndex_L003_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="YPD_42C_NoIndex_L003_R1_002.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-3-21</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

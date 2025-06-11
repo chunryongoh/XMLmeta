@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24064772" alias="KAR24064772" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064772</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064772)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064772" refcenter="KOBIC" refname="KAE24064772">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064772</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_A_floxHFDQC_M3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_A_floxHFDQC_M3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064773" alias="KAR24064773" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064773</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064773)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064773" refcenter="KOBIC" refname="KAE24064773">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064773</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_A_floxHFDQC_M4_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_A_floxHFDQC_M4_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064774" alias="KAR24064774" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064774</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064774)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064774" refcenter="KOBIC" refname="KAE24064774">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064774</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_A_floxHFDQC_M5_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_A_floxHFDQC_M5_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064775" alias="KAR24064775" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064775</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064775)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064775" refcenter="KOBIC" refname="KAE24064775">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064775</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_A_KOHFDQC_M16_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_A_KOHFDQC_M16_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064776" alias="KAR24064776" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064776</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064776)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064776" refcenter="KOBIC" refname="KAE24064776">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064776</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_A_KOHFDQC_M17_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_A_KOHFDQC_M17_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064777" alias="KAR24064777" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064777</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064777)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064777" refcenter="KOBIC" refname="KAE24064777">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064777</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_A_KOHFDQC_M18_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_A_KOHFDQC_M18_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064778" alias="KAR24064778" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064778</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064778)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064778" refcenter="KOBIC" refname="KAE24064778">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064778</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_A_KOHFDQC_M19_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_A_KOHFDQC_M19_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064779" alias="KAR24064779" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064779</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064779)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064779" refcenter="KOBIC" refname="KAE24064779">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064779</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_A_KOHFDQC_M20_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_A_KOHFDQC_M20_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064780" alias="KAR24064780" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064780</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064780)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064780" refcenter="KOBIC" refname="KAE24064780">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064780</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_C_floxchowQC_M5_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_C_floxchowQC_M5_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064781" alias="KAR24064781" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064781</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064781)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064781" refcenter="KOBIC" refname="KAE24064781">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064781</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_C_floxchowQC_M4_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_C_floxchowQC_M4_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064782" alias="KAR24064782" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064782</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064782)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064782" refcenter="KOBIC" refname="KAE24064782">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064782</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_C_floxchowQC_M3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_C_floxchowQC_M3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064783" alias="KAR24064783" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064783</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064783)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064783" refcenter="KOBIC" refname="KAE24064783">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064783</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_C_floxchowQC_M2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_C_floxchowQC_M2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064784" alias="KAR24064784" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064784</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064784)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064784" refcenter="KOBIC" refname="KAE24064784">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064784</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_C_floxchowQC_M1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_C_floxchowQC_M1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064785" alias="KAR24064785" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064785</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064785)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064785" refcenter="KOBIC" refname="KAE24064785">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064785</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_B_KOchowQC_M10_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_B_KOchowQC_M10_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064786" alias="KAR24064786" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064786</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064786)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064786" refcenter="KOBIC" refname="KAE24064786">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064786</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_B_KOchowQC_M9_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_B_KOchowQC_M9_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064787" alias="KAR24064787" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064787</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064787)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064787" refcenter="KOBIC" refname="KAE24064787">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064787</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_B_KOchowQC_M8_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_B_KOchowQC_M8_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064788" alias="KAR24064788" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064788</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064788)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064788" refcenter="KOBIC" refname="KAE24064788">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064788</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_B_KOchowQC_M7_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_B_KOchowQC_M7_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24064789" alias="KAR24064789" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24064789</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24064789)</TITLE>
+		<EXPERIMENT_REF accession="KAE24064789" refcenter="KOBIC" refname="KAE24064789">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24064789</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_B_KOchowQC_M6_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_B_KOchowQC_M6_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-02</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP241018" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Large-scale profiling of coding and long noncoding transcriptomes in the tissue of mice acutely exposed to vaporized CBD or THC</Title>
+					<Description>The experiment was conducted using 20 eight-week-old male ICR mice. The mice were divided into four groups: Negative Control, Oil-based Control, CBD-treated, and THC-treated, with five mice assigned to each group. The mice were exposed to vaporized Oil (a solvent containing dissolved CBD and THC), CBD, or THC at a concentration of 50 mg. One day after exposure, tissue samples were collected, and total RNA was extracted using TRIzol. The extracted total RNA was prepared into cDNA libraries using the CORALL RNA-Seq V2 Library Prep Kit (LEXOGEN) and sequenced on the NovaSeq 6000 platform (Illumina).</Description>
+					<Grant GrantId="2710001658">
+						<Title>Establishment of biomarkers and identification of human toxicity mechanisms in hemp oil vaping exposure</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2027-12-31</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-27">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Ajou University Industry-Academic Cooperation Foundation</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

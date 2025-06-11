@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240772" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Mouse Single-Cell Long-Read Splicing Atlas by Ouro-Seq</Title>
+					<Description>Current full-length single-cell RNA-sequencing methods using short- or long-read sequencing technologies suffer from pervasive reverse transcription and amplification artifacts and a strong bias toward shorter cDNA molecules introduced during the artifact removal process, leading to low isoform quantification accuracy and high sequencing cost. Here, we introduce Ouro-Seq, a novel single-cell long-read sequencing framework that combines a versatile artifact removal mechanism without length bias and a robust gel-free DNA size selection method for the comprehensive characterization of genuine full-length mRNA transcripts of varying sizes (up to 6 kbp) at a single-cell resolution. We also developed a novel computational pipeline, Ouro-Tools, that normalizes mRNA size distributions and detects mRNA 7-methylguanosine caps to integrate multiple single-cell long-read RNA-sequencing experiments across modalities and characterize full-length transcripts, respectively. Using Ouro-Seq and Ouro-Tools, we constructed the Mouse Single-Cell Splicing Atlas (MSCSA) by collecting full-length transcriptomes of 103,304 nuclei or cells from 12 major organs and tissues of adult mice (Mus musculus). We characterized transcript usage patterns for the majority of protein-coding genes across ~200 mouse cell types in full length. Using full-length information at the single-cell level, we show that coordinated changes in the anion affinity of kidney-specific Na-K-Cl cotransporters and permeability to divalent cations along the thick ascending limb of the loop of Henle are the results of interactions among three functionally distinct cell populations with unique isoform expression patterns. We hope that our single-cell long-read toolkits and resources will allow the investigation of important questions in single-cell biology that were difficult to answer using short-read sequencing alone.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2026-07-16</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-7-18</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-7-18</UserTerm>
+					<UserTerm term="KOBIC_release_date">2026-7-16</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-07-18">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Gwangju Institute of Science and Technology</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

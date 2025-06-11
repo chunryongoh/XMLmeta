@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP241003" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>The efficient RNP-mediated CRISPR/Cas9 genome editing protocol in potato to develop Phytophthora infestans resistant mutants by targeting the susceptibility gene, Signal Responsive 4 (SR4), in protoplasts.</Title>
+					<Description>Potato is affected by various factors such as temperature, soil conditions and disease. In particular, the effect of diseases on the yield and quality is fatal. For the reason, numerous attempts are currently being made to develop disease-resistant cultivars through cross-breeding or new breeding technologies. Genome editing technologies that enable precise editing of target DNA sequences in vivo are effective tools for improving crop agronomic properties. Moreover, DNA-free genome editing with ribonucleoproteins (RNPs) can be edited without the integration of foreign genes into the plant genome, making it possible to satisfy public interest in 'safe' biotechnology. However, this technique to obtain RNP-mediated genome editing plants from many plant species are still challenging with low efficiency. Here, we established an efficient CRISPR/Cas9 genome editing by inducing protoplast-derived mutants using RNP-mediated CRIPSR/Cas9 in potato. To confer the pathogen resistance, we targeted the inhibition of the SR4 (Signal Response protein 4), one of the susceptibility genes. Mutations in StSR4 were efficiently introduced in regenerated potato plants with a maximum efficiency of 34 percent. The stsr4 mutant stsr4_3-19 showed more than twice the resistance against P.infestance than the wild-type. This mutant released the expression of StEDS1, which was inhibited by the expression of SR4, leading to improved expression of the StPR1. The increase in expression of salicylic acid (SA)-related genes actually led to the accumulation of SA, and these effects show that the resistance against P.infestance. This RNP-mediated CRISPR/Cas9-based potato genome editing protocol provides assistance to accelerate the research and molecular breeding of many important Solanaceae crops.</Description>
+					<Grant GrantId="2390000419">
+						<Title>Development of universal method and platform for crop transformation</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-11-15</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-15">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Research Institute of Bioscience and Biotechnology (KRIBB)</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

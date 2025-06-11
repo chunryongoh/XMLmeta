@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24085834" alias="KAR24085834" center_name="Korea Research Institute of Bioscience and Biotechnology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085834</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Revio single Sequencing of KAS24106772 (KAR24085834)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085834" refcenter="KOBIC" refname="KAE24085834">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085834</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sunbal_R.1Cell.hifi.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-11-28</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-11-28</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2027-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24085835" alias="KAR24085835" center_name="Korea Research Institute of Bioscience and Biotechnology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24085835</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of Sunbal_short_read (KAR24085835)</TITLE>
+		<EXPERIMENT_REF accession="KAE24085835" refcenter="KOBIC" refname="KAE24085835">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24085835</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="SunbalR_S0_L009_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="SunbalR_S0_L009_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-11-28</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-11-28</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2027-11-27</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

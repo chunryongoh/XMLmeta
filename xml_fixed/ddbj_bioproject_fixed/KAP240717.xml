@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240717" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Comprehensive Whole Genome Sequencing Reveals Origins of Mutational Signatures Associated with Aging and Temozolomide Chemotherapy</Title>
+					<Description>In a comprehensive study to decipher the multi-layered response to the chemotherapeutic agent temozolomide (TMZ), we analyzed 427 genomes and determined mutational patterns in a collection of ~40 isogenic DNA repair-deficient human TK6 lymphoblast cell lines. We demonstrate that the spontaneous mutational background is very similar to the aging-associated mutational signature SBS40 and mainly caused by polymerase zeta-mediated translesion synthesis (TLS). MSH2-/- mismatch repair knockout in conjunction with additional repair deficiencies uncovers cryptic mutational patterns. We report how distinct mutational signatures are induced by TMZ upon sequential inactivation of DNA repair pathways, mirroring the acquisition of chemotherapy resistance by glioblastomas. The most toxic adduct induced by TMZ, O6-meG, is directly repaired by the O6-methylguanine-DNA methyltransferase (MGMT). In MGMT-/- cells, mismatch repair (MMR) leads to cell death and limits mutagenesis. MMR deficiency results in TMZ resistance, allowing the accumulation of C&gt;T substitutions corresponding to signature SBS11. Under these conditions, N-alkylated bases, processed by base excision repair (BER), limit cell survival. Without BER, 3-meA is read through via error-prone TLS, causing T&gt;A substitutions but not affecting survival. Blocking BER after abasic site formation results in large deletions and TMZ hypersensitization. Our findings reveal potential vulnerabilities of TMZ-resistant tumors.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-05-13</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-05-13">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Ulsan National Institute of Science and Technology</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

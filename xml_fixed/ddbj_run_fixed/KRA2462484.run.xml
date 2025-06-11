@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24063721" alias="KAR24063721" center_name="UNIST">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063721</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NextSeq500 sequencers paired-end Sequencing of NCD-Ctrl 1 (KAR24063721)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063721" refcenter="KOBIC" refname="KAE24063721">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063721</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="NCDCtrl1.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="NCDCtrl1.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-5-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063722" alias="KAR24063722" center_name="UNIST">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063722</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NextSeq500 sequencers paired-end Sequencing of NCD-Ctrl 2 (KAR24063722)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063722" refcenter="KOBIC" refname="KAE24063722">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063722</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="NCDCtrl2.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="NCDCtrl2.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-5-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063723" alias="KAR24063723" center_name="UNIST">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063723</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NextSeq500 sequencers paired-end Sequencing of NCD-Thrap3 1 (KAR24063723)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063723" refcenter="KOBIC" refname="KAE24063723">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063723</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="NCDThrap3KO1.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="NCDThrap3KO1.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-5-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063724" alias="KAR24063724" center_name="UNIST">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063724</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NextSeq500 sequencers paired-end Sequencing of NCD-Thrap3 2 (KAR24063724)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063724" refcenter="KOBIC" refname="KAE24063724">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063724</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="NCDThrap3KO2.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="NCDThrap3KO2.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-27</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-5-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

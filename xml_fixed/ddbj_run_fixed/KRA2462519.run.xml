@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24065434" alias="KAR24065434" center_name="Korea Research Institute of Bioscience and Biotechnology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065434</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired Sequencing of KAS24093232 (KAR24065434)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065434" refcenter="KOBIC" refname="KAE24065434">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065434</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="332a8c0bbb104889825bf1d72a97c840.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="6dcea7b64b0c4b9d9c13579d80b63227.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

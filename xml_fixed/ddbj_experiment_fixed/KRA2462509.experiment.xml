@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EXPERIMENT_SET>
+	<EXPERIMENT accession="KAE24065127" alias="KAE24065127" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065127</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mBrain (KAE24065127)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092060">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092060(KAS24092060)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092060</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mBrain</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065128" alias="KAE24065128" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065128</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-nuclei RNA-seq library of mBrain Nuclei (KAE24065128)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092061">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092061(KAS24092061)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092061</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>snRNA-seq library of mBrainNuclei</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065129" alias="KAE24065129" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065129</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mEpidermis (KAE24065129)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092062">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092062(KAS24092062)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092062</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mEpidermis</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065130" alias="KAE24065130" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065130</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mEpidermis2 (KAE24065130)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092063">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092063(KAS24092063)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092063</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mEpidermis42P</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065131" alias="KAE24065131" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065131</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mHeart (KAE24065131)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092064">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092064(KAS24092064)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092064</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mHeart</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065132" alias="KAE24065132" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065132</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-nuclei RNA-seq library of mHeart Nuclei (KAE24065132)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092065">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092065(KAS24092065)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092065</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>snRNA-seq library of mHeartNuclei</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065133" alias="KAE24065133" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065133</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mIntestine (KAE24065133)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092066">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092066(KAS24092066)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092066</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mIntestine</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065134" alias="KAE24065134" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065134</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mIntestine2 (KAE24065134)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092067">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092067(KAS24092067)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092067</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mIntestine42P</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065135" alias="KAE24065135" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065135</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mKidney (KAE24065135)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092068">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092068(KAS24092068)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092068</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mKidney</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065136" alias="KAE24065136" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065136</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mKidney Glomerulus (KAE24065136)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092069">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092069(KAS24092069)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092069</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mKidney_GlomEnrich_WT1</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065137" alias="KAE24065137" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065137</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mLiver (KAE24065137)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092070">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092070(KAS24092070)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092070</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mLiver</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065139" alias="KAE24065139" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065139</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mLiver2 (KAE24065139)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092071">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092071(KAS24092071)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092071</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mLiver25to50P</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065138" alias="KAE24065138" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065138</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-nuclei RNA-seq library of mLiver Nuclei (KAE24065138)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092072">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092072(KAS24092072)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092072</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>snRNA-seq library of mLiverNuclei</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065140" alias="KAE24065140" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065140</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mLung (KAE24065140)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092073">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092073(KAS24092073)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092073</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mLung</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065141" alias="KAE24065141" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065141</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mLung2 (KAE24065141)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092074">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092074(KAS24092074)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092074</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mLung42P</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065142" alias="KAE24065142" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065142</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mLung3 (KAE24065142)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092075">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092075(KAS24092075)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092075</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mLungPerfusion</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065143" alias="KAE24065143" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065143</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mOvary (KAE24065143)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092076">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092076(KAS24092076)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092076</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mOvary</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065144" alias="KAE24065144" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065144</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mPBMC (KAE24065144)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092077">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092077(KAS24092077)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092077</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mPBMC</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065145" alias="KAE24065145" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065145</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mPancreas (KAE24065145)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092078">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092078(KAS24092078)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092078</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mPancreasIslet</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065146" alias="KAE24065146" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065146</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-nuclei RNA-seq library of mPancreas Nuclei (KAE24065146)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092079">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092079(KAS24092079)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092079</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>snRNA-seq library of mPancreasNuclei2</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065147" alias="KAE24065147" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065147</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mTestis (KAE24065147)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092080">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092080(KAS24092080)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092080</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mTestis2</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>NA</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065148" alias="KAE24065148" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065148</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 2500 paired-end Sequencing of single-cell RNA-seq library of mThymus (KAE24065148)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092081">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092081(KAS24092081)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092081</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>scRNA-seq library of mThymus</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<PAIRED/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>First, single-cell suspensions were prepared for 10x Genomics 3u0026#39; v3.1 droplet-based sequencing, targeting recovery of ~8,000 cells (or nuclei); cell (or nucleus) concentration was determined using the Countess II Automated Cell Counter (Thermo Fisher Scientific). The pooled single-cell cDNA library was prepared following the manufactureru0026#39;s protocol (#CG000204 Rev B, 10x Genomics) with a few modifications. First, we increased the incubation time for reverse transcription reaction (GEM-RT reaction) from 45 minutes to 75 minutes to allow the completion of reverse transcription reactions for longer mRNA transcripts. Additionally, for the initial PCR amplification of the cDNA and all subsequent re-amplifications of the resulting cDNA library, the PCR elongation time was extended from 1 minute to 3 minutes to allow amplification of longer cDNA molecules (up to 6 kbp). Next, the short-read scRNA-seq library was prepared using up to half of the amplified cDNA library, strictly following the manufactureru0026#39;s instructions (#CG000204 Rev B, 10x Genomics). The short-read scRNA-seq library was sequenced on a HiSeq platform (Illumina) (28 andu0026thinsp;91 bases for read1 and read2, respectively), targeting 200M reads per sample (u0026gt; 20,000 reads per cell).</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<ILLUMINA>
+				<INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+			</ILLUMINA>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-18</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+</EXPERIMENT_SET>

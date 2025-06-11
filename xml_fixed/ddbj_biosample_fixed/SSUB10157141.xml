@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090249</Id>
+		</Ids>
+		<Description>
+			<SampleName>NCD-Ctrl 1</SampleName>
+			<Title>NCD-Ctrl 1 (KAS24090249)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>UNIST</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">NCD-Ctrl 1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240731</Attribute>
+			<Attribute attribute_name="collection_date">2018-01-05</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Ulsan</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">20 weeks mouse liver Control 1</Attribute>
+			<Attribute attribute_name="isolation_source">20 weeks mouse liver Control 1</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240731</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-5-27</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-5-27</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157141</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090249</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-5-27</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090250</Id>
+		</Ids>
+		<Description>
+			<SampleName>NCD-Ctrl 2</SampleName>
+			<Title>NCD-Ctrl 2 (KAS24090250)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>UNIST</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">NCD-Ctrl 2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240731</Attribute>
+			<Attribute attribute_name="collection_date">2018-01-05</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Ulsan</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">20 weeks mouse liver Control 2</Attribute>
+			<Attribute attribute_name="isolation_source">20 weeks mouse liver Control 2</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240731</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-5-27</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-5-27</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157141</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090250</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-5-27</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090251</Id>
+		</Ids>
+		<Description>
+			<SampleName>NCD-Thrap3 1</SampleName>
+			<Title>NCD-Thrap3 1 (KAS24090251)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>UNIST</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">NCD-Thrap3 1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240731</Attribute>
+			<Attribute attribute_name="collection_date">2018-01-05</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Ulsan</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">20 weeks mouse liver Thrap3 KO 1</Attribute>
+			<Attribute attribute_name="isolation_source">20 weeks mouse liver Thrap3 KO 1</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240731</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-5-27</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-5-27</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157141</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090251</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-5-27</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090252</Id>
+		</Ids>
+		<Description>
+			<SampleName>NCD-Thrap3 2</SampleName>
+			<Title>NCD-Thrap3 2 (KAS24090252)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>UNIST</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">NCD-Thrap3 2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240731</Attribute>
+			<Attribute attribute_name="collection_date">2018-01-05</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Ulsan</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">20 weeks mouse liver Thrap3 KO 2</Attribute>
+			<Attribute attribute_name="isolation_source">20 weeks mouse liver Thrap3 KO 2</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240731</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-5-27</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-5-27</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157141</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090252</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-5-27</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

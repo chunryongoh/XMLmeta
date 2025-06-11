@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24063718" alias="KAR24063718" center_name="Korea Advanced Institute of Science and Technology (KAIST)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063718</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>NextSeq 500 single-end Sequencing of NCD2 (KAR24063718)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063718" refcenter="KOBIC" refname="KAE24063718">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063718</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="NCD2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-5-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063719" alias="KAR24063719" center_name="Korea Advanced Institute of Science and Technology (KAIST)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063719</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>NextSeq 500 single-end Sequencing of NCD5 (KAR24063719)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063719" refcenter="KOBIC" refname="KAE24063719">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063719</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="NCD5.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-5-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063720" alias="KAR24063720" center_name="Korea Advanced Institute of Science and Technology (KAIST)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063720</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>NextSeq 500 single-end Sequencing of NCD6 (KAR24063720)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063720" refcenter="KOBIC" refname="KAE24063720">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063720</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="NCD6.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-5-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063715" alias="KAR24063715" center_name="Korea Advanced Institute of Science and Technology (KAIST)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063715</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>NextSeq 500 single-end Sequencing of HFD1 (KAR24063715)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063715" refcenter="KOBIC" refname="KAE24063715">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063715</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="HFD1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-5-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063716" alias="KAR24063716" center_name="Korea Advanced Institute of Science and Technology (KAIST)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063716</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>NextSeq 500 single-end Sequencing of HFD2 (KAR24063716)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063716" refcenter="KOBIC" refname="KAE24063716">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063716</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="HFD2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-5-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24063717" alias="KAR24063717" center_name="Korea Advanced Institute of Science and Technology (KAIST)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24063717</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>NextSeq 500 single-end Sequencing of HFD8 (KAR24063717)</TITLE>
+		<EXPERIMENT_REF accession="KAE24063717" refcenter="KOBIC" refname="KAE24063717">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24063717</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="HFD8.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-5-22</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-5-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

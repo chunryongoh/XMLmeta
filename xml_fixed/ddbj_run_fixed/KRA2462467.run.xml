@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24062780" alias="KAR24062780" center_name="Yonsei University, College of Meicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062780</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of Raw264.7_1 (KAR24062780)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062780" refcenter="KOBIC" refname="KAE24062780">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062780</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_1_ATCC-Raw_-_siNC_1.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_1_ATCC-Raw_-_siNC_2.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-11-14</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062781" alias="KAR24062781" center_name="Yonsei University, College of Meicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062781</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of Raw264.7_2 (KAR24062781)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062781" refcenter="KOBIC" refname="KAE24062781">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062781</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_1-1_ATCC-Raw_-_siNC_1.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_1-1_ATCC-Raw_-_siNC_2.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-11-14</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062782" alias="KAR24062782" center_name="Yonsei University, College of Meicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062782</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of Raw264.7_siCon_LPS_1 (KAR24062782)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062782" refcenter="KOBIC" refname="KAE24062782">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062782</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_3_ATCC-Raw_LPS_siNC_1.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_3_ATCC-Raw_LPS_siNC_2.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-11-14</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062783" alias="KAR24062783" center_name="Yonsei University, College of Meicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062783</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of Raw264.7_siCon_LPS_2 (KAR24062783)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062783" refcenter="KOBIC" refname="KAE24062783">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062783</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_3-1_ATCC-Raw_LPS_siNC_1.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_3-1_ATCC-Raw_LPS_siNC_2.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-11-14</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062784" alias="KAR24062784" center_name="Yonsei University, College of Meicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062784</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of Raw264.7_siTaz_LPS_1 (KAR24062784)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062784" refcenter="KOBIC" refname="KAE24062784">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062784</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_4_ATCC-Raw_LPS_siMix_1.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_4_ATCC-Raw_LPS_siMix_2.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-11-14</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062785" alias="KAR24062785" center_name="Yonsei University, College of Meicine">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062785</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina NovaSeq 6000 paired-end Sequencing of Raw264.7_siTaz_LPS_2 (KAR24062785)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062785" refcenter="KOBIC" refname="KAE24062785">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062785</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_4-1_ATCC-Raw_LPS_siMix_1.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_4-1_ATCC-Raw_LPS_siMix_2.fq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-4-04</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-11-14</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

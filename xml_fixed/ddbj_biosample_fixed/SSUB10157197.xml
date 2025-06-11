@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093811</Id>
+		</Ids>
+		<Description>
+			<SampleName>WTND_37</SampleName>
+			<Title>WTND_37 (KAS24093811)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Sookmyung Womenu0026#39;s University</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">WTND_37</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240841</Attribute>
+			<Attribute attribute_name="collection_date">2023-07-25</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240841</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157197</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093811</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093812</Id>
+		</Ids>
+		<Description>
+			<SampleName>WTND_70</SampleName>
+			<Title>WTND_70 (KAS24093812)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Sookmyung Womenu0026#39;s University</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">WTND_70</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240841</Attribute>
+			<Attribute attribute_name="collection_date">2023-07-25</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240841</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157197</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093812</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093813</Id>
+		</Ids>
+		<Description>
+			<SampleName>WTND_79</SampleName>
+			<Title>WTND_79 (KAS24093813)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Sookmyung Womenu0026#39;s University</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">WTND_79</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240841</Attribute>
+			<Attribute attribute_name="collection_date">2023-07-25</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240841</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157197</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093813</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093814</Id>
+		</Ids>
+		<Description>
+			<SampleName>WTHFD_38</SampleName>
+			<Title>WTHFD_38 (KAS24093814)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Sookmyung Womenu0026#39;s University</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">WTHFD_38</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240841</Attribute>
+			<Attribute attribute_name="collection_date">2023-07-25</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240841</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157197</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093814</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093815</Id>
+		</Ids>
+		<Description>
+			<SampleName>WTHFD_39</SampleName>
+			<Title>WTHFD_39 (KAS24093815)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Sookmyung Womenu0026#39;s University</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">WTHFD_39</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240841</Attribute>
+			<Attribute attribute_name="collection_date">2023-07-25</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240841</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157197</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093815</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093816</Id>
+		</Ids>
+		<Description>
+			<SampleName>WTHFD_40</SampleName>
+			<Title>WTHFD_40 (KAS24093816)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Sookmyung Womenu0026#39;s University</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">WTHFD_40</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240841</Attribute>
+			<Attribute attribute_name="collection_date">2023-07-25</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240841</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157197</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093816</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

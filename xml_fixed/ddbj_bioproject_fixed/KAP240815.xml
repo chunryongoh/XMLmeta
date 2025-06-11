@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240815" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>APOBEC3A, not APOBEC3B, drives deaminase mutagenesis in human gastric epithelium</Title>
+					<Description>Cancer genomes frequently carry APOBEC (apolipoprotein B mRNA editing catalytic polypeptide-like)-associated DNA mutations, suggesting APOBEC enzymes as innate mutagens during cancer initiation and/or evolution. However, the pure mutagenic impacts of the specific enzymes among this family that are responsible for APOBEC-associated mutagenesis remain unclear, particularly the comparative mutagenic activities of APOBEC3A and APOBEC3B. Here, we investigated the mutagenic contributions of these enzymes through whole-genome sequencing of human normal gastric organoid lines carrying doxycycline-inducible APOBEC3A or APOBEC3B cassettes. Our findings demonstrated that transcriptional APOBEC3A upregulation led to the acquisition of a massive number of genomic mutations in a few cell cycles. By contrast, APOBEC3B upregulation did not generate a substantial number of mutations in gastric epithelium. APOBEC3B-associated mutagenesis remained insignificant even after a combined inactivation of TP53. Based on the spectrum of acquired mutations after APOBEC3A upregulation, we further analyzed APOBEC3A-associated mutational signatures, encompassing indels mainly composed of 1bp deletions, characteristics of clustered mutations, and selective pressures operative on cells carrying the mutations. Our observations provide a clear foundation for understanding the mutational impact of APOBEC enzymes in human cells.</Description>
+					<Grant GrantId="N/A">
+						<Title>N/A</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-09-04</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-09-03">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Korea Advanced Institute of Science and Technology</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

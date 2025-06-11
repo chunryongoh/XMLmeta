@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240632" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>NGS results of adeno-associated virus specific to astrocyte cells</Title>
+					<Description>NGS technique was used to selectively screen AAV in astrocyte cells at the lesion site in a CNS disease animal model. The aim was to determine the ratio of AAV variants and identify the sites of amino acid mutations</Description>
+					<Grant GrantId="1711200838">
+						<Title>Development of Astrocyte Specific AAV-Based Gene Delivery Platforms for In Vivo Direct-Reprogramming</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-03-21</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-3-12</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-3-12</UserTerm>
+					<UserTerm term="KOBIC_release_date">2024-3-21</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-03-12">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Yonsei University</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

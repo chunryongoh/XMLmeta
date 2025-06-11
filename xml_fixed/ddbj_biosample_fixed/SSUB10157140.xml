@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090243</Id>
+		</Ids>
+		<Description>
+			<SampleName>NCD2</SampleName>
+			<Title>NCD2 (KAS24090243)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Advanced Institute of Science and Technology (KAIST)</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">NCD2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240729</Attribute>
+			<Attribute attribute_name="collection_date">2022-08-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="isolation_source">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240729</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157140</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090243</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-5-22</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090244</Id>
+		</Ids>
+		<Description>
+			<SampleName>NCD5</SampleName>
+			<Title>NCD5 (KAS24090244)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Advanced Institute of Science and Technology (KAIST)</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">NCD5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240729</Attribute>
+			<Attribute attribute_name="collection_date">2022-08-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="isolation_source">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240729</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157140</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090244</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-5-22</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090245</Id>
+		</Ids>
+		<Description>
+			<SampleName>NCD6</SampleName>
+			<Title>NCD6 (KAS24090245)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Advanced Institute of Science and Technology (KAIST)</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">NCD6</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240729</Attribute>
+			<Attribute attribute_name="collection_date">2022-08-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="isolation_source">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240729</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157140</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090245</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-5-22</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090246</Id>
+		</Ids>
+		<Description>
+			<SampleName>HFD1</SampleName>
+			<Title>HFD1 (KAS24090246)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Advanced Institute of Science and Technology (KAIST)</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">HFD1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240729</Attribute>
+			<Attribute attribute_name="collection_date">2022-08-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="isolation_source">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240729</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157140</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090246</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-5-22</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090247</Id>
+		</Ids>
+		<Description>
+			<SampleName>HFD2</SampleName>
+			<Title>HFD2 (KAS24090247)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Advanced Institute of Science and Technology (KAIST)</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">HFD2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240729</Attribute>
+			<Attribute attribute_name="collection_date">2022-08-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="isolation_source">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240729</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157140</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090247</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-5-22</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090248</Id>
+		</Ids>
+		<Description>
+			<SampleName>HFD8</SampleName>
+			<Title>HFD8 (KAS24090248)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Advanced Institute of Science and Technology (KAIST)</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">HFD8</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240729</Attribute>
+			<Attribute attribute_name="collection_date">2022-08-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="isolation_source">HFD-fed mice adipose tissue</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240729</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-5-22</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157140</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090248</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-5-22</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24062462" alias="KAR24062462" center_name="Sungkyunkwan University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062462</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 1500 paired-end Sequencing of USA300 (KAR24062462)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062462" refcenter="KOBIC" refname="KAE24062462">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062462</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="WSL006_A3_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="WSL006_A3_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-6-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062463" alias="KAR24062463" center_name="Sungkyunkwan University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062463</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 1500 paired-end Sequencing of USA300 (KAR24062463)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062463" refcenter="KOBIC" refname="KAE24062463">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062463</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="WSL006_A4_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="WSL006_A4_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-6-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062464" alias="KAR24062464" center_name="Sungkyunkwan University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062464</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 1500 paired-end Sequencing of USA300 (KAR24062464)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062464" refcenter="KOBIC" refname="KAE24062464">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062464</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="WSL006_A5_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="WSL006_A5_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-6-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062465" alias="KAR24062465" center_name="Sungkyunkwan University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062465</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 1500 paired-end Sequencing of USA300 (KAR24062465)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062465" refcenter="KOBIC" refname="KAE24062465">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062465</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="WSL006_A7_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="WSL006_A7_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-6-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062466" alias="KAR24062466" center_name="Sungkyunkwan University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062466</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 1500 paired-end Sequencing of USA300 (KAR24062466)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062466" refcenter="KOBIC" refname="KAE24062466">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062466</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="WSL001_11_1.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="WSL001_11_2.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-6-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062467" alias="KAR24062467" center_name="Sungkyunkwan University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062467</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 1500 paired-end Sequencing of USA300 (KAR24062467)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062467" refcenter="KOBIC" refname="KAE24062467">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062467</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="WSL001_13_1.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="WSL001_13_2.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-6-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062468" alias="KAR24062468" center_name="Sungkyunkwan University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062468</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 1500 paired-end Sequencing of USA300 (KAR24062468)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062468" refcenter="KOBIC" refname="KAE24062468">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062468</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="WSL001_23_1.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="WSL001_23_2.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-6-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062469" alias="KAR24062469" center_name="Sungkyunkwan University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062469</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina HiSeq 1500 paired-end Sequencing of USA300 (KAR24062469)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062469" refcenter="KOBIC" refname="KAE24062469">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062469</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="WSL001_24_1.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="WSL001_24_2.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-20</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-6-20</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

@@ -1,0 +1,44 @@
+# ddbj_bioExperiment.xml → kobic-0352.experiment.xml로 변경 시 반영해야 할 주요 차이점
+
+1. **최상위 구조 및 반복**
+   - ddbj_bioExperiment.xml: `<EXPERIMENT_SET>` 내에 `<EXPERIMENT>` 여러 개(여러 실험 포함, 대용량)
+   - kobic-0352.experiment.xml: `<EXPERIMENT_SET>` 내 `<EXPERIMENT>` 2개(실제 제출 예시)
+   - → 실제 제출은 실험 단위로 분리하거나, 제출 요구에 맞게 파일을 나눠야 할 수 있음
+
+2. **EXPERIMENT 속성 및 식별자**
+   - ddbj_bioExperiment.xml: `accession`, `alias`, `center_name` 등 속성, `<IDENTIFIERS>` 내 `PRIMARY_ID` 비어있음, `SUBMITTER_ID` 존재
+   - kobic-0352.experiment.xml: `alias`, `center_name`, `accession` 등 속성, `<IDENTIFIERS>` 내 `PRIMARY_ID` 비어있음, `SUBMITTER_ID` 존재
+   - → alias, center_name, accession 등 속성명/값 일치 필요
+
+3. **TITLE, STUDY_REF, SAMPLE_DESCRIPTOR**
+   - ddbj_bioExperiment.xml: `<TITLE>`, `<STUDY_REF>`(accession, refcenter, refname), `<SAMPLE_DESCRIPTOR>`(accession, refcenter, refname)
+   - kobic-0352.experiment.xml: `<TITLE>`, `<STUDY_REF>`(accession만), `<SAMPLE_DESCRIPTOR>`(accession만)
+   - → STUDY_REF, SAMPLE_DESCRIPTOR의 refcenter/refname 등 불필요한 속성 제거 필요
+
+4. **LIBRARY_DESCRIPTOR**
+   - ddbj_bioExperiment.xml: `<LIBRARY_NAME>`, `<LIBRARY_STRATEGY>`, `<LIBRARY_SOURCE>`, `<LIBRARY_SELECTION>`, `<LIBRARY_LAYOUT>`(PAIRED, NOMINAL_LENGTH=""), `<LIBRARY_CONSTRUCTION_PROTOCOL>`
+   - kobic-0352.experiment.xml: `<LIBRARY_NAME>`, `<LIBRARY_STRATEGY>`, `<LIBRARY_SOURCE>`, `<LIBRARY_SELECTION>`, `<LIBRARY_LAYOUT>`(PAIRED), `<LIBRARY_CONSTRUCTION_PROTOCOL>`
+   - → NOMINAL_LENGTH 속성 등 불필요한 값 제거, 구조 단순화 필요
+
+5. **PLATFORM**
+   - ddbj_bioExperiment.xml: `<PLATFORM><ILLUMINA><INSTRUMENT_MODEL>Sequel II</INSTRUMENT_MODEL></ILLUMINA></PLATFORM>` 등 다양한 모델
+   - kobic-0352.experiment.xml: `<PLATFORM><ILLUMINA><INSTRUMENT_MODEL>unspecified</INSTRUMENT_MODEL></ILLUMINA></PLATFORM>`
+   - → INSTRUMENT_MODEL 값, 플랫폼 구조 일치 필요
+
+6. **EXPERIMENT_ATTRIBUTES**
+   - ddbj_bioExperiment.xml: `KOBIC_submission_date`, `KOBIC_registration_date`, `KOBIC_release_date` 등
+   - kobic-0352.experiment.xml: 위 3개 + `metadata_modification` 등 추가 태그
+   - → 필요한 경우 추가 태그 반영, 날짜 포맷 일치 필요
+
+7. **기타**
+   - ddbj_bioExperiment.xml: DESIGN_DESCRIPTION 비어있음, LIBRARY_CONSTRUCTION_PROTOCOL 등 일부 값 상이
+   - kobic-0352.experiment.xml: DESIGN_DESCRIPTION 값 존재("missing"), LIBRARY_CONSTRUCTION_PROTOCOL 등 실제 실험 내용 반영
+   - → DESIGN_DESCRIPTION 등 필수값 누락/불필요 값 보완, 실험 내용 충실히 반영
+
+---
+
+**정책:**
+- 실험별로 파일을 분리하거나, 제출 요구에 맞게 구조를 단순화해야 함
+- 불필요한 속성(refcenter, refname, NOMINAL_LENGTH 등) 제거
+- 날짜, 태그, 플랫폼, 식별자 등 실제 제출 예시와 일치하도록 수정
+- 실험 내용 및 프로토콜, DESIGN_DESCRIPTION 등은 실제 실험에 맞게 구체적으로 작성

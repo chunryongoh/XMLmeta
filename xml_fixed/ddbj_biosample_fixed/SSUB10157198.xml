@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093824</Id>
+		</Ids>
+		<Description>
+			<SampleName>CELRBBS20</SampleName>
+			<Title>CELRBBS20 (KAS24093824)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">CELRBBS20</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-03-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093824</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093825</Id>
+		</Ids>
+		<Description>
+			<SampleName>CELRBBS21</SampleName>
+			<Title>CELRBBS21 (KAS24093825)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">CELRBBS21</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-03-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093825</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093826</Id>
+		</Ids>
+		<Description>
+			<SampleName>CELRBBS22</SampleName>
+			<Title>CELRBBS22 (KAS24093826)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">CELRBBS22</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-03-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093826</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093827</Id>
+		</Ids>
+		<Description>
+			<SampleName>CELRBBS23</SampleName>
+			<Title>CELRBBS23 (KAS24093827)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">CELRBBS23</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-03-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093827</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093828</Id>
+		</Ids>
+		<Description>
+			<SampleName>CELRBBS24</SampleName>
+			<Title>CELRBBS24 (KAS24093828)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">CELRBBS24</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-03-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093828</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093829</Id>
+		</Ids>
+		<Description>
+			<SampleName>CELRBBS37</SampleName>
+			<Title>CELRBBS37 (KAS24093829)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">CELRBBS37</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-03-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093829</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093830</Id>
+		</Ids>
+		<Description>
+			<SampleName>CELRBBS38</SampleName>
+			<Title>CELRBBS38 (KAS24093830)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">CELRBBS38</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-03-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093830</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093831</Id>
+		</Ids>
+		<Description>
+			<SampleName>CELRBBS39</SampleName>
+			<Title>CELRBBS39 (KAS24093831)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">CELRBBS39</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-03-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093831</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093832</Id>
+		</Ids>
+		<Description>
+			<SampleName>CELRBBS40</SampleName>
+			<Title>CELRBBS40 (KAS24093832)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">CELRBBS40</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-03-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093832</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093833</Id>
+		</Ids>
+		<Description>
+			<SampleName>CELRBBS41</SampleName>
+			<Title>CELRBBS41 (KAS24093833)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">CELRBBS41</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-03-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093833</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093834</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI1</SampleName>
+			<Title>KRBVI1 (KAS24093834)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093834</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093835</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI2</SampleName>
+			<Title>KRBVI2 (KAS24093835)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093835</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093836</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI3</SampleName>
+			<Title>KRBVI3 (KAS24093836)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI3</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093836</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093837</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI4</SampleName>
+			<Title>KRBVI4 (KAS24093837)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI4</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093837</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093838</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI5</SampleName>
+			<Title>KRBVI5 (KAS24093838)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI5</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093838</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093839</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI6</SampleName>
+			<Title>KRBVI6 (KAS24093839)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI6</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093839</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093840</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI7</SampleName>
+			<Title>KRBVI7 (KAS24093840)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI7</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093840</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093841</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI8</SampleName>
+			<Title>KRBVI8 (KAS24093841)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI8</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093841</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093842</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI9</SampleName>
+			<Title>KRBVI9 (KAS24093842)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI9</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4- cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093842</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093843</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI10</SampleName>
+			<Title>KRBVI10 (KAS24093843)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI10</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093843</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093844</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI11</SampleName>
+			<Title>KRBVI11 (KAS24093844)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI11</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093844</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093845</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI12</SampleName>
+			<Title>KRBVI12 (KAS24093845)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI12</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093845</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093846</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI13</SampleName>
+			<Title>KRBVI13 (KAS24093846)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI13</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093846</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093847</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI14</SampleName>
+			<Title>KRBVI14 (KAS24093847)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI14</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093847</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093848</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI15</SampleName>
+			<Title>KRBVI15 (KAS24093848)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI15</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093848</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093849</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI16</SampleName>
+			<Title>KRBVI16 (KAS24093849)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI16</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093849</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093850</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI17</SampleName>
+			<Title>KRBVI17 (KAS24093850)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI17</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093850</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093851</Id>
+		</Ids>
+		<Description>
+			<SampleName>KRBVI18</SampleName>
+			<Title>KRBVI18 (KAS24093851)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">KRBVI18</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="isolation_source">CD4+ cells from a spleen by MACS</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093851</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093852</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS11</SampleName>
+			<Title>MAGERBS11 (KAS24093852)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS11</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-05-17</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093852</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093853</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS12</SampleName>
+			<Title>MAGERBS12 (KAS24093853)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS12</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-08-03</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093853</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093854</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS13</SampleName>
+			<Title>MAGERBS13 (KAS24093854)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS13</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-08-03</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093854</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093855</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS14</SampleName>
+			<Title>MAGERBS14 (KAS24093855)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS14</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-08-03</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093855</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093856</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS15</SampleName>
+			<Title>MAGERBS15 (KAS24093856)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS15</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-08-03</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093856</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093857</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS26</SampleName>
+			<Title>MAGERBS26 (KAS24093857)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS26</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-08-03</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093857</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093858</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS27</SampleName>
+			<Title>MAGERBS27 (KAS24093858)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS27</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-08-03</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093858</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093859</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS28</SampleName>
+			<Title>MAGERBS28 (KAS24093859)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS28</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-08-03</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093859</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093860</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS29</SampleName>
+			<Title>MAGERBS29 (KAS24093860)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS29</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-08-03</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093860</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093861</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS30</SampleName>
+			<Title>MAGERBS30 (KAS24093861)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS30</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-08-03</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093861</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093862</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS40</SampleName>
+			<Title>MAGERBS40 (KAS24093862)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS40</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-09-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093862</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093863</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS41</SampleName>
+			<Title>MAGERBS41 (KAS24093863)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS41</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-09-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093863</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093864</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS42</SampleName>
+			<Title>MAGERBS42 (KAS24093864)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS42</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-09-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093864</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093865</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS45</SampleName>
+			<Title>MAGERBS45 (KAS24093865)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS45</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-09-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093865</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093866</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS46</SampleName>
+			<Title>MAGERBS46 (KAS24093866)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS46</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-09-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093866</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24093867</Id>
+		</Ids>
+		<Description>
+			<SampleName>MAGERBS47</SampleName>
+			<Title>MAGERBS47 (KAS24093867)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>KRIBB</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">MAGERBS47</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240842</Attribute>
+			<Attribute attribute_name="collection_date">2023-09-24</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240842</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-5-08</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157198</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24093867</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-5-08</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

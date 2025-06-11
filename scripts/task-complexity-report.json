@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "generatedAt": "2025-05-26T04:38:57.915Z",
+    "tasksAnalyzed": 10,
+    "totalTasks": 10,
+    "analysisCount": 15,
+    "thresholdScore": 5,
+    "projectName": "Taskmaster",
+    "usedResearch": true
+  },
+  "complexityAnalysis": [
+    {
+      "taskId": 11,
+      "taskTitle": "Implement Run Metadata Comparison Tool",
+      "complexityScore": 6,
+      "recommendedSubtasks": 4,
+      "expansionPrompt": "Outline the comparison process for Run XML, focusing on file information, run attributes, and maintaining consistency with related Experiment XML comparisons.",
+      "reasoning": "While similar to the Experiment comparison, the Run XML comparison is slightly less complex but still requires careful handling of file-related information and consistency checks with Experiment data."
+    },
+    {
+      "taskId": 12,
+      "taskTitle": "Implement Submission Metadata Comparison Tool",
+      "complexityScore": 8,
+      "recommendedSubtasks": 6,
+      "expansionPrompt": "Detail the comprehensive comparison process for Submission XML, including verification of aggregated data from all XML types, cross-reference checks, and overall submission integrity validation.",
+      "reasoning": "This is a complex comparison task as it involves checking the integration of all other XML types, verifying cross-references, and ensuring the overall submission structure meets DDBJ requirements."
+    },
+    {
+      "taskId": 13,
+      "taskTitle": "Develop Automated XML Conversion Pipeline",
+      "complexityScore": 9,
+      "recommendedSubtasks": 7,
+      "expansionPrompt": "Break down the development of the automated pipeline into stages, including input processing, sequential conversion of all XML types, validation steps, error handling, and results aggregation.",
+      "reasoning": "This task is highly complex as it integrates all previous conversion and validation tasks into a cohesive, automated system. It requires careful orchestration of multiple processes and comprehensive error handling."
+    },
+    {
+      "taskId": 14,
+      "taskTitle": "Implement Comprehensive Validation Report Generator",
+      "complexityScore": 7,
+      "recommendedSubtasks": 5,
+      "expansionPrompt": "Expand on the report generation process, including data aggregation from all validation and comparison steps, formatting of results, and creation of actionable insights and checklists.",
+      "reasoning": "This task involves synthesizing complex information from multiple sources into a coherent, user-friendly report. It requires careful data processing and presentation skills."
+    },
+    {
+      "taskId": 15,
+      "taskTitle": "Implement XSD Synchronization Utility",
+      "complexityScore": 5,
+      "recommendedSubtasks": 4,
+      "expansionPrompt": "Detail the steps for checking, downloading, and updating XSD files, including version comparison, file system operations, and logging mechanisms.",
+      "reasoning": "This task is moderately complex, involving interaction with external repositories, file system operations, and version management. It requires careful handling of network operations and file updates."
+    },
+    {
+      "taskId": 1,
+      "taskTitle": "Setup XSD Validation Environment",
+      "complexityScore": 3,
+      "recommendedSubtasks": 4,
+      "expansionPrompt": "Break down the XSD validation environment setup into detailed steps, including error handling and verification processes.",
+      "reasoning": "This task involves basic environment setup and command-line operations. It's relatively straightforward but crucial for subsequent tasks."
+    },
+    {
+      "taskId": 2,
+      "taskTitle": "Implement BioProject XML Validation Module",
+      "complexityScore": 7,
+      "recommendedSubtasks": 5,
+      "expansionPrompt": "Expand on the BioProject XML validation process, detailing each validation step and error handling procedure.",
+      "reasoning": "This task requires implementing complex XML parsing, comparison logic, and report generation. It sets the foundation for other XML type validations."
+    },
+    {
+      "taskId": 3,
+      "taskTitle": "Implement BioSample XML Validation Module",
+      "complexityScore": 7,
+      "recommendedSubtasks": 5,
+      "expansionPrompt": "Detail the specific validation steps for BioSample XML, including unique field checks and data type validations.",
+      "reasoning": "Similar complexity to the BioProject module, with specific considerations for BioSample data structures and relationships."
+    },
+    {
+      "taskId": 4,
+      "taskTitle": "Implement Experiment XML Validation Module",
+      "complexityScore": 7,
+      "recommendedSubtasks": 5,
+      "expansionPrompt": "Elaborate on the Experiment XML validation process, focusing on experiment-specific fields and their relationships.",
+      "reasoning": "Comparable complexity to other XML modules, with unique challenges related to experiment data structures and cross-references."
+    },
+    {
+      "taskId": 5,
+      "taskTitle": "Implement Run XML Validation Module",
+      "complexityScore": 6,
+      "recommendedSubtasks": 4,
+      "expansionPrompt": "Expand on the Run XML validation steps, including file path verification and data integrity checks.",
+      "reasoning": "Slightly less complex than other XML modules due to simpler structure, but still requires thorough validation and error handling."
+    },
+    {
+      "taskId": 6,
+      "taskTitle": "Implement Submission XML Validation Module",
+      "complexityScore": 8,
+      "recommendedSubtasks": 6,
+      "expansionPrompt": "Detail the comprehensive validation process for Submission XML, including cross-reference checks and multi-file input handling.",
+      "reasoning": "Most complex XML module due to its role in integrating other XML types and handling multiple input sources. Requires extensive cross-validation."
+    },
+    {
+      "taskId": 7,
+      "taskTitle": "Develop XML Diff Visualization Tool",
+      "complexityScore": 6,
+      "recommendedSubtasks": 4,
+      "expansionPrompt": "Expand on the XML diff visualization process, including advanced formatting options and interactive features.",
+      "reasoning": "Moderately complex due to the need for effective diff algorithms and user-friendly HTML output. Requires careful consideration of large XML file handling."
+    },
+    {
+      "taskId": 8,
+      "taskTitle": "Create Automated Validation Pipeline",
+      "complexityScore": 8,
+      "recommendedSubtasks": 6,
+      "expansionPrompt": "Detail the steps to integrate all validation modules into a cohesive pipeline, including error handling and reporting mechanisms.",
+      "reasoning": "High complexity due to the need to orchestrate multiple validation modules, handle various input scenarios, and generate comprehensive reports."
+    },
+    {
+      "taskId": 9,
+      "taskTitle": "Develop Manual Verification Checklist Generator",
+      "complexityScore": 5,
+      "recommendedSubtasks": 3,
+      "expansionPrompt": "Expand on the checklist generation process, including dynamic item creation based on validation results.",
+      "reasoning": "Moderate complexity, focusing on extracting relevant information from validation results and presenting it in a user-friendly format for manual review."
+    },
+    {
+      "taskId": 10,
+      "taskTitle": "Create Comprehensive Documentation and User Guide",
+      "complexityScore": 4,
+      "recommendedSubtasks": 3,
+      "expansionPrompt": "Detail the structure and content of the documentation, including user guides, API references, and troubleshooting sections.",
+      "reasoning": "Lower complexity compared to technical implementation tasks, but crucial for user adoption. Requires clear communication and thorough coverage of all tool aspects."
+    }
+  ]
+}

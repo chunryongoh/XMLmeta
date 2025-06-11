@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24065154" alias="KAR24065154" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065154</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Cell-Enrich-applied (targeting 65 granulocytes and cardiomyocytes among 6,964 cells in total) single-cell cDNA library of mHeart, size selected with BluePippinUpTo2250bpCut (KAR24065154)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065154" refcenter="KOBIC" refname="KAE24065154">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065154</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="LSK_mHeart_GarvanPool_OuroEnrich1_Cardiomyocyte_Granulocyte_65cells_8_10_20220404.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065155" alias="KAR24065155" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065155</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Cell-Enrich-applied (targeting 99 myofirboblasts among 6,964 cells in total) single-cell cDNA library of mHeart, size selected with BluePippinUpTo2250bpCut (KAR24065155)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065155" refcenter="KOBIC" refname="KAE24065155">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065155</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="LSK_mHeart_GarvanPool_OuroEnrich1_Myofibroblast_99cells_8_10_20220404.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065156" alias="KAR24065156" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065156</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Cell-Enrich-applied (targeting 45 epithelial cell of the ascending limb of the loop of Henle among 2,672 cells in total) single-cell cDNA library of mKidney, size selected with BluePippinUpTo2250bpCut (KAR24065156)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065156" refcenter="KOBIC" refname="KAE24065156">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065156</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="LSK_mKidney_GarvanPool_OuroEnrich1_ALOH_45cells_8_10_20220404.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065157" alias="KAR24065157" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065157</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Cell-Enrich-applied (targeting 53 cholangiocytes and hepatocytes among 6,400 cells in total) single-cell cDNA library of mLiver, size selected with BluePippinUpTo2250bpCut (KAR24065157)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065157" refcenter="KOBIC" refname="KAE24065157">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065157</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="LSK_mLiver_GarvanPool_OuroEnrich1_Hepatocyte_Cholangiocyte_53cells_8_10_20220404.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065158" alias="KAR24065158" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065158</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Cell-Enrich-applied (targeting 53 stellate cells among 6,400 cells in total) single-cell cDNA library of mLiver, size selected with BluePippinUpTo2250bpCut (KAR24065158)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065158" refcenter="KOBIC" refname="KAE24065158">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065158</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="LSK_mLiver_GarvanPool_OuroEnrich1_Stellate_53cells_8_10_20220404.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24065674" alias="KAR24065674" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065674</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>454 GS 20 single Sequencing of KAS24094012 (KAR24065674)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065674" refcenter="KOBIC" refname="KAE24065674">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065674</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="E_coli.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-9-30</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-9-30</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-9-30</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065675" alias="KAR24065675" center_name="Korea Research Institute of Bioscience and Biotechnology (KRIBB)">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065675</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>454 GS FLX single Sequencing of KAS24094012 (KAR24065675)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065675" refcenter="KOBIC" refname="KAE24065675">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065675</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="E6RQV9N01.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-9-30</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-9-30</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-9-30</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

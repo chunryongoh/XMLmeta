@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240996" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>The transcription factor MIST1 regulates apoptosis and TRIB3 expression under hepatic ER stress</Title>
+					<Description>To investigate MIST1 mRNA expression patterns and loss of function in chronically injured liver tissue, we used a mouse model of chronic liver injury induced by carbon tetrachloride (CCl4). Tissue samples were obtained from the right lateral lobe of wild-type mice at various time points, specifically 1, 3, 6, and 8 weeks after CCl4 treatment. In addition, tissue samples were collected from Mist1 knockout mice after 8 weeks of CCl4 treatment to assess the impact of MIST1 loss of function in the context of chronic liver injury.</Description>
+					<Grant GrantId="N/A">
+						<Title></Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-11-08</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-11-08">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Yonsei university</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

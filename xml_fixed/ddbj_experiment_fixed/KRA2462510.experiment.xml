@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EXPERIMENT_SET>
+	<EXPERIMENT accession="KAE24065149" alias="KAE24065149" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065149</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of raw single-cell cDNA library of mThymus without size selection (KAE24065149)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092081">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092081(KAS24092081)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092081</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mThymus_L0_Gibson2_5cy_20240111</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from a single-cell cDNA library using the Ligation Sequencing Kit V9 (#SQK-LSK109, #EXP-NBD104, and #EXP-NBD114, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a MinION flow cell (R9.4.1) (#FLO-MIN106, Oxford Nanopore Technologies) and sequenced on the MinION Mk1B (Oxford Nanopore Technologies) with a sampling rate of 4 kHz. The raw sequencing output (FAST5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r9.4.1_450bps_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>MinION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065150" alias="KAE24065150" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065150</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Enrich-applied (targeting 11 transcripts derived from mtDNA) single-cell cDNA library of mThymus without size selection (KAE24065150)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092081">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092081(KAS24092081)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092081</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mThymus_L0_Gibson2_5cy_OuroEnrich_16cy_20240111</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from a single-cell cDNA library using the Ligation Sequencing Kit V9 (#SQK-LSK109, #EXP-NBD104, and #EXP-NBD114, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a MinION flow cell (R9.4.1) (#FLO-MIN106, Oxford Nanopore Technologies) and sequenced on the MinION Mk1B (Oxford Nanopore Technologies) with a sampling rate of 4 kHz. The raw sequencing output (FAST5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r9.4.1_450bps_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>MinION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065151" alias="KAE24065151" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065151</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>MinION single-end Sequencing of Ouro-Deplete-applied (targeting transcripts derived from rRNA and mtDNA) single-cell cDNA library of mThymus without size selection (KAE24065151)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092081">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092081(KAS24092081)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092081</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mThymus_L0_Gib2_MT_rRNA_deplet_20210712</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from a single-cell cDNA library using the PCR Barcoding Kit V9 (#SQK-PBK004, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a MinION flow cell (R9.4.1) (#FLO-MIN106, Oxford Nanopore Technologies) and sequenced on the MinION Mk1B (Oxford Nanopore Technologies) with a sampling rate of 4 kHz. The raw sequencing output (FAST5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r9.4.1_450bps_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>MinION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+</EXPERIMENT_SET>

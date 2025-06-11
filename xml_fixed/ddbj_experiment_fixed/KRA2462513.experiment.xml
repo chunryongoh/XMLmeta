@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EXPERIMENT_SET>
+	<EXPERIMENT accession="KAE24065159" alias="KAE24065159" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065159</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mBrain without size selection (KAE24065159)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092060">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092060(KAS24092060)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092060</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mBrain_Cortex_Hippo_Gib2_7_7_7_20230207</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from the raw single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065170" alias="KAE24065170" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065170</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mBrain without size selection (KAE24065170)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092060">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092060(KAS24092060)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092060</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mBrainCortexHipSC_ODrM.v20230620_6cy_20230622</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>A single-cell cDNA library was processed with Ouro-Deplete for targeted depletion of cDNAs from mtDNA and rRNA. The Nanopore sequencing library was prepared from the Ouro-Seq-applied single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065160" alias="KAE24065160" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065160</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mEpidermis2 without size selection (KAE24065160)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092063">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092063(KAS24092063)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092063</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mEpidermis42P_Gib2_6cy_20230626</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from the raw single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065171" alias="KAE24065171" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065171</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mEpidermis2 without size selection (KAE24065171)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092063">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092063(KAS24092063)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092063</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mEpidermis42P_ODrM.v20230620_6cy_20230622</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>A single-cell cDNA library was processed with Ouro-Deplete for targeted depletion of cDNAs from mtDNA and rRNA. The Nanopore sequencing library was prepared from the Ouro-Seq-applied single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065161" alias="KAE24065161" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065161</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mHeart Nuclei without size selection (KAE24065161)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092065">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092065(KAS24092065)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092065</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mHeartSNuc_Gib2_6cy_20230626</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from the raw single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065172" alias="KAE24065172" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065172</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mHeart Nuclei without size selection (KAE24065172)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092065">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092065(KAS24092065)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092065</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mHeartSNuc_ODrM.v20230620_6cy_20230622</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>A single-cell cDNA library was processed with Ouro-Deplete for targeted depletion of cDNAs from mtDNA and rRNA. The Nanopore sequencing library was prepared from the Ouro-Seq-applied single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065162" alias="KAE24065162" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065162</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mIntestine2 without size selection (KAE24065162)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092067">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092067(KAS24092067)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092067</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mIntestine42P_Gib2_6cy_20230626</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from the raw single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065173" alias="KAE24065173" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065173</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mIntestine2 without size selection (KAE24065173)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092067">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092067(KAS24092067)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092067</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mIntestine42P_ODrM.v20230620_6cy_20230622</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>A single-cell cDNA library was processed with Ouro-Deplete for targeted depletion of cDNAs from mtDNA and rRNA. The Nanopore sequencing library was prepared from the Ouro-Seq-applied single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065164" alias="KAE24065164" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065164</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mLiver2 without size selection (KAE24065164)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092071">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092071(KAS24092071)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092071</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mLiver25to50P_Gib2_6cy_20230626</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from the raw single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065175" alias="KAE24065175" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065175</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mLiver2 without size selection (KAE24065175)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092071">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092071(KAS24092071)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092071</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mLiver25to50P_ODrM.v20230620_6cy_20230622</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>A single-cell cDNA library was processed with Ouro-Deplete for targeted depletion of cDNAs from mtDNA and rRNA. The Nanopore sequencing library was prepared from the Ouro-Seq-applied single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065163" alias="KAE24065163" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065163</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mLiver Nuclei without size selection (KAE24065163)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092072">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092072(KAS24092072)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092072</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mLiverNuclei_Gib2_6cy_20230626</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from the raw single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065174" alias="KAE24065174" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065174</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mLiver Nuclei without size selection (KAE24065174)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092072">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092072(KAS24092072)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092072</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mLiverNuclei_ODrM.v20230620_6cy_20230622</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>A single-cell cDNA library was processed with Ouro-Deplete for targeted depletion of cDNAs from mtDNA and rRNA. The Nanopore sequencing library was prepared from the Ouro-Seq-applied single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065165" alias="KAE24065165" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065165</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mLung3 without size selection (KAE24065165)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092075">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092075(KAS24092075)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092075</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mLungPerfusion_Gib2_6cy_20230626</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from the raw single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065176" alias="KAE24065176" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065176</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mLung3 without size selection (KAE24065176)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092075">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092075(KAS24092075)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092075</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mLungPerfusion_ODrM.v20230620_6cy_20230622</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>A single-cell cDNA library was processed with Ouro-Deplete for targeted depletion of cDNAs from mtDNA and rRNA. The Nanopore sequencing library was prepared from the Ouro-Seq-applied single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065166" alias="KAE24065166" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065166</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mOvary without size selection (KAE24065166)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092076">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092076(KAS24092076)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092076</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mOvary_Gib2_5_20230207</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from the raw single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065177" alias="KAE24065177" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065177</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mOvary without size selection (KAE24065177)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092076">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092076(KAS24092076)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092076</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mOvary_ODrM_20231006</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>A single-cell cDNA library was processed with Ouro-Deplete for targeted depletion of cDNAs from mtDNA and rRNA. The Nanopore sequencing library was prepared from the Ouro-Seq-applied single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065167" alias="KAE24065167" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065167</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mPBMC without size selection (KAE24065167)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092077">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092077(KAS24092077)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092077</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mPBMC_Gib2_6cy_20230626</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from the raw single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065178" alias="KAE24065178" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065178</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mPBMC without size selection (KAE24065178)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092077">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092077(KAS24092077)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092077</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mPBMC_ODrM.v20230620_6cy_20230622</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>A single-cell cDNA library was processed with Ouro-Deplete for targeted depletion of cDNAs from mtDNA and rRNA. The Nanopore sequencing library was prepared from the Ouro-Seq-applied single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065168" alias="KAE24065168" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065168</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mPancreas without size selection (KAE24065168)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092078">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092078(KAS24092078)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092078</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mPancreasIslet_Gib2_6cy_20230626</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from the raw single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065179" alias="KAE24065179" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065179</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mPancreas without size selection (KAE24065179)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092078">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092078(KAS24092078)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092078</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mPancreasIslet_ODrM.v20230620_6cy_20230622</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>A single-cell cDNA library was processed with Ouro-Deplete for targeted depletion of cDNAs from mtDNA and rRNA. The Nanopore sequencing library was prepared from the Ouro-Seq-applied single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065169" alias="KAE24065169" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065169</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of raw single-cell cDNA library of mPancreas Nuclei without size selection (KAE24065169)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092079">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092079(KAS24092079)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092079</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mPancreasSNuc2_Gib2_6cy_20230626</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>The Nanopore sequencing library was prepared from the raw single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+	<EXPERIMENT accession="KAE24065180" alias="KAE24065180" center_name="Gwangju Institute of Science and Technology">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAE24065180</SUBMITTER_ID>
+		</IDENTIFIERS>
+		<TITLE>PromethION single-end Sequencing of Ouro-Seq-applied (Ouro-Deplete targeting uninformative transcripts derived from rRNA and mtDNA) single-cell cDNA library of mPancreas Nuclei without size selection (KAE24065180)</TITLE>
+		<STUDY_REF accession="KAP240772">
+			<IDENTIFIERS>
+				<PRIMARY_ID label="BioProject ID">ddbj_id_of_KAP240772(KAP240772)</PRIMARY_ID>
+				<SUBMITTER_ID namespace="KOBIC">KAP240772</SUBMITTER_ID>
+			</IDENTIFIERS>
+		</STUDY_REF>
+		<DESIGN>
+			<DESIGN_DESCRIPTION>missing</DESIGN_DESCRIPTION>
+			<SAMPLE_DESCRIPTOR accession="KAS24092079">
+				<IDENTIFIERS>
+					<PRIMARY_ID label="BioSample ID">ddbj_id_of_KAS24092079(KAS24092079)</PRIMARY_ID>
+					<SUBMITTER_ID namespace="KOBIC">KAS24092079</SUBMITTER_ID>
+				</IDENTIFIERS>
+			</SAMPLE_DESCRIPTOR>
+			<LIBRARY_DESCRIPTOR>
+				<LIBRARY_NAME>10x_mPancreasSNuc2_ODrM.v20230620_6cy_20230622</LIBRARY_NAME>
+				<LIBRARY_STRATEGY>RNA-Seq</LIBRARY_STRATEGY>
+				<LIBRARY_SOURCE>OTHER</LIBRARY_SOURCE>
+				<LIBRARY_SELECTION>Oligo-dT</LIBRARY_SELECTION>
+				<LIBRARY_LAYOUT>
+					<SINGLE/>
+				</LIBRARY_LAYOUT>
+				<LIBRARY_CONSTRUCTION_PROTOCOL>A single-cell cDNA library was processed with Ouro-Deplete for targeted depletion of cDNAs from mtDNA and rRNA. The Nanopore sequencing library was prepared from the Ouro-Seq-applied single-cell cDNA library using the Native Barcoding Kit 24 V14 kit (#SQK-NBD114.24, Oxford Nanopore Technologies) following the manufactureru0026#39;s protocol. The sequencing library was then loaded to a PromethION flow cell (R10.4.1) (# FLO-PRO114M, Oxford Nanopore Technologies) and sequenced on the PromethION 24 (Oxford Nanopore Technologies) with a sampling rate of 5 kHz. The raw sequencing output (FAST5 or POD5) was basecalled with Guppy (version 6.5.7) using the u0026quot;SUPu0026quot; basecalling model (the most accurate and slowest) u0026quot;dna_r10.4.1_e8.2_400bps_5khz_sup.cfgu0026quot;. The low-quality reads were filtered using the minimum quality score of 9.</LIBRARY_CONSTRUCTION_PROTOCOL>
+			</LIBRARY_DESCRIPTOR>
+		</DESIGN>
+		<PLATFORM>
+			<OXFORD_NANOPORE>
+				<INSTRUMENT_MODEL>PromethION</INSTRUMENT_MODEL>
+			</OXFORD_NANOPORE>
+		</PLATFORM>
+		<EXPERIMENT_ATTRIBUTES>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-29</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+			<EXPERIMENT_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2026-7-16</VALUE>
+			</EXPERIMENT_ATTRIBUTE>
+		</EXPERIMENT_ATTRIBUTES>
+	</EXPERIMENT>
+</EXPERIMENT_SET>

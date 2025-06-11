@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240958" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>single-cell RNA sequencing in MNU injured retina</Title>
+					<Description>We elucidate the role of prospero-related homeobox 1 (Prox1) in rendering the mammalian retina incompetent for MG(Muller glia cell)-derived regeneration. Prox1 accumulates in MG in the degenerating human and mouse retinas but not in those in the regenerating zebrafish retina. We investigated whether the transition of MG to proliferative MGPCs occurred in MNU-injured Prox1fg/fg;Chx10-CreERT2 mouse retinas through single-cell RNA sequencing analysis.</Description>
+					<Grant GrantId="1711134020">
+						<Title>Research Center for Cellular Identity (RC2I)</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-10-22</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-23">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>KAIST</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

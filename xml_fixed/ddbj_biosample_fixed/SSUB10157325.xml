@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106490</Id>
+		</Ids>
+		<Description>
+			<SampleName>WFDC2_mouse_lung</SampleName>
+			<Title>WFDC2_mouse_lung (KAS24106490)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">WFDC2_mouse_lung</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP241014</Attribute>
+			<Attribute attribute_name="collection_date">1945-01-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP241014</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-11-26</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-11-26</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157325</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106490</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-11-26</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

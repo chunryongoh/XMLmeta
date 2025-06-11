@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SUBMISSION alias="KRA2462531" center_name="Korea Research Institute of Bioscience and Biotechnology" submission_date="2025-06-11T08:24:41Z" lab_name="" accession="KRA2462531">
+	<IDENTIFIERS>
+		<PRIMARY_ID></PRIMARY_ID>
+		<SUBMITTER_ID namespace="KOBIC"></SUBMITTER_ID>
+	</IDENTIFIERS>
+	<CONTACTS>
+		<CONTACT name="KOBIC" inform_on_status="kobic_ddbj@kobic.kr" inform_on_error="kobic_ddbj@kobic.kr"></CONTACT>
+	</CONTACTS>
+	<ACTIONS>
+		<ACTION>
+			<ADD source="KRA2462531.Experiment.xml" schema="experiment"></ADD>
+		</ACTION>
+		<ACTION>
+			<ADD source="KRA2462531.Run.xml" schema="run"></ADD>
+		</ACTION>
+	</ACTIONS>
+</SUBMISSION>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240875" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Single-cell long-read sequencing of Lucat1 KO mouse PBMC</Title>
+					<Description>LUCAT1 is a popular oncogenic lncRNA. According to previous study, we have discovered that the lncRNA is closely related to tumor-associated macrophage. Therefore single-cell long-read sequencing was conducted with Lucat1 KO mouse PBMC, in order to understand the characteristics of Lucat1. We are expecting to have deeper understanding about LUCAT1, and its connection with cancer with the project.</Description>
+					<Grant GrantId="1711181124">
+						<Title>Functional Characterization of Bifunctional Genes via Deep Single-Molecule RNA Sequencing</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2026-02-27</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-02">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Hanyang University</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

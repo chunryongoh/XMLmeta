@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240731" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Liver tissues of Thrap3 KO with RNA sequencing</Title>
+					<Description>RNA-seq was performed on two individual samples from liver NCD-fed wildtype and Thrap3 LKO mice. Total RNA was isolated using the RNeasy mini kit (Qiagen, Hilden, Germany) according to the manufacturer's instructions. A total amount of 1 microgram RNA per sample was used as input material for the RNA sample preparations. The quality and quantity of the total RNA were evaluated using an Agilent 2100 Bioanalyzer RNA kit (Agilent Technologies, Inc., Santa Clara, CA). Sequencing libraries were generated using an Illumina TruSeqStranded mRNA Sample Preparation kit (Illumina, Inc., San Diego, CA) following the manufacturer's recommendations. Library quality and size were assessed on the Agilent Bioanalyzer 2100 system (Agilent Technologies, Inc., Santa Clara, CA). The library preparations were sequenced on NextSeq500 sequencers (Illumina, Inc., San Diego, CA), and paired-end 75 bp plus single 8 bp index reads were generated. After quality filtering according to the Illumina pipeline, paired-end reads were mapped to the reference genome (mm10 assembly) using STAR aligner version 2.7.3a with default parameters. Differentially expressed genes (DEGs) were identified using DESeq2 1.30.0. Read counts for DESeq2 analysis were obtained using featureCounts v2.0.0. After eliminating absent and low features (zero or &lt;1CPM), the raw counts were normalized using DESeq2, followed by differential expression analysis. The KEGG enriched pathway was determined according to ErichR, the web-based software for gene set enrichment analysis.</Description>
+					<Grant GrantId="2016M3A9D5A01952411">
+						<Title>Korea Mouse Phenotyping Project</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-05-27</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-05-27">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>UNIST</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

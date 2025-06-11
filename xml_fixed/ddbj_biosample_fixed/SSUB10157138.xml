@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090213</Id>
+		</Ids>
+		<Description>
+			<SampleName>Pair_S1</SampleName>
+			<Title>Pair_S1 (KAS24090213)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus Musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Advanced Institute of Science and Technology (KAIST)</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">Pair_S1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240725</Attribute>
+			<Attribute attribute_name="collection_date">2021-09-09</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus Musculus</Attribute>
+			<Attribute attribute_name="isolate">EtOH-fed mice liver tissue</Attribute>
+			<Attribute attribute_name="isolation_source">EtOH-fed mice liver tissue</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240725</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-1-01</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-1-01</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157138</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090213</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-1-01</Attribute>
+			<Attribute attribute_name="lab_host">Mus Musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090214</Id>
+		</Ids>
+		<Description>
+			<SampleName>EtOH_S1</SampleName>
+			<Title>EtOH_S1 (KAS24090214)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus Musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Advanced Institute of Science and Technology (KAIST)</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">EtOH_S1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240725</Attribute>
+			<Attribute attribute_name="collection_date">2021-09-09</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus Musculus</Attribute>
+			<Attribute attribute_name="isolate">EtOH-fed mice liver tissue</Attribute>
+			<Attribute attribute_name="isolation_source">EtOH-fed mice liver tissue</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240725</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-1-01</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-1-01</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157138</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090214</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-1-01</Attribute>
+			<Attribute attribute_name="lab_host">Mus Musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090215</Id>
+		</Ids>
+		<Description>
+			<SampleName>EtOH_S2</SampleName>
+			<Title>EtOH_S2 (KAS24090215)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus Musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Advanced Institute of Science and Technology (KAIST)</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">EtOH_S2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240725</Attribute>
+			<Attribute attribute_name="collection_date">2021-09-09</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Daejeon</Attribute>
+			<Attribute attribute_name="host">Mus Musculus</Attribute>
+			<Attribute attribute_name="isolate">EtOH-fed mice liver tissue</Attribute>
+			<Attribute attribute_name="isolation_source">EtOH-fed mice liver tissue</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240725</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2025-1-01</Attribute>
+			<Attribute attribute_name="kobic_release_date">2025-1-01</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157138</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090215</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2025-1-01</Attribute>
+			<Attribute attribute_name="lab_host">Mus Musculus</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

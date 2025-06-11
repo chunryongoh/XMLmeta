@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24062461" alias="KAR24062461" center_name="Yonsei University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062461</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Sequel II paired-end Sequencing of SCI (KAR24062461)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062461" refcenter="KOBIC" refname="KAE24062461">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062461</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="SCI2_1_HiFi.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="SCI2_2_HiFi.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-12</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-12</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-3-21</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24062460" alias="KAR24062460" center_name="Yonsei University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24062460</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Sequel II paired-end Sequencing of HIE (KAR24062460)</TITLE>
+		<EXPERIMENT_REF accession="KAE24062460" refcenter="KOBIC" refname="KAE24062460">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24062460</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="HIE2_1_HiFi.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="HIE2_2_HiFi.fastq" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-3-12</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-3-12</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-3-21</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

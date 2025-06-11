@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24065435" alias="KAR24065435" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065435</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093238 (KAR24065435)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065435" refcenter="KOBIC" refname="KAE24065435">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065435</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA40.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA40.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065436" alias="KAR24065436" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065436</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093239 (KAR24065436)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065436" refcenter="KOBIC" refname="KAE24065436">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065436</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA50.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA50.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065437" alias="KAR24065437" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065437</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093240 (KAR24065437)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065437" refcenter="KOBIC" refname="KAE24065437">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065437</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA60.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA60.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065438" alias="KAR24065438" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065438</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093241 (KAR24065438)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065438" refcenter="KOBIC" refname="KAE24065438">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065438</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="mHTV_pA50_D.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="mHTV_pA50_D.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065439" alias="KAR24065439" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065439</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093242 (KAR24065439)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065439" refcenter="KOBIC" refname="KAE24065439">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065439</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="mHTV_pA50_F.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="mHTV_pA50_F.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065440" alias="KAR24065440" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065440</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093243 (KAR24065440)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065440" refcenter="KOBIC" refname="KAE24065440">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065440</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA45-L-pA45.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA45-L-pA45.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065441" alias="KAR24065441" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065441</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093244 (KAR24065441)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065441" refcenter="KOBIC" refname="KAE24065441">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065441</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA50-L-pA50.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA50-L-pA50.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065442" alias="KAR24065442" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065442</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093245 (KAR24065442)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065442" refcenter="KOBIC" refname="KAE24065442">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065442</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA55-L-pA55.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA55-L-pA55.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065443" alias="KAR24065443" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065443</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093246 (KAR24065443)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065443" refcenter="KOBIC" refname="KAE24065443">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065443</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="mHTV_pA50-L-pA50_D.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="mHTV_pA50-L-pA50_D.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065444" alias="KAR24065444" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065444</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093247 (KAR24065444)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065444" refcenter="KOBIC" refname="KAE24065444">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065444</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="mHTV_pA50-L-pA50_F.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="mHTV_pA50-L-pA50_F.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065445" alias="KAR24065445" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065445</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093248 (KAR24065445)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065445" refcenter="KOBIC" refname="KAE24065445">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065445</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA25-L-pA65.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA25-L-pA65.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065446" alias="KAR24065446" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065446</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093249 (KAR24065446)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065446" refcenter="KOBIC" refname="KAE24065446">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065446</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA30-L-pA70.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA30-L-pA70.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065447" alias="KAR24065447" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065447</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093250 (KAR24065447)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065447" refcenter="KOBIC" refname="KAE24065447">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065447</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA35-L-pA75.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA35-L-pA75.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065448" alias="KAR24065448" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065448</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093251 (KAR24065448)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065448" refcenter="KOBIC" refname="KAE24065448">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065448</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA70-L-pA30.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA70-L-pA30.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065449" alias="KAR24065449" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065449</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093252 (KAR24065449)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065449" refcenter="KOBIC" refname="KAE24065449">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065449</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="mHTV_pA30-L-pA70_D.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="mHTV_pA30-L-pA70_D.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065450" alias="KAR24065450" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065450</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093253 (KAR24065450)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065450" refcenter="KOBIC" refname="KAE24065450">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065450</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="mHTV_pA30-L-pA70_F.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="mHTV_pA30-L-pA70_F.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065451" alias="KAR24065451" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065451</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093254 (KAR24065451)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065451" refcenter="KOBIC" refname="KAE24065451">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065451</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA110.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA110.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065452" alias="KAR24065452" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065452</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093255 (KAR24065452)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065452" refcenter="KOBIC" refname="KAE24065452">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065452</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA120.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA120.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065453" alias="KAR24065453" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065453</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093256 (KAR24065453)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065453" refcenter="KOBIC" refname="KAE24065453">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065453</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="STD_pA130.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="STD_pA130.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065454" alias="KAR24065454" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065454</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093257 (KAR24065454)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065454" refcenter="KOBIC" refname="KAE24065454">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065454</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="mHTV_pA120_D.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="mHTV_pA120_D.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065455" alias="KAR24065455" center_name="Ajou University">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065455</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Illumina MiSeq paired Sequencing of KAS24093258 (KAR24065455)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065455" refcenter="KOBIC" refname="KAE24065455">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065455</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="mHTV_pA120_F.R1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="mHTV_pA120_F.R2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-8-26</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-9-01</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

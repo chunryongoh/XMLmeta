@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090272</Id>
+		</Ids>
+		<Description>
+			<SampleName>Primary_A375</SampleName>
+			<Title>Primary_A375 (KAS24090272)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">Primary_A375</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240742</Attribute>
+			<Attribute attribute_name="collection_date">2023-02-14</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">A375</Attribute>
+			<Attribute attribute_name="isolation_source">A375</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240742</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-12-31</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-12-31</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157147</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090272</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-12-31</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090273</Id>
+		</Ids>
+		<Description>
+			<SampleName>Blood_A375</SampleName>
+			<Title>Blood_A375 (KAS24090273)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">Blood_A375</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240742</Attribute>
+			<Attribute attribute_name="collection_date">2023-02-14</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">A375</Attribute>
+			<Attribute attribute_name="isolation_source">A375</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240742</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-12-31</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-12-31</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157147</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090273</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-12-31</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24090274</Id>
+		</Ids>
+		<Description>
+			<SampleName>Metastasis_A375</SampleName>
+			<Title>Metastasis_A375 (KAS24090274)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University College of Medicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">Metastasis_A375</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240742</Attribute>
+			<Attribute attribute_name="collection_date">2023-02-14</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">A375</Attribute>
+			<Attribute attribute_name="isolation_source">A375</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240742</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-12-31</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-12-31</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157147</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24090274</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-12-31</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

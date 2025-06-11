@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240767" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Multi-omics Study for the Identification of Novel Drug Targets in Insulin Resistance</Title>
+					<Description>c-Myc is an oncogene but has a role in metabolic regulation. It plays an important role in metabolism in differentiated skeletal muscle through regulating mitochondria and ribosome biogenesis. We investigated metabolic phenotypes and transcriptome of skeletal muscle specific c-Myc knockout mice. Skeletal muscle-specific c-Myc knockout mice were resistant to insulin resistance when fed a high-fat diet. At transcriptome analysis with RNA sequencing, we observed that peroxisome activation was associated with the protective role of c-Myc deficiency against insulin resistance. The study suggests the possibility of finding novel drugs for insulin resistance through modulation of c-Myc.</Description>
+					<Grant GrantId="1465037314">
+						<Title>Establishment of a multi-omics and organoid-based gene therapy efficacy evaluation system</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-07-22</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-07-15">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Seoul National University Bundang Hospital</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

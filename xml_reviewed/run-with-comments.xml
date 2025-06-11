@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RUN_SET>
+    <RUN accession="KAR24062461" alias="KAR24062461" center_name="Yonsei University">
+        <IDENTIFIERS>
+            <PRIMARY_ID/>
+            <SUBMITTER_ID namespace="KOBIC">KAR24062461</SUBMITTER_ID>
+        </IDENTIFIERS>
+        <TITLE>Sequel II paired-end Sequencing of SCI</TITLE>
+        <EXPERIMENT_REF accession="KAE24062461" refcenter="KOBIC" refname="KAE24062461"> <-- refcenter="Yonsei University" or you may omit this.
+            <IDENTIFIERS>
+                <PRIMARY_ID/>
+                <SUBMITTER_ID>KAE24062461</SUBMITTER_ID> <-- Add namespace="KOBIC"
+            </IDENTIFIERS>
+        </EXPERIMENT_REF>
+
+        <DATA_BLOCK> <-- Add. We do not allow a file under subdirectories like "/BiO/K-BDS/DATA/DataStation/NGS/INPUT_2407293/HIE2_1_HiFi.fastq", should be "HIE2_1_HiFi.fastq"
+            <FILES>
+                <FILE filename="KAR2225242_READ_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="e3b66981f84377459a5a1c3fb9b0d84b"/>
+                <FILE filename="KAR2225242_READ_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="246e284554a4a8e098ee1fbac458c834"/>
+            </FILES>
+        </DATA_BLOCK>
+
+        <RUN_ATTRIBUTES>
+            <RUN_ATTRIBUTE>
+                <TAG>KOBIC_submission_date</TAG>
+                <VALUE>2024-3-12</VALUE>
+            </RUN_ATTRIBUTE>
+            <RUN_ATTRIBUTE>
+                <TAG>KOBIC_registration_date</TAG>
+                <VALUE>2024-3-12</VALUE>
+            </RUN_ATTRIBUTE>
+            <RUN_ATTRIBUTE>
+                <TAG>KOBIC_release_date</TAG>
+                <VALUE>2024-3-21</VALUE>
+            </RUN_ATTRIBUTE>
+        </RUN_ATTRIBUTES>
+    </RUN>
+</RUN_SET>

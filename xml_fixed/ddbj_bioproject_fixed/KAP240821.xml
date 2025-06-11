@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240821" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Transcriptome sequencing</Title>
+					<Description>Ubiquitination is reversed by deubiquitinating enzymes (DUBs), a group of proteases that remove monoubiquitin or polyubiquitin chains from the substrate. TRABID, encoded by the ZRANB1 gene, is a DUB that specifically disassembles K29- and K33-linked ubiquitin chains. We identified the peptide capable to interference with TRABID and target substrate and analyzed transcriptome sequencing using next generation sequencing technique.</Description>
+					<Grant GrantId="1711195998">
+						<Title>Therapeutic strategy for non-alcoholic fatty liver disease (NAFLD) through regulation of TRABID activity</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2025-12-31</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="32644">
+								<OrganismName>unidentified</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-09-10">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Keimyung University</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

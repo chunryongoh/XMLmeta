@@ -1,0 +1,3 @@
+<-- refcenter="Yonsei University" or you may omit this.
+<-- Add namespace="KOBIC"
+<-- Add. We do not allow a file under subdirectories like "/BiO/K-BDS/DATA/DataStation/NGS/INPUT_2407293/HIE2_1_HiFi.fastq", should be "HIE2_1_HiFi.fastq"

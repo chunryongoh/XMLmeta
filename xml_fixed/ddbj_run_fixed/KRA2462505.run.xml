@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24065022" alias="KAR24065022" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065022</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24065022)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065022" refcenter="KOBIC" refname="KAE24065022">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065022</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_A_floxHFDQC_M1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_A_floxHFDQC_M1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-15</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-15</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24065021" alias="KAR24065021" center_name="Seoul National University Bundang Hospital">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24065021</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>Metabolic phenotyping and transriptome analysis of c-Myc muscle knockout mice (KAR24065021)</TITLE>
+		<EXPERIMENT_REF accession="KAE24065021" refcenter="KOBIC" refname="KAE24065021">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24065021</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="sample_A_floxHFDQC_M2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="sample_A_floxHFDQC_M2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-7-15</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-7-15</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2025-7-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

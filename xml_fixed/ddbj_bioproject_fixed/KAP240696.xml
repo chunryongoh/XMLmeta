@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240696" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>The effect of SARS-CoV-2 infection on Helicobacter pylori infected stomach</Title>
+					<Description>To investigate the effect of SARS-CoV-2 infection on the stomach, especially Helicobacter pylori (H. pylori) infected stomach, we used H. pylori mouse model followed by SARS-CoV-2 infection. Stomach tissues were collected at 7days post SARS-CoV-2 infection from mock infected group and SARS-CoV-2 infected group. In addition, either mock or SARS-CoV-2 was infected at 4weeks post H. pylori infection and stomach tissues were collected at 20weeks post H. pylori infection from each group.</Description>
+					<Grant GrantId="N/A">
+						<Title>Preclinical experiment and research on infectious diseases  to build infrastructure database</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-04-09</ProjectReleaseDate>
+					<UserTerm term="KOBIC_submission_date">2024-4-11</UserTerm>
+					<UserTerm term="KOBIC_registration_date">2024-4-11</UserTerm>
+					<UserTerm term="KOBIC_release_date">2024-4-09</UserTerm>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-04-11">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>Yonsei University College of Medicine</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>

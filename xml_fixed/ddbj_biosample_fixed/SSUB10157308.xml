@@ -1,0 +1,2019 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106339</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1969</SampleName>
+			<Title>TN2107R1969 (KAS24106339)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1969</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106339</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106340</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1970</SampleName>
+			<Title>TN2107R1970 (KAS24106340)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1970</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106340</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106341</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1971</SampleName>
+			<Title>TN2107R1971 (KAS24106341)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1971</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106341</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106342</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1972</SampleName>
+			<Title>TN2107R1972 (KAS24106342)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1972</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106342</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106343</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1973</SampleName>
+			<Title>TN2107R1973 (KAS24106343)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1973</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106343</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106344</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1974</SampleName>
+			<Title>TN2107R1974 (KAS24106344)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1974</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106344</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106345</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1975</SampleName>
+			<Title>TN2107R1975 (KAS24106345)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1975</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106345</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106346</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1976</SampleName>
+			<Title>TN2107R1976 (KAS24106346)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1976</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106346</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106347</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1641</SampleName>
+			<Title>TN2207R1641 (KAS24106347)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1641</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106347</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106348</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1642</SampleName>
+			<Title>TN2207R1642 (KAS24106348)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1642</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">Cambodia</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106348</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106349</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1643</SampleName>
+			<Title>TN2207R1643 (KAS24106349)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1643</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106349</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106350</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1644</SampleName>
+			<Title>TN2207R1644 (KAS24106350)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1644</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106350</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106351</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1645</SampleName>
+			<Title>TN2207R1645 (KAS24106351)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1645</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106351</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106352</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1646</SampleName>
+			<Title>TN2207R1646 (KAS24106352)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1646</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106352</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106353</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1647</SampleName>
+			<Title>TN2207R1647 (KAS24106353)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1647</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106353</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106354</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1648</SampleName>
+			<Title>TN2207R1648 (KAS24106354)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1648</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106354</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106355</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0985</SampleName>
+			<Title>TN2306R0985 (KAS24106355)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0985</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106355</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106356</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0986</SampleName>
+			<Title>TN2306R0986 (KAS24106356)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0986</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">Cambodia</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106356</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106357</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0987</SampleName>
+			<Title>TN2306R0987 (KAS24106357)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0987</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106357</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106358</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0988</SampleName>
+			<Title>TN2306R0988 (KAS24106358)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0988</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106358</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106359</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0989</SampleName>
+			<Title>TN2306R0989 (KAS24106359)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0989</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106359</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106360</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0990</SampleName>
+			<Title>TN2306R0990 (KAS24106360)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0990</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106360</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106361</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0991</SampleName>
+			<Title>TN2306R0991 (KAS24106361)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0991</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106361</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106362</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0992</SampleName>
+			<Title>TN2306R0992 (KAS24106362)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0992</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106362</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106363</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1969_s</SampleName>
+			<Title>TN2107R1969_s (KAS24106363)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1969_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106363</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106364</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1970_s</SampleName>
+			<Title>TN2107R1970_s (KAS24106364)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1970_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106364</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106365</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1971_s</SampleName>
+			<Title>TN2107R1971_s (KAS24106365)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1971_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106365</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106366</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1972_s</SampleName>
+			<Title>TN2107R1972_s (KAS24106366)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1972_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106366</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106367</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1973_s</SampleName>
+			<Title>TN2107R1973_s (KAS24106367)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1973_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106367</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106368</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1974_s</SampleName>
+			<Title>TN2107R1974_s (KAS24106368)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1974_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106368</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106369</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1975_s</SampleName>
+			<Title>TN2107R1975_s (KAS24106369)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1975_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106369</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106370</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2107R1976_s</SampleName>
+			<Title>TN2107R1976_s (KAS24106370)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2107R1976_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2021-07-23</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106370</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106371</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1641_s</SampleName>
+			<Title>TN2207R1641_s (KAS24106371)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1641_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106371</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106372</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1642_s</SampleName>
+			<Title>TN2207R1642_s (KAS24106372)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1642_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">Cambodia</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106372</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106373</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1643_s</SampleName>
+			<Title>TN2207R1643_s (KAS24106373)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1643_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106373</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106374</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1644_s</SampleName>
+			<Title>TN2207R1644_s (KAS24106374)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1644_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106374</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106375</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1645_s</SampleName>
+			<Title>TN2207R1645_s (KAS24106375)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1645_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106375</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106376</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1646_s</SampleName>
+			<Title>TN2207R1646_s (KAS24106376)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1646_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106376</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106377</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1647_s</SampleName>
+			<Title>TN2207R1647_s (KAS24106377)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1647_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106377</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106378</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2207R1648_s</SampleName>
+			<Title>TN2207R1648_s (KAS24106378)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2207R1648_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2022-07-13</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106378</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106379</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0985_s</SampleName>
+			<Title>TN2306R0985_s (KAS24106379)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0985_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106379</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106380</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0986_s</SampleName>
+			<Title>TN2306R0986_s (KAS24106380)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0986_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">Cambodia</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106380</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106381</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0987_s</SampleName>
+			<Title>TN2306R0987_s (KAS24106381)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0987_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106381</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106382</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0988_s</SampleName>
+			<Title>TN2306R0988_s (KAS24106382)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0988_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106382</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106383</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0989_s</SampleName>
+			<Title>TN2306R0989_s (KAS24106383)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0989_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106383</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106384</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0990_s</SampleName>
+			<Title>TN2306R0990_s (KAS24106384)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0990_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Suzhou</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106384</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106385</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0991_s</SampleName>
+			<Title>TN2306R0991_s (KAS24106385)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0991_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106385</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24106386</Id>
+		</Ids>
+		<Description>
+			<SampleName>TN2306R0992_s</SampleName>
+			<Title>TN2306R0992_s (KAS24106386)</Title>
+			<Organism taxonomy_id="9541">
+				<OrganismName>Macaca fascicularis</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Korea Research Institute of Bioscience and Biotechnology</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">TN2306R0992_s</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240988</Attribute>
+			<Attribute attribute_name="collection_date">2023-06-12</Attribute>
+			<Attribute attribute_name="geo_loc_name">China:Gangdong</Attribute>
+			<Attribute attribute_name="host">Macaca fascicularis</Attribute>
+			<Attribute attribute_name="isolate">unknown</Attribute>
+			<Attribute attribute_name="isolation_source">unknown</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240988</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-10-28</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157308</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24106386</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-10-28</Attribute>
+			<Attribute attribute_name="lab_host">Macaca fascicularis</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

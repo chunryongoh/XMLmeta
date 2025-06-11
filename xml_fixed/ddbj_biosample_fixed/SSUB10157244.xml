@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24094013</Id>
+		</Ids>
+		<Description>
+			<SampleName>Lucat1 (5430425K12Rik) Knock-out mouse</SampleName>
+			<Title>Lucat1 (5430425K12Rik) Knock-out mouse (KAS24094013)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Hanyang University</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">Lucat1 (5430425K12Rik) Knock-out mouse</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240875</Attribute>
+			<Attribute attribute_name="collection_date">2024-05-28</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Lucat1_KO</Attribute>
+			<Attribute attribute_name="isolation_source">Lucat1_KO</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240875</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157244</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24094013</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24094014</Id>
+		</Ids>
+		<Description>
+			<SampleName>C57BL/6J WT mouse</SampleName>
+			<Title>C57BL/6J WT mouse (KAS24094014)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Hanyang University</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">C57BL/6J WT mouse</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240875</Attribute>
+			<Attribute attribute_name="collection_date">2024-05-28</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Lucat1_WT</Attribute>
+			<Attribute attribute_name="isolation_source">Lucat1_WT</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240875</Attribute>
+			<Attribute attribute_name="kobic_registration_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_release_date">unknown</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10157244</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24094014</Attribute>
+			<Attribute attribute_name="kobic_submission_date">unknown</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

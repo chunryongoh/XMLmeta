@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+	<RUN accession="KAR24068977" alias="KAR24068977" center_name="KAIST">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24068977</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>NextSeq 550 paired Sequencing of KAS24098004 (KAR24068977)</TITLE>
+		<EXPERIMENT_REF accession="KAE24068977" refcenter="KOBIC" refname="KAE24068977">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24068977</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="SMARTseq_GCAM0_R1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="SMARTseq_GCAM0_R2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-23</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-23</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-10-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24068976" alias="KAR24068976" center_name="KAIST">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24068976</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>NextSeq 550 paired Sequencing of KAS24098005 (KAR24068976)</TITLE>
+		<EXPERIMENT_REF accession="KAE24068976" refcenter="KOBIC" refname="KAE24068976">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24068976</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="SMARTseq_GAM0_R1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="SMARTseq_GAM0_R2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-23</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-23</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-10-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24068979" alias="KAR24068979" center_name="KAIST">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24068979</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>NextSeq 550 paired Sequencing of KAS24098006 (KAR24068979)</TITLE>
+		<EXPERIMENT_REF accession="KAE24068979" refcenter="KOBIC" refname="KAE24068979">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24068979</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="SMARTseq_GCAM4_R1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+				<FILE filename="SMARTseq_GCAM4_R2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum=""></FILE>
+			</FILES>
+		</DATA_BLOCK>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-23</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-23</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-10-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+	<RUN accession="KAR24068978" alias="KAR24068978" center_name="KAIST">
+		<IDENTIFIERS>
+			<SUBMITTER_ID namespace="KOBIC">KAR24068978</SUBMITTER_ID>
+			<UUID></UUID>
+		</IDENTIFIERS>
+		<TITLE>NextSeq 550 paired Sequencing of KAS24098007 (KAR24068978)</TITLE>
+		<EXPERIMENT_REF accession="KAE24068978" refcenter="KOBIC" refname="KAE24068978">
+			<IDENTIFIERS>
+				<SUBMITTER_ID namespace="KOBIC">KAE24068978</SUBMITTER_ID>
+				<UUID></UUID>
+			</IDENTIFIERS>
+		</EXPERIMENT_REF>
+		<RUN_ATTRIBUTES>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_submission_date</TAG>
+				<VALUE>2024-10-23</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_registration_date</TAG>
+				<VALUE>2024-10-23</VALUE>
+			</RUN_ATTRIBUTE>
+			<RUN_ATTRIBUTE>
+				<TAG>KOBIC_release_date</TAG>
+				<VALUE>2024-10-22</VALUE>
+			</RUN_ATTRIBUTE>
+		</RUN_ATTRIBUTES>
+	</RUN>
+</RUN_SET>

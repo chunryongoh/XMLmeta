@@ -1,0 +1,38 @@
+# ddbj_run.xml → kobic-0352.run.xml로 변경 시 반영해야 할 주요 차이점
+
+1. **최상위 구조 및 반복**
+   - ddbj_run.xml: `<RUN_SET>` 내에 `<RUN>` 여러 개(대용량, 다양한 실험 포함)
+   - kobic-0352.run.xml: `<RUN_SET>` 내 `<RUN>` 2개(실제 제출 예시)
+   - → 실제 제출은 실험 단위로 분리하거나, 제출 요구에 맞게 파일을 나눠야 할 수 있음
+
+2. **RUN 속성 및 식별자**
+   - ddbj_run.xml: `accession`, `alias`, `center_name` 등 속성, `<IDENTIFIERS>` 내 `PRIMARY_ID` 비어있음, `SUBMITTER_ID` 존재
+   - kobic-0352.run.xml: `alias`, `center_name`, `accession` 등 속성, `<IDENTIFIERS>` 내 `PRIMARY_ID` 비어있음, `SUBMITTER_ID` 존재
+   - → alias, center_name, accession 등 속성명/값 일치 필요
+
+3. **TITLE, EXPERIMENT_REF**
+   - ddbj_run.xml: `<TITLE>`, `<EXPERIMENT_REF>`(accession, refcenter, refname), `<IDENTIFIERS>`
+   - kobic-0352.run.xml: `<TITLE>`, `<EXPERIMENT_REF>`(accession, refcenter, refname), `<IDENTIFIERS>`
+   - → 실질적으로 구조는 유사하나, 값 및 참조 일치 필요
+
+4. **DATA_BLOCK 및 FILES**
+   - ddbj_run.xml: DATA_BLOCK, FILES, FILE 등 데이터 파일 정보가 없음(제출본에는 누락)
+   - kobic-0352.run.xml: `<DATA_BLOCK><FILES><FILE .../></FILES></DATA_BLOCK>` 등 실제 데이터 파일, 체크섬 등 정보 포함
+   - → DATA_BLOCK, FILES, FILE 등 데이터 파일 정보 추가 필요
+
+5. **RUN_ATTRIBUTES**
+   - ddbj_run.xml: `KOBIC_submission_date`, `KOBIC_registration_date`, `KOBIC_release_date` 등
+   - kobic-0352.run.xml: 위 3개 + `metadata_modification` 등 추가 태그
+   - → 필요한 경우 추가 태그 반영, 날짜 포맷 일치 필요
+
+6. **기타**
+   - ddbj_run.xml: 다양한 실험, 다양한 센터, 다양한 샘플 포함(대용량)
+   - kobic-0352.run.xml: 실제 제출 예시 기준으로 단순화, 실험/샘플/센터 일치 필요
+
+---
+
+**정책:**
+- 실험별로 파일을 분리하거나, 제출 요구에 맞게 구조를 단순화해야 함
+- DATA_BLOCK, FILES, FILE 등 데이터 파일 정보 반드시 포함
+- 날짜, 태그, 식별자 등 실제 제출 예시와 일치하도록 수정
+- 실험 내용, 데이터 파일, 체크섬 등은 실제 실험에 맞게 구체적으로 작성

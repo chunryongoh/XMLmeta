@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BioSampleSet>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24088907</Id>
+		</Ids>
+		<Description>
+			<SampleName>Raw264.7_1</SampleName>
+			<Title>Raw264.7_1 (KAS24088907)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University, College of Meicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">Raw264.7_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240685</Attribute>
+			<Attribute attribute_name="collection_date">2020-12-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Raw264.7</Attribute>
+			<Attribute attribute_name="isolation_source">Raw264.7</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240685</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10156658</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24088907</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-11-14</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24088908</Id>
+		</Ids>
+		<Description>
+			<SampleName>Raw264.7_2</SampleName>
+			<Title>Raw264.7_2 (KAS24088908)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University, College of Meicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">Raw264.7_2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240685</Attribute>
+			<Attribute attribute_name="collection_date">2020-12-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Raw264.7</Attribute>
+			<Attribute attribute_name="isolation_source">Raw264.7</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240685</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10156658</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24088908</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-11-14</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24088909</Id>
+		</Ids>
+		<Description>
+			<SampleName>Raw264.7_siCon_LPS_1</SampleName>
+			<Title>Raw264.7_siCon_LPS_1 (KAS24088909)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University, College of Meicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">Raw264.7_siCon_LPS_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240685</Attribute>
+			<Attribute attribute_name="collection_date">2020-12-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Raw264.7</Attribute>
+			<Attribute attribute_name="isolation_source">Raw264.7</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240685</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10156658</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24088909</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-11-14</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24088910</Id>
+		</Ids>
+		<Description>
+			<SampleName>Raw264.7_siCon_LPS_2</SampleName>
+			<Title>Raw264.7_siCon_LPS_2 (KAS24088910)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University, College of Meicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">Raw264.7_siCon_LPS_2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240685</Attribute>
+			<Attribute attribute_name="collection_date">2020-12-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Raw264.7</Attribute>
+			<Attribute attribute_name="isolation_source">Raw264.7</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240685</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10156658</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24088910</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-11-14</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24088911</Id>
+		</Ids>
+		<Description>
+			<SampleName>Raw264.7_siTaz_LPS_1</SampleName>
+			<Title>Raw264.7_siTaz_LPS_1 (KAS24088911)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University, College of Meicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">Raw264.7_siTaz_LPS_1</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240685</Attribute>
+			<Attribute attribute_name="collection_date">2020-12-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Raw264.7</Attribute>
+			<Attribute attribute_name="isolation_source">Raw264.7</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240685</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10156658</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24088911</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-11-14</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+	<BioSample access="public">
+		<Ids>
+			<Id namespace="BioSample">KAS24088912</Id>
+		</Ids>
+		<Description>
+			<SampleName>Raw264.7_siTaz_LPS_2</SampleName>
+			<Title>Raw264.7_siTaz_LPS_2 (KAS24088912)</Title>
+			<Organism taxonomy_id="10090">
+				<OrganismName>Mus musculus</OrganismName>
+			</Organism>
+		</Description>
+		<Owner>
+			<Name>Yonsei University, College of Meicine</Name>
+			<Contacts>
+				<Contact email="kobic_ddbj@kobic.kr">
+					<Name>
+						<First>KOBIC</First>
+						<Last>KOBIC</Last>
+					</Name>
+				</Contact>
+			</Contacts>
+		</Owner>
+		<Models>
+			<Model>Model organism or animal</Model>
+		</Models>
+		<Attributes>
+			<Attribute attribute_name="sample_name">Raw264.7_siTaz_LPS_2</Attribute>
+			<Attribute attribute_name="bioproject_id">KAP240685</Attribute>
+			<Attribute attribute_name="collection_date">2020-12-01</Attribute>
+			<Attribute attribute_name="geo_loc_name">South Korea: Seoul</Attribute>
+			<Attribute attribute_name="host">Mus musculus</Attribute>
+			<Attribute attribute_name="isolate">Raw264.7</Attribute>
+			<Attribute attribute_name="isolation_source">Raw264.7</Attribute>
+			<Attribute attribute_name="kobic_project_id">KAP240685</Attribute>
+			<Attribute attribute_name="kobic_registration_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_release_date">2024-11-14</Attribute>
+			<Attribute attribute_name="kobic_sample_group_id">SSUB10156658</Attribute>
+			<Attribute attribute_name="kobic_sample_id">KAS24088912</Attribute>
+			<Attribute attribute_name="kobic_submission_date">2024-11-14</Attribute>
+			<Attribute attribute_name="lab_host">Mus musculus</Attribute>
+		</Attributes>
+	</BioSample>
+</BioSampleSet>

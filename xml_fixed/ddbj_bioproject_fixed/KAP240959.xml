@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageSet>
+	<Package>
+		<Project>
+			<Project>
+				<ProjectID>
+					<ArchiveID accession="KAP240959" archive="DDBJ"></ArchiveID>
+				</ProjectID>
+				<ProjectDescr>
+					<Title>Muller-glia targeted SMART-seq in MNU injured retina</Title>
+					<Description>We further investigated injury-induced gene expression changes selectively in MG cell lineages. The tdTom-labeled MG and their descendant cells were isolated via FACS from uninjured or MNU-injured Glast-CreERT;R26tdTom/+ mouse retinas, which were infected with either AAV2-Ctrl Ab or AAV2-alpha Prox1, and mRNA expression patterns of individual cells were analyzed using SMART (Switching Mechanism At the 5' end of RNA Template) sequencing methods. We could identify a lineage flow from resting MG to RPC-like cells via activated MG, along with pseudo-time progression.</Description>
+					<Grant GrantId="1711190763">
+						<Title>Research Center for Cellular Identity (RC2I)</Title>
+						<Agency abbr="N/A">N/A</Agency>
+					</Grant>
+					<ProjectReleaseDate>2024-10-22</ProjectReleaseDate>
+				</ProjectDescr>
+				<ProjectType>
+					<ProjectTypeSubmission>
+						<Target sample_scope="eOther" material="eOther" capture="eOther">
+							<Organism taxID="10090">
+								<OrganismName>Mus musculus</OrganismName>
+							</Organism>
+						</Target>
+						<Method method_type="eOther"></Method>
+						<Objectives>
+							<Data data_type="eOther"></Data>
+						</Objectives>
+						<ProjectDataTypeSet>
+							<DataType>Other</DataType>
+						</ProjectDataTypeSet>
+					</ProjectTypeSubmission>
+				</ProjectType>
+			</Project>
+		</Project>
+		<Submission>
+			<Submission submitted="2024-10-23">
+				<Description>
+					<Organization type="center" role="owner">
+						<Name>KAIST</Name>
+						<Contact email="kobic_ddbj@kobic.kr">
+							<Name>
+								<First></First>
+								<Last></Last>
+							</Name>
+						</Contact>
+					</Organization>
+					<Access>public</Access>
+				</Description>
+			</Submission>
+		</Submission>
+	</Package>
+</PackageSet>
