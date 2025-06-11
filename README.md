@@ -37,7 +37,7 @@
   - BioProject에서 owner, BioExperiment에서 isolate 등 보조 정보 추출
   - SAMPLE_ATTRIBUTES 태그명/값 표준화, 필수 속성 누락 시 기본값 채움
   - <SAMPLE_SET>→<BioSampleSet>, <SAMPLE>→<BioSample> 등 태그명/구조 보정
-  - submission_id별 BioSampleSet 분리 저장, XSD 검증 및 리포트
+  - SSUB_id별 BioSampleSet 분리 저장, XSD 검증 및 리포트
 - **실행 예시:**
   ```bash
   python pipeline_biosample/main.py

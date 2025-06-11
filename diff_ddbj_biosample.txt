@@ -1,6 +1,0 @@
-[{'attrs': None,
-  'new': 'BioSampleSet',
-  'old': 'SAMPLE_SET',
-  'policy': None,
-  'type': 'modify_tag',
-  'xpath': '/SAMPLE_SET'}]

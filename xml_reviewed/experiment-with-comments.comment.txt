@@ -1,4 +1,0 @@
-<-- refcenter="Yonsei University" or you may omit this.
-<-- refcenter="Yonsei University" or you may omit this.
-<-- Omit NOMINAL_LENGTH, otherwise, you need to enter an integer value.
-<-- Platform and instrument model should be compatible. In this case, must be PACBIO_SMRT because Sequel is not ILLUMINA.
