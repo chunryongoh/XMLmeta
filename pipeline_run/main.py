@@ -2,6 +2,7 @@ import xmltodict
 from lxml import etree
 import os
 import subprocess
+import csv
 
 XSD_PATH = "pub/docs/dra/xsd/1-6/SRA.run.xsd"
 INPUT_XML = "xml_submitted/ddbj_run.xml"
@@ -155,12 +156,76 @@ def validate_xsd(xml_path, xsd_path):
     ], capture_output=True, text=True)
     return result.returncode == 0, result.stderr
 
+def parse_submission_csv(csv_path):
+    """
+    CSV에서 (experiment_id, run_id) → submission_id 매핑 생성
+    """
+    mapping = {}
+    with open(csv_path, encoding='iso-8859-1') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            submission_id = row.get('KRA submission ID')
+            experiment_id = row.get('Experiment ID')
+            run_id = row.get('Run ID')
+            if submission_id and experiment_id and run_id:
+                mapping[(experiment_id.strip(), run_id.strip())] = submission_id.strip()
+    return mapping
+
+def save_run_grouped_by_submission_id(doc, submission_map, output_dir, xsd_path=None, report_path=None):
+    """
+    (experiment_id, run_id) → submission_id 매핑을 사용하여, submission_id별로 <RUN_SET>에 해당하는 모든 RUN을 모아 그룹화하여 저장
+    xsd_path가 주어지면 각 파일에 대해 XSD 검증도 수행
+    report_path가 주어지면 결과를 해당 파일에 기록
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    root = doc.get('RUN_SET', doc)
+    runs = root.get('RUN', [])
+    if isinstance(runs, dict):
+        runs = [runs]
+    # submission_id별로 RUN 분류
+    submission_groups = {}
+    for run in runs:
+        exp_ref = run.get('EXPERIMENT_REF', {})
+        exp_id = exp_ref.get('@accession') if isinstance(exp_ref, dict) else None
+        run_id = run.get('@accession')
+        submission_id = submission_map.get((exp_id, run_id))
+        if not submission_id:
+            submission_id = f"{exp_id}_{run_id}" if exp_id and run_id else 'UNKNOWN_SUBMISSION'
+        if submission_id not in submission_groups:
+            submission_groups[submission_id] = []
+        submission_groups[submission_id].append(run)
+    # 각 그룹별로 <RUN_SET> 생성 및 저장 + XSD 검증 + 리포트
+    report_lines = []
+    for submission_id, group_runs in submission_groups.items():
+        group_doc = {'RUN_SET': {'RUN': group_runs}}
+        out_path = os.path.join(output_dir, f"{submission_id}.run.xml")
+        save_xml(group_doc, out_path)
+        print(f"[INFO] Saved {len(group_runs)} RUNs to {out_path}")
+        # XSD 검증 및 리포트 기록
+        if xsd_path:
+            valid, xsd_report = validate_xsd(out_path, xsd_path)
+            result_str = f"[XSD] {submission_id}.run.xml: {'PASS' if valid else 'FAIL'}"
+            print(result_str)
+            if not valid:
+                print(xsd_report)
+            report_lines.append(result_str)
+            if not valid:
+                report_lines.append(xsd_report)
+    # 리포트 파일 저장
+    if report_path and report_lines:
+        with open(report_path, 'w', encoding='utf-8') as rf:
+            rf.write('\n'.join(report_lines))
+
 def main():
     print("=== Run Pipeline Start ===")
     os.makedirs("xml_fixed", exist_ok=True)
+    os.makedirs("xml_fixed/ddbj_run_fixed", exist_ok=True)
+    submission_map = parse_submission_csv('xml_submitted/KRA_after_20240311_pp_lib.csv')
     doc = parse_xml(INPUT_XML)
     doc_fixed = fix_structure(doc)
     save_xml(doc_fixed, OUTPUT_XML)
+    # submission_id별로 RUN_SET 분리 저장 + XSD 검증 + 리포트 저장
+    save_run_grouped_by_submission_id(doc_fixed, submission_map, "xml_fixed/ddbj_run_fixed", XSD_PATH, REPORT_PATH)
     valid, xsd_report = validate_xsd(OUTPUT_XML, XSD_PATH)
     print("# XSD Validation: {}\n".format("PASS" if valid else "FAIL"))
     print(xsd_report)

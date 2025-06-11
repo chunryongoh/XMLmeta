@@ -191,11 +191,11 @@ def fix_structure(doc, bioprojects=None, bioexp_isolate_map=None):
                 tag_value_map.get('sampleName') or
                 tag_value_map.get('samplename')
             )
-            if bio_sample_id and sample_name_val:
-                sample_name = f"{bio_sample_id}_{sample_name_val}"
-                title = f"{sample_name_val} ({bio_sample_id})"
+            if sample_name_val:
+                sample_name = sample_name_val
+                title = f"{sample_name_val} ({bio_sample_id})" if bio_sample_id else sample_name_val
             else:
-                sample_name = sample_name_val or bio_sample_id or 'unknown'
+                sample_name = bio_sample_id or 'unknown'
                 title = sample_name
             # Description robust 생성 (sample_name, title 등)
             organism_struct = {'OrganismName': organism_name}
@@ -307,6 +307,9 @@ def fix_structure(doc, bioprojects=None, bioexp_isolate_map=None):
             if bioprojects and kobic_project_id_val in bioprojects:
                 owner_name = bioprojects[kobic_project_id_val].get('owner_name', 'unknown')
                 contact_email = bioprojects[kobic_project_id_val].get('contact_email', 'kobic_ddbj@kobic.kr')
+            # email None/빈값 보정
+            if not contact_email or contact_email == 'None':
+                contact_email = 'kobic_ddbj@kobic.kr'
             owner_name = (
                 tag_value_map.get('owner') or
                 tag_value_map.get('submitter') or
@@ -363,6 +366,57 @@ def diff_with_example(fixed_xml, example_xml):
         )
         return "".join(diff)
 
+def save_biosample_grouped_by_ssubid(doc, output_dir, xsd_path=None, report_path=None):
+    """
+    BioSample XML을 bioSampleGroupId(SSUBid)별로 분리하여 각각 <BioSampleSet>으로 저장
+    xsd_path가 주어지면 각 파일에 대해 XSD 검증도 수행
+    report_path가 주어지면 결과를 해당 파일에 기록
+    """
+    import os
+    os.makedirs(output_dir, exist_ok=True)
+    root = doc.get('BioSampleSet', doc.get('BioSampleSet'))
+    samples = root.get('BioSample', [])
+    if isinstance(samples, dict):
+        samples = [samples]
+    # SSUBid별로 샘플 분류
+    ssubid_map = {}
+    for sample in samples:
+        ssubid = None
+        # Attributes에서 bioSampleGroupId 찾기
+        attrs = sample.get('Attributes', {}).get('Attribute', [])
+        if isinstance(attrs, dict):
+            attrs = [attrs]
+        for attr in attrs:
+            if attr.get('@attribute_name') == 'kobic_sample_group_id':
+                ssubid = attr.get('#text')
+                break
+        if not ssubid:
+            ssubid = 'UNKNOWN_GROUP'
+        if ssubid not in ssubid_map:
+            ssubid_map[ssubid] = []
+        ssubid_map[ssubid].append(sample)
+    # 각 그룹별로 <BioSampleSet> 생성 및 저장 + XSD 검증 + 리포트
+    report_lines = []
+    for ssubid, group_samples in ssubid_map.items():
+        group_doc = {'BioSampleSet': {'BioSample': group_samples}}
+        out_path = os.path.join(output_dir, f"{ssubid}.xml")
+        save_xml(group_doc, out_path)
+        print(f"[INFO] Saved {len(group_samples)} samples to {out_path}")
+        # XSD 검증 및 리포트 기록
+        if xsd_path:
+            valid, xsd_report = validate_xsd(out_path, xsd_path)
+            result_str = f"[XSD] {ssubid}.xml: {'PASS' if valid else 'FAIL'}"
+            print(result_str)
+            if not valid:
+                print(xsd_report)
+            report_lines.append(result_str)
+            if not valid:
+                report_lines.append(xsd_report)
+    # 리포트 파일 저장
+    if report_path and report_lines:
+        with open(report_path, 'w', encoding='utf-8') as rf:
+            rf.write('\n'.join(report_lines))
+
 def main():
     print("=== BioSample Pipeline Start ===")
     os.makedirs("xml_fixed", exist_ok=True)
@@ -373,6 +427,8 @@ def main():
     bioexp_isolate_map = parse_bioexperiment_isolate_map("xml_submitted/ddbj_bioExperiment.xml")
     doc_fixed = fix_structure(doc, bioprojects, bioexp_isolate_map)
     save_xml(doc_fixed, OUTPUT_XML)
+    # SSUBid별로 분리 저장 + XSD 검증 + 리포트 저장
+    save_biosample_grouped_by_ssubid(doc_fixed, "xml_fixed/ddbj_biosample_fixed", XSD_PATH, REPORT_PATH)
     valid, xsd_report = validate_xsd(OUTPUT_XML, XSD_PATH)
     diff_report = diff_with_example(OUTPUT_XML, EXAMPLE_XML)
     print("# XSD Validation: {}\n".format("PASS" if valid else "FAIL"))

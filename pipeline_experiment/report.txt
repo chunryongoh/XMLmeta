@@ -1,0 +1,40 @@
+# XSD Validation: FAIL
+
+xml_submitted/ddbj_bioExperiment.fixed.xml:35: Schemas validity error : Element 'INSTRUMENT_MODEL': [facet 'enumeration'] The value 'Sequel II' is not an element of the set {'Illumina Genome Analyzer', 'Illumina Genome Analyzer II', 'Illumina Genome Analyzer IIx', 'Illumina HiSeq 1000', 'Illumina HiSeq 1500', 'Illumina HiSeq 2000', 'Illumina HiSeq 2500', 'Illumina HiSeq 3000', 'Illumina HiSeq 4000', 'HiSeq X Five', 'HiSeq X Ten', 'Illumina HiSeq X', 'Illumina HiScanSQ', 'Illumina NovaSeq 6000', 'Illumina NovaSeq X', 'Illumina MiSeq', 'Illumina MiniSeq', 'Illumina iSeq 100', 'NextSeq 500', 'NextSeq 550', 'NextSeq 1000', 'NextSeq 2000', 'unspecified'}.
+xml_submitted/ddbj_bioExperiment.fixed.xml:85: Schemas validity error : Element 'INSTRUMENT_MODEL': [facet 'enumeration'] The value 'Sequel II' is not an element of the set {'Illumina Genome Analyzer', 'Illumina Genome Analyzer II', 'Illumina Genome Analyzer IIx', 'Illumina HiSeq 1000', 'Illumina HiSeq 1500', 'Illumina HiSeq 2000', 'Illumina HiSeq 2500', 'Illumina HiSeq 3000', 'Illumina HiSeq 4000', 'HiSeq X Five', 'HiSeq X Ten', 'Illumina HiSeq X', 'Illumina HiScanSQ', 'Illumina NovaSeq 6000', 'Illumina NovaSeq X', 'Illumina MiSeq', 'Illumina MiniSeq', 'Illumina iSeq 100', 'NextSeq 500', 'NextSeq 550', 'NextSeq 1000', 'NextSeq 2000', 'unspecified'}.
+xml_submitted/ddbj_bioExperiment.fixed.xml:35835: Schemas validity error : Element 'INSTRUMENT_MODEL': [facet 'enumeration'] The value 'PacBio RS II' is not an element of the set {'Illumina Genome Analyzer', 'Illumina Genome Analyzer II', 'Illumina Genome Analyzer IIx', 'Illumina HiSeq 1000', 'Illumina HiSeq 1500', 'Illumina HiSeq 2000', 'Illumina HiSeq 2500', 'Illumina HiSeq 3000', 'Illumina HiSeq 4000', 'HiSeq X Five', 'HiSeq X Ten', 'Illumina HiSeq X', 'Illumina HiScanSQ', 'Illumina NovaSeq 6000', 'Illumina NovaSeq X', 'Illumina MiSeq', 'Illumina MiniSeq', 'Illumina iSeq 100', 'NextSeq 500', 'NextSeq 550', 'NextSeq 1000', 'NextSeq 2000', 'unspecified'}.
+xml_submitted/ddbj_bioExperiment.fixed.xml fails to validate
+
+# 참고 정책 및 코멘트
+# =============================
+# SRA EXPERIMENT 변환 정책 (2024-06-XX)
+# =============================
+# [파이프라인 개요]
+# - ddbj_bioExperiment.xml(실제 제출본)을 SRA.experiment.xsd 및 실제 예시(kobic-0352.experiment.xml) 구조에 맞게 자동 변환한다.
+# - 변환 후 XML은 XSD 검증을 통과해야 하며, 모든 구조/값/순서/예외처리가 실제 제출 예시와 100% 일치해야 한다.
+# - main.py의 fix_structure 함수에서 모든 구조/값/순서/예외처리/자동 보정이 구현되어 있다.
+#
+# [주요 정책 및 자동 보정 규칙]
+# - 빈 값(""), None, 빈 리스트/딕트는 모두 제거한다. (빈 값은 절대 허용하지 않음)
+# - LIBRARY_SELECTION, LIBRARY_STRATEGY, LIBRARY_SOURCE 등은 XSD에서 허용된 값만 사용. 허용값이 아니면 각각 'other', 'OTHER'로 보정.
+# - PAIRED의 NOMINAL_LENGTH는 반드시 0 이상의 정수여야 하며, 음수/빈 값/문자열이면 '0'으로 보정.
+# - 불필요한 속성, 허용되지 않은 값, 빈 값 등은 모두 제거한다.
+# - PLATFORM과 INSTRUMENT_MODEL의 일관성을 반드시 체크한다. (허용값이 아니면 'unspecified'로 보정)
+# - LIBRARY_NAME 등 XSD에서 허용되지 않는 태그는 모두 제거한다.
+# - LIBRARY_LAYOUT은 LIBRARY_SELECTION 바로 뒤에만 위치하며, LIBRARY_SELECTION이 없으면 LIBRARY_LAYOUT도 제거한다.
+# - LIBRARY_CONSTRUCTION_PROTOCOL은 LIBRARY_SELECTION/LIBRARY_LAYOUT 뒤, 항상 마지막에만 위치한다. LIBRARY_SELECTION이 없으면 추가하지 않는다.
+# - LIBRARY_SELECTION은 반드시 존재해야 하며, 없으면 'other'로 자동 추가한다.
+# - DESIGN 하위 순서: DESIGN_DESCRIPTION(텍스트) → SAMPLE_DESCRIPTOR(속성/빈태그) → LIBRARY_DESCRIPTOR(및 내부 필드)
+# - LIBRARY_DESCRIPTOR 내부 순서: LIBRARY_STRATEGY → LIBRARY_SOURCE → LIBRARY_SELECTION → LIBRARY_LAYOUT(있으면) → (나머지 필드) → LIBRARY_CONSTRUCTION_PROTOCOL(있으면)
+# - 구조/값/순서/예외처리 정책은 requirements.txt와 main.py에 항상 동기화한다.
+#
+# [최근 주요 수정사항]
+# - LIBRARY_NAME 태그 완전 제거 (XSD 미허용)
+# - LIBRARY_LAYOUT 위치/삽입 조건 보정 (LIBRARY_SELECTION 뒤에만, 없으면 제거)
+# - LIBRARY_CONSTRUCTION_PROTOCOL 위치 보정 (LIBRARY_SELECTION/LIBRARY_LAYOUT 뒤, 없으면 제거)
+# - LIBRARY_SELECTION 필수화 및 누락 시 'other' 자동 추가
+# - 모든 구조/값/순서/예외처리 반복 테스트 및 XSD PASS 확인
+#
+# - real_examples/difference.experiment.txt에 정리된 차이점(빈 값 금지, 허용 값만 사용, 구조 단순화 등)을 반드시 반영한다.
+# - 실제 제출 예시처럼, XSD와 완벽히 일치하는 값/구조만 사용해야 XSD PASS가 가능하다.
+# - 정책/예외처리/자동 보정 로직은 requirements.txt와 main.py에 항상 동기화한다.

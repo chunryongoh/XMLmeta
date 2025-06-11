@@ -14,6 +14,41 @@ REPORT_PATH = "xml_fixed/bioproject_report.txt"              # 리포트 파일 
 BIOSAMPLE_XML = "xml_submitted/ddbj_biosample.xml"
 RUN_XML = "xml_submitted/ddbj_run.xml"
 
+def save_bioproject_grouped_by_kapid(doc, output_dir, xsd_path=None, report_path=None):
+    """
+    BioProject XML을 KAPid(ArchiveID의 accession)별로 분리하여 각각 <PackageSet>으로 저장
+    xsd_path가 주어지면 각 파일에 대해 XSD 검증도 수행
+    report_path가 주어지면 결과를 해당 파일에 기록
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    report_lines = []
+    packages = doc.get('PackageSet', {}).get('Package', [])
+    if isinstance(packages, dict):
+        packages = [packages]
+    for package in packages:
+        try:
+            kapid = package['Project']['Project']['ProjectID']['ArchiveID'].get('@accession')
+        except Exception:
+            kapid = 'UNKNOWN_KAPID'
+        group_doc = {'PackageSet': {'Package': package}}
+        out_path = os.path.join(output_dir, f"{kapid}.xml")
+        with open(out_path, 'w', encoding='utf-8') as f:
+            f.write(xmltodict.unparse(group_doc, pretty=True))
+        print(f"[INFO] Saved Package for {kapid} to {out_path}")
+        # XSD 검증 및 리포트 기록
+        if xsd_path:
+            valid, xsd_report = validate_xsd(out_path, xsd_path)
+            result_str = f"[XSD] {kapid}.xml: {'PASS' if valid else 'FAIL'}"
+            print(result_str)
+            if not valid:
+                print(xsd_report)
+            report_lines.append(result_str)
+            if not valid:
+                report_lines.append(xsd_report)
+    # 리포트 파일 저장
+    if report_path and report_lines:
+        with open(report_path, 'w', encoding='utf-8') as rf:
+            rf.write('\n'.join(report_lines))
 
 # XML 파일을 파싱하여 dict 형태로 반환
 # xmltodict는 XML을 파이썬 dict로 변환해줌
@@ -160,7 +195,7 @@ def fix_structure(doc):
                 project['ProjectID']['ArchiveID']['@archive'] = 'DDBJ'
             grant = project['ProjectDescr']['Grant']
             if 'Agency' not in grant:
-                grant['Agency'] = {'@abbr': 'MSIT', '#text': 'Ministry of Science and ICT'}
+                grant['Agency'] = {'@abbr': 'N/A', '#text': 'N/A'}
             # RUN XML에서 UserTerm 정보 추출 (ProjectDescr 하위에 추가)
             accession = project['ProjectID']['ArchiveID'].get('@accession')
             user_terms = []
@@ -225,9 +260,13 @@ def fix_structure(doc):
                     print(f"[선택 필요] ProjectID {accession}에 대해 여러 Organism 후보가 있습니다:")
                     for idx, cand in enumerate(unique_candidates):
                         print(f"  {idx+1}: taxID={cand['taxID']}, OrganismName={cand['OrganismName']}")
+                    print(f"  {len(unique_candidates)+1}: taxID=32644, OrganismName=unidentified (기본값)")
                     try:
-                        sel = int(input(f"원하는 Organism 번호를 입력하세요 (1~{len(unique_candidates)}): "))
-                        organism_block = unique_candidates[sel-1]
+                        sel = int(input(f"원하는 Organism 번호를 입력하세요 (1~{len(unique_candidates)+1}): "))
+                        if sel == len(unique_candidates)+1:
+                            organism_block = {'taxID': '32644', 'OrganismName': 'unidentified'}
+                        else:
+                            organism_block = unique_candidates[sel-1]
                     except Exception:
                         print("입력 오류: 기본값 사용")
             if not organism_block:
@@ -256,7 +295,7 @@ def fix_structure(doc):
                 '@role': 'owner',
                 'Name': org_name if org_name else '',
                 'Contact': {
-                    '@email': '',
+                    '@email': 'kobic_ddbj@kobic.kr',
                     'Name': {
                         'First': '',
                         'Last': ''
@@ -313,6 +352,8 @@ def main():
     doc = parse_xml(INPUT_XML)          # 입력 XML 파싱
     doc_fixed = fix_structure(doc)      # 구조 보정
     save_xml(doc_fixed, OUTPUT_XML)     # 보정된 XML 저장
+    # KAPid별로 분리 저장 + XSD 검증 + 리포트 저장
+    save_bioproject_grouped_by_kapid(doc_fixed, "xml_fixed/ddbj_bioproject_fixed", XSD_PATH, REPORT_PATH)
     valid, xsd_report = validate_xsd(OUTPUT_XML, XSD_PATH)  # XSD 검증
     diff_report = diff_with_example(OUTPUT_XML, EXAMPLE_XML) # 예시와 diff 비교
     print("# XSD Validation: {}\n".format("PASS" if valid else "FAIL"))

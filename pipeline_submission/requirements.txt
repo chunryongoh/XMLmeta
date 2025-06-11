@@ -1,0 +1,48 @@
+lxml
+xmltodict
+pyyaml
+
+# =============================
+# SRA SUBMISSION 변환 정책 (2024-06-XX)
+# =============================
+# - 제출본(ddbj_bioproject.xml 등)은 SRA.submission.xsd 및 실제 예시(kobic-0352.submission.xml) 구조에 맞게 변환해야 한다.
+# - 루트 태그는 반드시 <SUBMISSION>이어야 하며, submission_date, lab_name, alias, center_name 등 필수 속성을 포함해야 한다.
+# - <IDENTIFIERS> 블록을 추가하고, <PRIMARY_ID>, <SUBMITTER_ID namespace="KOBIC"> 등 필수 식별자를 포함해야 한다.
+# - <CONTACTS> 및 <CONTACT> 태그를 추가, name/inform_on_status/inform_on_error 속성 필수.
+# - <ACTIONS> 블록 내 <ACTION> 태그, <ADD source=... schema=.../>, <HOLD HoldUntilDate=.../> 등 실제 예시 구조를 따라야 한다.
+# - ACTION의 source는 실제 생성된 experiment.xml, run.xml 등 파일명과 일치시켜야 한다.
+# - 불필요한 필드/태그/속성은 모두 제거, 누락된 필수값은 기본값/수동입력/다른 인풋 파일에서 추출해 채운다.
+# - 날짜, 인코딩, 태그명, 구조, 속성 등은 실제 예시와 XSD 기준에 100% 일치시켜야 한다.
+# - 여러 인풋 파일(프로젝트, 샘플, 실험, 런 등)에서 SUBMISSION에 필요한 필수값을 조합해 생성한다.
+# - 정책/구현 변경 시 반드시 이 파일을 최우선으로 갱신할 것.
+# - 하나의 SUBMISSION은 반드시 하나의 Experiment XML과 하나의 Run XML을 그룹핑하여 제출해야 한다.
+#   (즉, <ACTIONS>에는 해당 Experiment/Run 쌍에 대한 <ADD>가 반드시 포함되어야 하며, 실제 예시와 동일하게 구성)
+# - 여러 실험/런이 있을 경우, 각각 별도의 SUBMISSION.xml로 생성하거나, 정책에 따라 그룹핑 기준을 명확히 할 것.
+
+# =============================
+# SUBMISSION.xml 인풋 매핑 정책 (2024-06-XX)
+# =============================
+# [필수 인풋 파일 및 주요 추출 필드]
+# - ddbj_bioproject.xml: <PROJECT>/<IDENTIFIERS> → BioProject ID
+# - ddbj_biosample.xml: <SAMPLE>/<IDENTIFIERS> → BioSample ID
+# - ddbj_bioExperiment.xml: <EXPERIMENT>/<IDENTIFIERS> → Experiment ID, <STUDY_REF> → BioProject ID, <SAMPLE_DESCRIPTOR> → BioSample ID
+# - ddbj_run.xml: <RUN>/<IDENTIFIERS> → Run ID, <EXPERIMENT_REF> → Experiment ID
+# - ddbj_run_file_path.xml: <RUN> → Run ID, BioProject ID, BioSample ID, Experiment ID, Read_1, Read_2 등 FASTQ 경로
+
+# [SUBMISSION.xml 구조별 인풋 매핑]
+# - <SUBMISSION> (루트): submission_date, alias, center_name 등은 수동입력/기본값/프로젝트에서 추출
+# - <IDENTIFIERS>: ddbj_bioproject.xml에서 BioProject ID, SUBMITTER_ID 등 추출
+# - <CONTACTS>/<CONTACT>: 담당자 정보는 수동입력/기본값/정책에 따라 입력
+# - <ACTIONS>/<ACTION>: 실험/런/FASTQ 파일별로 ddbj_bioExperiment.xml, ddbj_run.xml, ddbj_run_file_path.xml에서 source, schema 등 추출 및 조합
+# - <ACTIONS>/<ACTION>/<ADD>: source, schema 속성은 파일명/스키마명 매핑
+# - <ACTIONS>/<ACTION>/<HOLD>: HoldUntilDate 등은 정책/수동입력
+
+# [예시]
+# - <ACTION><ADD source="experiment.xml" schema="experiment"/></ACTION>
+# - <ACTION><ADD source="run.xml" schema="run"/></ACTION>
+# - <ACTION><ADD source="fastq.gz" schema="file"/></ACTION>
+
+# [정책]
+# - 모든 ID/경로/속성은 반드시 실제 인풋 파일에서 추출하여 매핑할 것
+# - 누락된 값은 기본값/수동입력/정책에 따라 보완
+# - 정책/구현 변경 시 반드시 이 파일을 최우선으로 갱신할 것

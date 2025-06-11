@@ -5,6 +5,7 @@ import subprocess
 from datetime import datetime, timezone
 import sys
 import argparse
+import csv
 
 def parse_xml(path):
     with open(path, 'r', encoding='utf-8') as f:
@@ -21,50 +22,61 @@ def validate_xsd(xml_path, xsd_path):
     ], capture_output=True, text=True)
     return result.returncode == 0, result.stderr
 
-def make_submission(experiment, run, project_id, output_path):
-    # output_path를 항상 xml_fixed/ 하위로 강제
-    exp_id = experiment['STUDY_REF']['@accession']
-    run_id = run['@accession']
-    output_path = f"xml_fixed/ddbj_submission_{exp_id}_{run_id}.fixed.xml"
+def make_submission(experiment, run, project_id, submission_id, output_path):
+    # output_path를 항상 xml_fixed/ddbj_submission_fixed/ 하위로 강제
     today = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
-    # KAP/KAS는 소스에서 추출
     kap_id = experiment['STUDY_REF']['@accession']
     kas_id = experiment['DESIGN']['SAMPLE_DESCRIPTOR']['@accession']
-    # DSUBxxxxxxx 값은 소스가 없으므로 빈 값으로 처리 (추후 소스 생기면 수정)
-    dsub_id = ''  # DSUB 소스가 없으므로 빈 값
-    # 아래 ADD source의 DSUB 부분은 실제로는 DSUBxxxxxxx가 들어가야 하나, 소스가 없어 빈 값으로 둠
+    # DSUBxxxxxxx 값은 소스가 없으므로 submission_id로 대체
     submission = {
         'SUBMISSION': {
-            '@alias': f"{kap_id}_{kas_id}",
+            '@alias': submission_id,
             '@center_name': experiment.get('@center_name', ''),
             '@submission_date': today,
-            '@lab_name': '',  # lab_name 속성 추가 (빈 값)
-            '@accession': '', # accession 속성 추가 (빈 값)
+            '@lab_name': '',
+            '@accession': submission_id,
             'IDENTIFIERS': {
                 'PRIMARY_ID': '',
                 'SUBMITTER_ID': {'@namespace': 'KOBIC', '#text': ''}
             },
             'CONTACTS': {
                 'CONTACT': {
-                    '@name': '담당자명',
-                    '@inform_on_status': 'email@example.com',
-                    '@inform_on_error': 'email@example.com'
+                    '@name': 'KOBIC',
+                    '@inform_on_status': 'kobic_ddbj@kobic.kr',
+                    '@inform_on_error': 'kobic_ddbj@kobic.kr'
                 }
             },
             'ACTIONS': {
                 'ACTION': [
-                    {'ADD': {'@source': f"DSUB{dsub_id}.Experiment.xml", '@schema': 'experiment'}},
-                    {'ADD': {'@source': f"DSUB{dsub_id}.Run.xml", '@schema': 'run'}},
+                    {'ADD': {'@source': f"{submission_id}.Experiment.xml", '@schema': 'experiment'}},
+                    {'ADD': {'@source': f"{submission_id}.Run.xml", '@schema': 'run'}},
                 ]
             }
         }
     }
     save_xml(submission, output_path)
 
+def parse_submission_csv(csv_path):
+    """
+    CSV에서 (experiment_id, run_id) → submission_id 매핑 생성
+    """
+    mapping = {}
+    with open(csv_path, encoding='iso-8859-1') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            submission_id = row.get('KRA submission ID')
+            experiment_id = row.get('Experiment ID')
+            run_id = row.get('Run ID')
+            if submission_id and experiment_id and run_id:
+                mapping[(experiment_id.strip(), run_id.strip())] = submission_id.strip()
+    return mapping
+
 def main():
-    os.makedirs("xml_fixed", exist_ok=True)
+    os.makedirs("xml_fixed/ddbj_submission_fixed", exist_ok=True)
     exp_dict = parse_xml('xml_submitted/ddbj_bioExperiment.xml')
     run_dict = parse_xml('xml_submitted/ddbj_run.xml')
+    # CSV 매핑 파싱
+    submission_map = parse_submission_csv('xml_submitted/KRA_after_20240311_pp_lib.csv')
 
     parser = argparse.ArgumentParser(description="SRA SUBMISSION XML 생성기")
     parser.add_argument('run_id', nargs='?', help='생성할 run_id (예: KAR24062461)')
@@ -91,7 +103,7 @@ def main():
             return
 
     xsd_path = 'pub/docs/dra/xsd/1-6/SRA.submission.xsd'
-
+    generated_files = set()
     for run in run_list:
         exp_id = run['EXPERIMENT_REF']['@accession']
         experiment = next(
@@ -99,12 +111,30 @@ def main():
             if exp['@accession'] == exp_id
         )
         project_id = experiment['STUDY_REF']['@accession']
-        output_path = f"xml_fixed/ddbj_submission_{exp_id}_{run['@accession']}.fixed.xml"
-        make_submission(experiment, run, project_id, output_path)
+        # CSV 매핑에서 submission_id 가져오기
+        submission_id = submission_map.get((exp_id, run['@accession']))
+        if not submission_id:
+            print(f"[경고] CSV에서 submission_id를 찾을 수 없음: experiment_id={exp_id}, run_id={run['@accession']}")
+            submission_id = f"{exp_id}_{run['@accession']}"
+        output_path = f"xml_fixed/ddbj_submission_fixed/{submission_id}.xml"
+        make_submission(experiment, run, project_id, submission_id, output_path)
+        generated_files.add((submission_id, output_path))
+    # 중복 없이 파일별로 XSD 검증 및 리포트
+    report_lines = []
+    for submission_id, output_path in generated_files:
         valid, xsd_report = validate_xsd(output_path, xsd_path)
+        result_str = f"[XSD] {submission_id}.xml: {'PASS' if valid else 'FAIL'}"
         print(f"# XSD Validation: {'PASS' if valid else 'FAIL'}\n{output_path}")
         print(xsd_report)
-    print("Pipeline complete. See fixed XMLs in xml_fixed/")
+        report_lines.append(result_str)
+        if not valid:
+            report_lines.append(xsd_report)
+    # 리포트 파일 저장
+    report_path = "xml_fixed/submission_report.txt"
+    if report_lines:
+        with open(report_path, 'w', encoding='utf-8') as rf:
+            rf.write('\n'.join(report_lines))
+    print("Pipeline complete. See fixed XMLs in xml_fixed/ddbj_submission_fixed/")
 
 if __name__ == '__main__':
     main()

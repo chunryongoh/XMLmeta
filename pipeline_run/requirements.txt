@@ -1,0 +1,22 @@
+# =============================
+# SRA RUN 변환 정책 (2024-06-XX)
+# =============================
+# [파이프라인 개요]
+# - ddbj_run.xml(실제 제출본)을 SRA.run.xsd 및 실제 예시(kobic-0352.run.xml) 구조에 맞게 자동 변환한다.
+# - 변환 후 XML은 XSD 검증을 통과해야 하며, 모든 구조/값/속성/예외처리가 실제 제출 예시와 100% 일치해야 한다.
+# - main.py의 fix_structure 함수에서 모든 구조/값/속성/예외처리/자동 보정이 구현되어야 한다.
+#
+# [주요 정책 및 자동 보정 규칙]
+# - 빈 값(""), None, 빈 리스트/딕트는 모두 제거한다. (빈 값은 절대 허용하지 않음)
+# - 모든 필수 태그/속성/값은 반드시 포함되어야 하며, 누락 시 자동 추가/보정한다.
+# - <SUBMITTER_ID> 태그에는 반드시 namespace 속성(namespace="KOBIC")이 포함되어야 한다. (누락 시 자동 추가)
+# - DATA_BLOCK 요소가 반드시 존재해야 하며, ddbj_run_file_path.xml의 파일 정보를 DATA_BLOCK에 추가한다.
+# - 불필요한 속성, 허용되지 않은 값, 빈 값 등은 모두 제거한다.
+# - 구조/값/속성/예외처리 정책은 requirements.txt와 main.py에 항상 동기화한다.
+#
+# [예외처리 및 자동 보정 예시]
+# - <SUBMITTER_ID>에 namespace 속성이 없으면 namespace="KOBIC"을 자동 추가한다.
+# - DATA_BLOCK이 없으면 ddbj_run_file_path.xml에서 파일 정보를 읽어와 DATA_BLOCK을 생성/추가한다.
+# - real_examples/difference.run.txt에 정리된 차이점(필수 속성/구조/값 반드시 포함, 실제 예시와 일치)을 반드시 반영한다.
+# - 실제 제출 예시처럼, XSD와 완벽히 일치하는 값/구조/속성만 사용해야 XSD PASS가 가능하다.
+# - 정책/예외처리/자동 보정 로직은 requirements.txt와 main.py에 항상 동기화한다.
