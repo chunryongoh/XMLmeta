@@ -1,77 +1,109 @@
 # pipeline_biosample/requirements.txt
 
 ## 역할
-- DDBJ comment, XSD 검증 과정에서 식별된 에러 해결법, 자동 수정 요소, 예외처리, 기타 참고사항을 기록한다.
-- 파이프라인 구현 시 이 파일을 참조하여 자동 수정 및 예외처리 로직을 설계하고, 신규 이슈 발생 시 반드시 갱신한다.
+- DDBJ BioSample XSD 검증 과정에서 식별된 에러 해결법, 자동 수정 요소, 예외처리, 기타 참고사항을 기록
+- 파이프라인 구현 시 이 파일을 참조하여 자동 수정 및 예외처리 로직 설계, 신규 이슈 발생 시 반드시 갱신
 
-## 주요 에러 및 해결법 (2025-05-23 기준)
+## 주요 변환 규칙 (2024-06-XX 기준)
 
-### 1. 제출본(xml_submitted/ddbj_biosample.xml) XSD 검증 결과
-- 루트 태그명 <SAMPLE_SET> → <BioSampleSet>으로 변경 필요
-- 내부 반복 요소 <SAMPLE> → <BioSample>로 모두 변경 필요
-- 내부 구조/필드명/위치 등도 실제 예시와 일치시켜야 함
-- real_examples/difference.sample.txt에 정리된 차이점(루트/필드명/구조/필수값 등)을 반드시 반영
+### 1. 기본 구조 변환
+- 루트 태그: <SAMPLE_SET> → <BioSampleSet>
+- 반복 요소: <SAMPLE> → <BioSample>
+- BioSample 속성: access="public"만 허용, 나머지 제거
+- <IDENTIFIERS> → <Ids> 변환
 
-### 2. 실제 예시(real_examples/SAMD00844971-2.xml) XSD 검증 결과
-- 정상 통과 (validates)
-- <BioSampleSet> 루트, <BioSample> 반복, 내부 구조, 필드명, 위치, 값 등 모든 것이 XSD와 일치
+### 2. 필수 태그 순서
+1. <Ids>
+   - <PRIMARY_ID> → <Id namespace="BioSample">
+   - label 속성 제거
+2. <Description>
+   - 필수 하위 태그: <Organism><OrganismName>
+   - <SampleName>, <Synonym>, <Title> 중 하나 이상 포함
+3. <Owner>
+   - 기본값으로 추가
+4. <Providers> (선택)
+5. <Models>
+   - 최소 1개 <Model> 필수
+   - 없으면 <Model>unknown</Model> 추가
+6. <Attributes>
+   - <SAMPLE_ATTRIBUTES> → <Attributes>
+   - <SAMPLE_ATTRIBUTE> → <Attribute>
+7. <Links> (선택)
+8. <Relations> (선택)
 
-### 3. 결론 및 실무 적용
-- 루트 태그, 내부 반복 요소, 구조/필드명/위치 모두 실제 예시와 동일하게 맞춰야 XSD 검증 통과
+### 3. 데이터 변환 규칙
+- SAMPLE_NAME 제거
+- TAXON_ID, SCIENTIFIC_NAME → SAMPLE_ATTRIBUTES의 Attribute로 이동
+- Organism 정보: SCIENTIFIC_NAME → OrganismName으로만 매핑
+- TAXON_ID는 Attribute로만 유지
 
-# 파이프라인 구현 시 반드시 이 파일을 참조할 것
+### 4. 반복 태그 처리
+- <BioSampleSet> 내 <BioSample>
+- <Attributes> 내 <Attribute>
+- <Models> 내 <Model>
+- <Description> 내 <Synonym>/<Organism>
+- <Owner> 내 <Name>
+- <Contacts> 내 <Contact>
+- 모든 반복 태그는 리스트로 처리 (단일도 리스트로 변환)
 
-- BioSample 태그에는 오직 access 속성만 허용, 값은 "public"으로 고정
-- accession, alias, center_name 속성은 제거
-- <IDENTIFIERS> 태그는 <Ids>로 변환
-- <Ids> 내부 구조는 실제 DDBJ 예시와 동일하게 맞춤
+### 5. 검증 통과 조건
+- 모든 태그명/위치/구조가 실제 예시와 XSD 스키마 모두 만족
+- 필수 태그 순서 준수
+- 반복 태그 리스트 처리
+- 속성값 정확성
 
-# [2024-06-XX] XSD 검증 정책 추가
-# - SAMPLE_NAME 태그는 BioSample에서 반드시 제거한다.
-# - SAMPLE_NAME 내부의 TAXON_ID, SCIENTIFIC_NAME 값은 SAMPLE_ATTRIBUTES의 SAMPLE_ATTRIBUTE로 각각 이동한다.
-#   예시: <SAMPLE_ATTRIBUTE><TAG>TAXON_ID</TAG><VALUE>10116</VALUE></SAMPLE_ATTRIBUTE>
-#         <SAMPLE_ATTRIBUTE><TAG>SCIENTIFIC_NAME</TAG><VALUE>Rattus norvegicus</VALUE></SAMPLE_ATTRIBUTE>
-# - BioSample 내에는 반드시 <Ids> 태그가 존재해야 하며, SAMPLE_NAME보다 먼저 위치해야 한다(실제 예시 기준). 그러나 SAMPLE_NAME은 제거하므로 <Ids>만 남는다.
-# - 위 정책을 어기면 XSD 검증에서 오류가 발생한다.
-# - BioSample 내에서 <Ids> 태그가 반드시 첫 번째, <SAMPLE_ATTRIBUTES>가 두 번째로 위치해야 한다.
-#   (예시: <BioSample><Ids>...</Ids><SAMPLE_ATTRIBUTES>...</SAMPLE_ATTRIBUTES>...)
-# - 순서가 어긋나면 XSD 검증에서 오류가 발생한다.
+# 파이프라인 구현 시 주의사항
+- 모든 변환은 실제 DDBJ 예시와 XSD 스키마를 모두 참조
+- 태그 순서 엄격히 준수
+- 반복 태그는 항상 리스트로 처리
+- 누락된 필수 태그는 기본값으로 추가
 
-# - <PRIMARY_ID> 태그는 반드시 <Id>로 변환한다. (예시: <Ids><Id label="BioSample ID">KAS24087646</Id></Ids>)
-# - <Description> 태그는 <Ids> 다음에 반드시 존재해야 하며, 없으면 빈 값으로라도 추가한다.
-# - <SAMPLE_ATTRIBUTES>는 <Description> 다음에 위치해야 한다.
-# - 순서: <Ids> → <Description> → <SAMPLE_ATTRIBUTES> → 나머지
-# - 위 정책을 어기면 XSD 검증에서 오류가 발생한다.
+# =============================
+# DDBJ BioSample 파이프라인 설명 (2024-06 최신)
+# =============================
 
-# - <Id> 태그에는 label 속성을 절대 추가하지 않는다.
-# - <Id> 태그에는 반드시 namespace="BioSample" 속성을 추가한다.
-# - <Description> 태그는 반드시 하위에 <SampleName>, <Synonym>, <Title> 중 하나 이상을 포함해야 하며, 빈 Description은 허용되지 않는다.
-# - <Owner> 태그가 반드시 <SAMPLE_ATTRIBUTES> 앞에 위치해야 하며, 없으면 기본값으로 추가한다.
-# - 순서: Ids → Description → Owner → SAMPLE_ATTRIBUTES → 나머지
-# - 위 정책을 어기면 XSD 검증에서 오류가 발생한다.
+# [주요 기능]
+# - ddbj_biosample.xml, ddbj_bioproject.xml, ddbj_bioExperiment.xml을 입력받아
+#   DDBJ/INSDC BioSample용 XML을 자동 생성 및 보정
+# - XSD(pub/docs/biosample/xsd/biosample_set.xsd) 및 실제 제출 예시(real_examples/SAMD00844971-2.xml)와 100% 호환 구조로 변환
+# - submission_id별로 <BioSampleSet>을 분리하여 xml_fixed/ddbj_biosample_fixed/ 하위에 저장
+# - 전체 보정본(xml_fixed/ddbj_biosample.fixed.xml) 및 리포트(xml_fixed/biosample_report.txt) 저장
+# - 태그/속성/반복/순서/필수값 자동 보정, Owner/Contact/Model/Attribute 등 정책화
 
-# - <Description> 태그 하위에는 반드시 <Organism> 태그를 포함해야 한다. Organism 정보는 TAXON_ID, SCIENTIFIC_NAME, SAMPLE_ATTRIBUTES 등에서 추출한다.
-# - <Attributes> 태그명은 XSD에서 허용하는 명칭(예: <SAMPLE_ATTRIBUTES> 또는 <Attributes>)만 사용한다. 실제 예시와 XSD 스키마를 반드시 참고할 것.
+# [입력 파일]
+# 1. xml_submitted/ddbj_biosample.xml
+#    - <SAMPLE_SET> 루트, 각 SAMPLE의 속성/값/반복 구조 사용
+# 2. xml_submitted/ddbj_bioproject.xml
+#    - BioSample의 Owner 정보 추출
+# 3. xml_submitted/ddbj_bioExperiment.xml
+#    - isolate, isolation_source 등 보조 정보 추출
 
-# - <Description> 하위 <Organism> 태그에는 반드시 <OrganismName>만 허용한다. <TaxonId> 등은 절대 포함하지 않는다.
-# - Organism 정보는 SCIENTIFIC_NAME → OrganismName으로만 매핑한다. TAXON_ID는 SAMPLE_ATTRIBUTE로만 유지한다.
-# - <SAMPLE_ATTRIBUTES> 태그는 반드시 <Attributes>로 변환한다. 내부 구조도 실제 예시와 동일하게 맞춘다.
+# [출력 파일]
+# 1. xml_fixed/ddbj_biosample.fixed.xml
+#    - 전체 보정본(구조/값/속성/순서 자동 보정)
+# 2. xml_fixed/ddbj_biosample_fixed/{submission_id}.xml
+#    - submission_id별 <BioSampleSet> 분리 저장
+# 3. xml_fixed/biosample_report.txt
+#    - 각 파일별 XSD 검증 결과 및 리포트
 
-# - <Attributes> 태그는 반드시 <Models> 다음에만 위치해야 한다.
-# - <Models> 태그가 없고 <Attributes>가 필요한 경우, <Models>를 빈 값으로 추가한 뒤 <Attributes>를 추가한다.
-# - <Owner> 또는 <Providers> 다음에 <Attributes>가 오면 XSD에서 허용되지 않는다.
-# - 순서: Ids → Description → Owner → Providers(optional) → Models(필수) → Attributes(optional) → ...
-# - <Attributes> 태그는 <Models> 다음에만 위치해야 한다.
-# - <Models> 태그가 없고 <Attributes>가 필요한 경우, <Models>를 빈 값으로 추가한 뒤 <Attributes>를 추가한다.
-# - <Owner> 또는 <Providers> 다음에 <Attributes>가 오면 XSD에서 허용되지 않는다.
-# - 순서: Ids → Description → Owner → Providers(optional) → Models(필수) → Attributes(optional) → ...
-# - <SAMPLE_ATTRIBUTES>, <SAMPLE_ATTRIBUTE> 태그는 절대 사용하지 않는다. (실제 예시 및 XSD와 반드시 일치)
-# - BioSample 내부 태그 순서: Ids → Description → Owner → Providers(optional) → Models → Attributes → Links(optional) → Relations(optional)
-# - 반복 허용 태그: <BioSampleSet> 내 <BioSample>, <Attributes> 내 <Attribute>, <Models> 내 <Model>, <Description> 내 <Synonym>/<Organism>, <Owner> 내 <Name>, <Contacts> 내 <Contact>
-# - 반복 태그는 항상 리스트로 처리해야 하며, 단일일 때도 리스트로 변환
-# - 태그명/위치/구조는 반드시 실제 예시와 XSD를 모두 만족해야 함
-# [2024-06-XX] BioSample 자동 변환 파이프라인 XSD PASS 정책 유지/보완
+# [파이프라인 흐름]
+# - XML 파싱: xmltodict 사용
+# - 구조/값/순서/예외처리: fix_structure 함수에서 자동 보정
+#   - 루트: <SAMPLE_SET> → <BioSampleSet>, <SAMPLE> → <BioSample>
+#   - 반복 태그: 항상 리스트 처리(단일도 리스트)
+#   - 필수 태그/속성/값/순서 자동 보정 및 기본값 추가
+#   - Owner/Contact/Model/Attribute 등 정책화 및 누락/이상치 자동 보정
+#   - 실제 제출 예시 및 XSD와 100% 일치 구조로 변환
+# - submission_id별로 BioSampleSet 분리 저장 및 XSD 검증/리포트
+# - xmllint로 XSD(pub/docs/biosample/xsd/biosample_set.xsd) 검증
 
-# - <Models> 태그는 반드시 존재해야 하며, 최소 1개 이상의 <Model> 자식 태그가 있어야 한다.
-# - <Models>가 없거나 비어 있으면 <Model>unknown</Model>을 추가한다.
-# - <Attributes>는 <Models> 다음에만 위치한다.
+# [실행 예시]
+# python main.py
+# (입력 XML이 xml_submitted/ 하위에 있어야 함)
+
+# [의존성]
+xmltodict
+lxml
+
+# [외부 의존]
+# - xmllint (XSD 검증용, 시스템에 설치 필요)

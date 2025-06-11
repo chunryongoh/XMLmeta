@@ -1,32 +1,51 @@
 # =============================
-# SRA EXPERIMENT 변환 정책 (2024-06-XX)
+# SRA EXPERIMENT 파이프라인 설명 (2024-06 최신)
 # =============================
-# [파이프라인 개요]
-# - ddbj_bioExperiment.xml(실제 제출본)을 SRA.experiment.xsd 및 실제 예시(kobic-0352.experiment.xml) 구조에 맞게 자동 변환한다.
-# - 변환 후 XML은 XSD 검증을 통과해야 하며, 모든 구조/값/순서/예외처리가 실제 제출 예시와 100% 일치해야 한다.
-# - main.py의 fix_structure 함수에서 모든 구조/값/순서/예외처리/자동 보정이 구현되어 있다.
-#
-# [주요 정책 및 자동 보정 규칙]
-# - 빈 값(""), None, 빈 리스트/딕트는 모두 제거한다. (빈 값은 절대 허용하지 않음)
-# - LIBRARY_SELECTION, LIBRARY_STRATEGY, LIBRARY_SOURCE 등은 XSD에서 허용된 값만 사용. 허용값이 아니면 각각 'other', 'OTHER'로 보정.
-# - PAIRED의 NOMINAL_LENGTH는 반드시 0 이상의 정수여야 하며, 음수/빈 값/문자열이면 '0'으로 보정.
-# - 불필요한 속성, 허용되지 않은 값, 빈 값 등은 모두 제거한다.
-# - PLATFORM과 INSTRUMENT_MODEL의 일관성을 반드시 체크한다. (허용값이 아니면 'unspecified'로 보정)
-# - LIBRARY_NAME 등 XSD에서 허용되지 않는 태그는 모두 제거한다.
-# - LIBRARY_LAYOUT은 LIBRARY_SELECTION 바로 뒤에만 위치하며, LIBRARY_SELECTION이 없으면 LIBRARY_LAYOUT도 제거한다.
-# - LIBRARY_CONSTRUCTION_PROTOCOL은 LIBRARY_SELECTION/LIBRARY_LAYOUT 뒤, 항상 마지막에만 위치한다. LIBRARY_SELECTION이 없으면 추가하지 않는다.
-# - LIBRARY_SELECTION은 반드시 존재해야 하며, 없으면 'other'로 자동 추가한다.
-# - DESIGN 하위 순서: DESIGN_DESCRIPTION(텍스트) → SAMPLE_DESCRIPTOR(속성/빈태그) → LIBRARY_DESCRIPTOR(및 내부 필드)
-# - LIBRARY_DESCRIPTOR 내부 순서: LIBRARY_STRATEGY → LIBRARY_SOURCE → LIBRARY_SELECTION → LIBRARY_LAYOUT(있으면) → (나머지 필드) → LIBRARY_CONSTRUCTION_PROTOCOL(있으면)
-# - 구조/값/순서/예외처리 정책은 requirements.txt와 main.py에 항상 동기화한다.
-#
-# [최근 주요 수정사항]
-# - LIBRARY_NAME 태그 완전 제거 (XSD 미허용)
-# - LIBRARY_LAYOUT 위치/삽입 조건 보정 (LIBRARY_SELECTION 뒤에만, 없으면 제거)
-# - LIBRARY_CONSTRUCTION_PROTOCOL 위치 보정 (LIBRARY_SELECTION/LIBRARY_LAYOUT 뒤, 없으면 제거)
-# - LIBRARY_SELECTION 필수화 및 누락 시 'other' 자동 추가
-# - 모든 구조/값/순서/예외처리 반복 테스트 및 XSD PASS 확인
-#
-# - real_examples/difference.experiment.txt에 정리된 차이점(빈 값 금지, 허용 값만 사용, 구조 단순화 등)을 반드시 반영한다.
-# - 실제 제출 예시처럼, XSD와 완벽히 일치하는 값/구조만 사용해야 XSD PASS가 가능하다.
-# - 정책/예외처리/자동 보정 로직은 requirements.txt와 main.py에 항상 동기화한다.
+
+# [주요 기능]
+# - ddbj_bioExperiment.xml, KRA_after_20240311_pp_lib.csv를 입력받아
+#   DDBJ/INSDC SRA EXPERIMENT용 XML을 자동 생성 및 보정
+# - XSD(pub/docs/dra/xsd/1-6/SRA.experiment.xsd) 및 실제 제출 예시(real_examples/kobic-0352.experiment.xml)와 100% 호환 구조로 변환
+# - submission_id별로 <EXPERIMENT_SET>을 분리하여 xml_fixed/ddbj_experiment_fixed/ 하위에 저장
+# - 각 파일별 XSD 검증 및 리포트(xml_fixed/experiment_report.txt) 저장
+# - 플랫폼/기기명(INSTRUMENT_MODEL) 자동 매칭 및 유사도 기반 CLI 후보 제시, 선택 내역 리포트 기록
+
+# [입력 파일]
+# 1. xml_submitted/ddbj_bioExperiment.xml
+#    - <EXPERIMENT_SET> 루트, 각 EXPERIMENT의 @accession, STUDY_REF, SAMPLE_DESCRIPTOR 등 사용
+# 2. xml_submitted/KRA_after_20240311_pp_lib.csv
+#    - 헤더: 'KRA submission ID', 'Experiment ID', 'Run ID', 'Library Layout'
+#    - (experiment_id, run_id) → (submission_id, access_type) 매핑, 인코딩은 iso-8859-1
+
+# [출력 파일]
+# - xml_fixed/ddbj_experiment_fixed/{submission_id}.experiment.xml : submission_id별 EXPERIMENT_SET XML
+# - xml_fixed/experiment_report.txt : XSD 검증 결과 및 후보 선택/자동 매칭 리포트
+# - xml_fixed/ddbj_bioExperiment.fixed.xml : 전체 보정된 EXPERIMENT XML(통합본)
+
+# [파이프라인 흐름]
+# 1. XML/CSV 파싱: xmltodict로 XML→dict, csv.DictReader로 CSV 파싱(iso-8859-1)
+# 2. 구조/값/순서/예외처리: fix_structure()에서 모든 구조/값/순서/예외처리/자동 보정 수행
+#    - 빈 값/None/빈 리스트/딕트 제거, 허용값만 사용, 순서 보정, 불필요 태그/속성 제거
+#    - PLATFORM/INSTRUMENT_MODEL 자동 매칭, 유사도 기반 후보 CLI 제시, 선택 내역 리포트 기록
+#    - LIBRARY_SELECTION/STRATEGY/SOURCE 등 허용값만 사용, 누락 시 'other'/'OTHER' 자동 보정
+#    - PAIRED의 NOMINAL_LENGTH는 0 이상의 정수로 보정
+# 3. submission_id별로 EXPERIMENT_SET 분리 저장
+# 4. XSD 검증: xmllint(외부 명령)로 pub/docs/dra/xsd/1-6/SRA.experiment.xsd 기준 검증
+# 5. 리포트: 각 파일별 PASS/FAIL, 후보 선택/자동 매칭 내역을 experiment_report.txt에 저장
+
+# [실행 예시]
+# - python main.py (입력 XML/CSV가 xml_submitted/ 하위에 있어야 함)
+#   → 전체 보정본(xml_fixed/ddbj_bioExperiment.fixed.xml) + submission_id별 분리본(xml_fixed/ddbj_experiment_fixed/) + 리포트(xml_fixed/experiment_report.txt) 생성
+
+# [의존성]
+# - xmltodict: XML <-> dict 변환
+# - lxml: (etree import만, 실제 검증은 xmllint로 수행)
+# - xmllint: XSD 검증용 외부 명령(필수, 별도 설치 필요)
+# - 표준 라이브러리: os, sys, argparse, csv, difflib, collections, subprocess 등
+
+xmltodict
+lxml
+
+# [외부 의존성]
+# - xmllint (libxml2-utils 패키지 등으로 설치 필요)
+#   예: sudo apt-get install libxml2-utils

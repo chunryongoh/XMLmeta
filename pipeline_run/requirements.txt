@@ -1,22 +1,50 @@
 # =============================
-# SRA RUN 변환 정책 (2024-06-XX)
+# SRA RUN 파이프라인 설명 (2024-06 최신)
 # =============================
-# [파이프라인 개요]
-# - ddbj_run.xml(실제 제출본)을 SRA.run.xsd 및 실제 예시(kobic-0352.run.xml) 구조에 맞게 자동 변환한다.
-# - 변환 후 XML은 XSD 검증을 통과해야 하며, 모든 구조/값/속성/예외처리가 실제 제출 예시와 100% 일치해야 한다.
-# - main.py의 fix_structure 함수에서 모든 구조/값/속성/예외처리/자동 보정이 구현되어야 한다.
-#
-# [주요 정책 및 자동 보정 규칙]
-# - 빈 값(""), None, 빈 리스트/딕트는 모두 제거한다. (빈 값은 절대 허용하지 않음)
-# - 모든 필수 태그/속성/값은 반드시 포함되어야 하며, 누락 시 자동 추가/보정한다.
-# - <SUBMITTER_ID> 태그에는 반드시 namespace 속성(namespace="KOBIC")이 포함되어야 한다. (누락 시 자동 추가)
-# - DATA_BLOCK 요소가 반드시 존재해야 하며, ddbj_run_file_path.xml의 파일 정보를 DATA_BLOCK에 추가한다.
-# - 불필요한 속성, 허용되지 않은 값, 빈 값 등은 모두 제거한다.
-# - 구조/값/속성/예외처리 정책은 requirements.txt와 main.py에 항상 동기화한다.
-#
-# [예외처리 및 자동 보정 예시]
-# - <SUBMITTER_ID>에 namespace 속성이 없으면 namespace="KOBIC"을 자동 추가한다.
-# - DATA_BLOCK이 없으면 ddbj_run_file_path.xml에서 파일 정보를 읽어와 DATA_BLOCK을 생성/추가한다.
-# - real_examples/difference.run.txt에 정리된 차이점(필수 속성/구조/값 반드시 포함, 실제 예시와 일치)을 반드시 반영한다.
-# - 실제 제출 예시처럼, XSD와 완벽히 일치하는 값/구조/속성만 사용해야 XSD PASS가 가능하다.
-# - 정책/예외처리/자동 보정 로직은 requirements.txt와 main.py에 항상 동기화한다.
+
+# [주요 기능]
+# - ddbj_run.xml, ddbj_run_file_path.xml, KRA_after_20240311_pp_lib.csv를 입력받아
+#   DDBJ/INSDC SRA RUN용 XML을 자동 생성 및 보정
+# - XSD(pub/docs/dra/xsd/1-6/SRA.run.xsd) 및 실제 제출 예시(real_examples/kobic-0352.run.xml)와 100% 호환 구조로 변환
+# - submission_id별로 <RUN_SET>을 분리하여 xml_fixed/ddbj_run_fixed/ 하위에 저장
+# - 전체 보정본(xml_fixed/ddbj_run.fixed.xml) 및 리포트(xml_fixed/run_report.txt) 저장
+# - CSV 인코딩(iso-8859-1), 파일 경로/구조 자동 매핑, 필수 태그/속성 자동 보정
+
+# [입력 파일]
+# 1. xml_submitted/ddbj_run.xml
+#    - <RUN_SET> 루트, 각 RUN의 @accession, EXPERIMENT_REF 등 사용
+# 2. xml_submitted/ddbj_run_file_path.xml
+#    - 각 RUN별 파일 경로 정보(DATA_BLOCK용)
+# 3. xml_submitted/KRA_after_20240311_pp_lib.csv
+#    - (experiment_id, run_id) → submission_id 매핑, 인코딩: iso-8859-1
+
+# [출력 파일]
+# 1. xml_fixed/ddbj_run.fixed.xml
+#    - 전체 보정본(구조/값/속성 자동 보정)
+# 2. xml_fixed/ddbj_run_fixed/{submission_id}.run.xml
+#    - submission_id별 <RUN_SET> 분리 저장
+# 3. xml_fixed/run_report.txt
+#    - 각 파일별 XSD 검증 결과 및 리포트
+
+# [파이프라인 흐름]
+# - XML/CSV 파싱: xmltodict, csv.DictReader 사용
+# - 구조/값/순서/예외처리: fix_structure 함수에서 자동 보정
+#   - 빈 값/None/빈 리스트/딕트 제거
+#   - SUBMITTER_ID: namespace="KOBIC" 속성 자동 추가
+#   - DATA_BLOCK: ddbj_run_file_path.xml에서 파일 정보 자동 생성/추가
+#   - 각 RUN의 TITLE 끝에 (KAR...) 자동 추가
+#   - IDENTIFIERS: UUID 필수, PRIMARY_ID 제거
+#   - 누락/잘못된 값 자동 보정, 불필요한 요소 제거
+# - submission_id별로 RUN_SET 분리 저장 및 XSD 검증/리포트
+# - xmllint로 XSD(pub/docs/dra/xsd/1-6/SRA.run.xsd) 검증
+
+# [실행 예시]
+# python main.py
+# (입력 XML/CSV가 xml_submitted/ 하위에 있어야 함)
+
+# [의존성]
+xmltodict
+lxml
+
+# [외부 의존]
+# - xmllint (XSD 검증용, 시스템에 설치 필요)

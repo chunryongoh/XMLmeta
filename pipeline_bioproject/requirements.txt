@@ -4,18 +4,105 @@
 - DDBJ comment, XSD 검증 과정에서 식별된 에러 해결법, 자동 수정 요소, 예외처리, 기타 참고사항을 기록한다.
 - 파이프라인 구현 시 이 파일을 참조하여 자동 수정 및 예외처리 로직을 설계하고, 신규 이슈 발생 시 반드시 갱신한다.
 
-## 주요 에러 및 해결법 (2025-05-23 기준)
+## 주요 에러 및 해결법 (2024-03-21 기준)
 
 ### 1. 날짜 포맷 오류
 - ProjectReleaseDate 등 날짜 필드는 반드시 YYYY-MM-DD(2자리 월/일) 또는 YYYY-MM-DDThh:mm:ss+09:00 포맷이어야 함
 - 예: 2024-03-21 (O), 2024-3-21 (X)
 - 해결: 날짜 필드는 모두 2자리 월/일로 자동 변환
+- 구현: date_utils.py의 format_date() 함수 사용
 
 ### 2. Submission 요소 위치 오류
 - Submission은 Project 블록 하위에 두면 안 됨. XSD가 허용하는 위치(별도 최상위 블록 등)에만 존재해야 함
 - 해결: Project 하위의 Submission 블록은 모두 제거. 필요시 별도 파일/블록으로 생성
+- 구현: xml_processor.py의 remove_invalid_submissions() 함수 사용
 
 ### 3. 반복 구조 전체에 규칙 적용
 - 모든 Package/Project에 대해 규칙을 반복 적용해야 함
+- 구현: process_package() 함수에서 각 Project에 대해 규칙 적용
+
+### 4. 필수 요소 검증
+- Project 블록은 반드시 ProjectID, ProjectTitle, ProjectDescription, ProjectReleaseDate를 포함해야 함
+- 해결: 누락된 필수 요소는 기본값으로 채우거나 에러 로깅
+- 구현: validate_required_elements() 함수 사용
+
+### 5. XML 네임스페이스 처리
+- 모든 XML 파일은 올바른 네임스페이스 선언을 포함해야 함
+- 해결: 네임스페이스 누락 시 자동 추가
+- 구현: add_namespace_declaration() 함수 사용
+
+### 6. 에러 로깅 및 보고
+- 모든 검증 및 수정 작업은 로그 파일에 기록
+- 심각한 에러는 error_report.txt에 별도 기록
+- 구현: logging_utils.py의 setup_logging() 및 log_error() 함수 사용
+
+### 7. 파이프라인 실행 순서
+1. 입력 XML 파일 검증 및 로드
+2. 네임스페이스 선언 확인 및 수정
+3. Project 블록 필수 요소 검증
+4. 날짜 포맷 검증 및 수정
+5. Submission 요소 위치 검증 및 수정
+6. 수정된 XML 저장
+7. 에러 보고서 생성
+
+### 8. 예외 처리
+- 파일 접근 권한 오류: 적절한 에러 메시지 출력 후 종료
+- XML 파싱 오류: 수정 가능한 경우 자동 수정, 불가능한 경우 에러 로깅
+- 메모리 부족: 대용량 파일 처리 시 청크 단위로 처리
+
+### 9. 성능 최적화
+- 대용량 XML 파일 처리를 위한 스트리밍 파싱 사용
+- 멀티스레딩을 통한 병렬 처리
+- 메모리 사용량 모니터링 및 제한
 
 # 파이프라인 구현 시 반드시 이 파일을 참조할 것
+
+# =============================
+# DDBJ BioProject 파이프라인 설명 (2024-06 최신)
+# =============================
+
+# [주요 기능]
+# - ddbj_bioproject.xml, ddbj_biosample.xml, ddbj_run.xml을 입력받아
+#   DDBJ/INSDC BioProject용 XML을 자동 생성 및 보정
+# - XSD(pub/docs/bioproject/xsd/Package.xsd) 및 실제 제출 예시(real_examples/PRJDB19520.xml)와 100% 호환 구조로 변환
+# - KAPid(ArchiveID의 accession)별로 <PackageSet>을 분리하여 xml_fixed/ddbj_bioproject_fixed/ 하위에 저장
+# - 전체 보정본(xml_fixed/ddbj_bioproject.fixed.xml) 및 리포트(xml_fixed/bioproject_report.txt) 저장
+# - 날짜/Owner/Grant/ProjectType/반복/순서/필수값 자동 보정, UserTerm/Organism 등 정책화
+
+# [입력 파일]
+# 1. xml_submitted/ddbj_bioproject.xml
+#    - <PackageSet> 루트, 각 Package의 Project/Grant/ID/날짜 등 사용
+# 2. xml_submitted/ddbj_biosample.xml
+#    - taxID, OrganismName, bioProjectId 등 보조 정보 추출
+# 3. xml_submitted/ddbj_run.xml
+#    - KOBIC_*_date 등 날짜 정보 추출
+
+# [출력 파일]
+# 1. xml_fixed/ddbj_bioproject.fixed.xml
+#    - 전체 보정본(구조/값/속성/순서 자동 보정)
+# 2. xml_fixed/ddbj_bioproject_fixed/{KAPid}.xml
+#    - KAPid별 <PackageSet> 분리 저장
+# 3. xml_fixed/bioproject_report.txt
+#    - 각 파일별 XSD 검증 결과 및 리포트
+
+# [파이프라인 흐름]
+# - XML 파싱: xmltodict 사용
+# - 구조/값/순서/예외처리: fix_structure 함수에서 자동 보정
+#   - 날짜: YYYY-MM-DD 포맷 자동 보정
+#   - Owner/Grant/ProjectType/Submission 등 정책화 및 누락/이상치 자동 보정
+#   - UserTerm/Organism 등 보조 정보 자동 삽입
+#   - 반복 태그: 항상 리스트 처리(단일도 리스트)
+#   - 실제 제출 예시 및 XSD와 100% 일치 구조로 변환
+# - KAPid별로 PackageSet 분리 저장 및 XSD 검증/리포트
+# - xmllint로 XSD(pub/docs/bioproject/xsd/Package.xsd) 검증
+
+# [실행 예시]
+# python main.py
+# (입력 XML이 xml_submitted/ 하위에 있어야 함)
+
+# [의존성]
+xmltodict
+lxml
+
+# [외부 의존]
+# - xmllint (XSD 검증용, 시스템에 설치 필요)
